@@ -1,0 +1,212 @@
+/* Ancient Scripture Form Styles */
+.ancient-scripture-form {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background-color: #d8c9a8;
+  background-image: url('https://www.transparenttextures.com/patterns/old-paper.png');
+  padding: 2rem;
+  font-family: 'Times New Roman', serif;
+}
+
+.parchment-scroll {
+  position: relative;
+  width: 90%;
+  max-width: 900px;
+  min-height: 80vh;
+  background-color: #f5e7c1;
+  background-image: linear-gradient(to bottom,
+      rgba(0, 0, 0, 0.1) 0%,
+      transparent 5%,
+      transparent 95%,
+      rgba(0, 0, 0, 0.1) 100%),
+    url('https://www.transparenttextures.com/patterns/rice-paper.png');
+  padding: 3rem 4rem;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+  border-radius: 2px;
+  border-left: 15px solid #c9b17a;
+  border-right: 15px solid #c9b17a;
+}
+
+.scroll-top-decoration,
+.scroll-bottom-decoration {
+  position: absolute;
+  left: 0;
+  right: 0;
+  height: 50px;
+  background-color: #a58c5e;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.scroll-top-decoration {
+  top: 0;
+  border-bottom: 2px solid #8a7246;
+}
+
+.scroll-bottom-decoration {
+  bottom: 0;
+  border-top: 2px solid #8a7246;
+}
+
+.scroll-icon {
+  color: #f5e7c1;
+  font-size: 1.5rem;
+}
+
+.ancient-header {
+  text-align: center;
+  margin-bottom: 2rem;
+  color: #3a2c0e;
+}
+
+.ancient-header h1 {
+  font-family: 'Palatino Linotype', 'Book Antiqua', serif;
+  font-size: 2.5rem;
+  margin-bottom: 0.5rem;
+  color: #3a2c0e;
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.2);
+}
+
+.illuminated-text {
+  font-style: italic;
+  color: #5a4a21;
+  font-size: 1.1rem;
+}
+
+.divider-line {
+  height: 2px;
+  background: linear-gradient(to right,
+      transparent,
+      #8a7246,
+      transparent);
+  margin: 1.5rem auto;
+  width: 70%;
+}
+
+.ancient-form {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+.form-group {
+  position: relative;
+}
+
+.quill-label {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-weight: bold;
+  color: #5a4a21;
+  margin-bottom: 0.5rem;
+}
+
+.required-symbol {
+  color: #a52a2a;
+}
+
+.ancient-input,
+.ancient-select,
+.ancient-textarea {
+  width: 100%;
+  padding: 0.8rem 1rem;
+  background-color: rgba(255, 255, 255, 0.7);
+  border: 1px solid #c9b17a;
+  border-radius: 3px;
+  font-family: 'Times New Roman', serif;
+  font-size: 1rem;
+  color: #3a2c0e;
+  box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+.ancient-input:focus,
+.ancient-select:focus,
+.ancient-textarea:focus {
+  outline: none;
+  border-color: #8a7246;
+  background-color: rgba(255, 255, 255, 0.9);
+}
+
+.ancient-textarea {
+  resize: vertical;
+  min-height: 120px;
+}
+
+.ancient-columns {
+  display: flex;
+  gap: 1.5rem;
+}
+
+.ancient-columns>* {
+  flex: 1;
+}
+
+.scribe-button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.8rem;
+  padding: 1rem 2rem;
+  background: linear-gradient(to bottom, #8a7246, #6b5a3a);
+  color: #f5e7c1;
+  border: none;
+  border-radius: 4px;
+  font-family: 'Palatino Linotype', 'Book Antiqua', serif;
+  font-size: 1.1rem;
+  cursor: pointer;
+  transition: all 0.3s;
+  margin-top: 1rem;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16);
+}
+
+.scribe-button:hover {
+  background: linear-gradient(to bottom, #9d8350, #7b6742);
+  transform: translateY(-2px);
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+}
+
+.scribe-button:active {
+  transform: translateY(0);
+}
+
+.ancient-error {
+  display: block;
+  color: #a52a2a;
+  font-size: 0.9rem;
+  margin-top: 0.3rem;
+  font-style: italic;
+}
+
+.form-group.invalid .ancient-input,
+.form-group.invalid .ancient-select {
+  border-color: #a52a2a;
+  background-color: rgba(255, 230, 230, 0.7);
+}
+
+.ancient-seal {
+  color: #f5e7c1;
+  font-family: 'Palatino Linotype', 'Book Antiqua', serif;
+  font-style: italic;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .parchment-scroll {
+    padding: 2rem 1.5rem;
+    border-left: 8px solid #c9b17a;
+    border-right: 8px solid #c9b17a;
+  }
+
+  .ancient-header h1 {
+    font-size: 2rem;
+  }
+
+  .ancient-columns {
+    flex-direction: column;
+    gap: 1rem;
+  }
+}

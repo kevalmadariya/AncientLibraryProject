@@ -1,0 +1,37 @@
+/* src/components/ErrorPopup.css */
+.error-popup-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.3);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 999;
+}
+
+.error-popup {
+  background-color: #fbfbfa;
+  border: 1px solid #702b2c;
+  padding: 20px;
+  border-radius: 10px;
+  color: #d33636;
+  position: relative;
+  max-width: 400px;
+  width: 80%;
+  text-align: center;
+  font-weight: bold;
+}
+
+.close-btn {
+  position: absolute;
+  top: 5px;
+  right: 10px;
+  border: none;
+  background: none;
+  font-size: 20px;
+  cursor: pointer;
+  color: #b30000;
+}

@@ -1,0 +1,325 @@
+/* Ancient Scripture Book Styles */
+.ancient-scripture-book {
+    display: flex;
+    width: 420px;
+    margin: 20px;
+    perspective: 1200px;
+    font-family: 'Times New Roman', serif;
+}
+
+/* Parchment Cover */
+.parchment-cover {
+    position: relative;
+    width: 180px;
+    height: 260px;
+    transform-style: preserve-3d;
+    transition: transform 0.6s ease;
+}
+
+.ancient-scripture-book:hover .parchment-cover {
+    transform: rotateY(-12deg) rotateX(2deg);
+}
+
+.scroll-binding {
+    position: absolute;
+    width: 25px;
+    height: 100%;
+    background: linear-gradient(to right, #8a7246, #c9b17a, #8a7246);
+    transform: rotateY(90deg) translateZ(-12px);
+    box-shadow: inset -8px 0 20px rgba(0, 0, 0, 0.4);
+    border-top: 3px solid #6b5a3a;
+    border-bottom: 3px solid #6b5a3a;
+}
+
+.ancient-cover-front {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-color: #f5e7c1;
+    background-image:
+        linear-gradient(to bottom, rgba(0, 0, 0, 0.05) 0%, transparent 10%, transparent 90%, rgba(0, 0, 0, 0.05) 100%),
+        url('https://www.transparenttextures.com/patterns/rice-paper.png');
+    transform: translateZ(12px);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 8px 8px 20px rgba(0, 0, 0, 0.3);
+    border: 3px solid #c9b17a;
+    border-right: 4px solid #8a7246;
+    overflow: hidden;
+    position: relative;
+}
+
+.ancient-cover-front::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-image:
+        radial-gradient(circle at 20% 20%, rgba(139, 114, 70, 0.1) 0%, transparent 50%),
+        radial-gradient(circle at 80% 80%, rgba(139, 114, 70, 0.1) 0%, transparent 50%);
+    pointer-events: none;
+}
+
+.illuminated-border {
+    width: 85%;
+    height: 85%;
+    border: 2px solid #8a7246;
+    border-radius: 4px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(45deg,
+            rgba(245, 231, 193, 0.8) 0%,
+            rgba(201, 177, 122, 0.3) 50%,
+            rgba(245, 231, 193, 0.8) 100%);
+    box-shadow: inset 0 0 10px rgba(139, 114, 70, 0.2);
+}
+
+.manuscript-title {
+    text-align: center;
+    color: #3a2c0e;
+    font-size: 1.4rem;
+    font-weight: bold;
+    font-family: 'Palatino Linotype', 'Book Antiqua', serif;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.2);
+    padding: 15px 10px;
+    line-height: 1.3;
+}
+
+.title-line {
+    display: block;
+    margin: 2px 0;
+}
+
+.golden-ornament {
+    margin-top: 15px;
+    padding: 8px;
+    background: radial-gradient(circle, #c9b17a, #8a7246);
+    border-radius: 50%;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
+}
+
+.scroll-decoration {
+    color: #f5e7c1;
+    font-size: 1.2rem;
+}
+
+/* Manuscript Details Panel */
+.manuscript-details {
+    flex: 1;
+    background-color: #f5e7c1;
+    background-image:
+        linear-gradient(to bottom, rgba(0, 0, 0, 0.03) 0%, transparent 5%, transparent 95%, rgba(0, 0, 0, 0.03) 100%),
+        url('https://www.transparenttextures.com/patterns/rice-paper.png');
+    border: 2px solid #c9b17a;
+    border-left: none;
+    border-radius: 0 6px 6px 0;
+    box-shadow: 6px 6px 15px rgba(0, 0, 0, 0.2);
+    position: relative;
+}
+
+.manuscript-details::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    width: 6px;
+    background: linear-gradient(to bottom, #8a7246, #c9b17a, #8a7246);
+    border-right: 1px solid #6b5a3a;
+}
+
+.parchment-content {
+    padding: 25px 22px;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.sacred-description {
+    font-style: italic;
+    margin-bottom: 18px;
+    color: #5a4a21;
+    font-size: 1rem;
+    line-height: 1.5;
+    text-align: justify;
+}
+
+.scribe-info {
+    margin-bottom: 20px;
+}
+
+.scribe-info p {
+    margin: 10px 0;
+    color: #3a2c0e;
+    font-size: 0.95rem;
+    display: flex;
+    align-items: center;
+}
+
+.ancient-icon {
+    color: #8a7246;
+    margin-right: 10px;
+    width: 16px;
+    text-align: center;
+}
+
+.info-label {
+    font-weight: bold;
+    margin-right: 8px;
+    color: #5a4a21;
+}
+
+.sacred-metrics {
+    display: flex;
+    gap: 15px;
+    margin: 20px 0;
+    flex-wrap: wrap;
+}
+
+.metric-scroll {
+    background-color: rgba(201, 177, 122, 0.3);
+    background-image: url('https://www.transparenttextures.com/patterns/old-paper.png');
+    padding: 12px 16px;
+    border-radius: 4px;
+    font-size: 0.9rem;
+    border: 1px solid #c9b17a;
+    box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    min-width: 80px;
+}
+
+.metric-scroll strong {
+    display: block;
+    color: #3a2c0e;
+    font-size: 1.3rem;
+    font-family: 'Palatino Linotype', 'Book Antiqua', serif;
+}
+
+.metric-label {
+    color: #5a4a21;
+    font-size: 0.8rem;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
+/* Ancient Read Button */
+.ancient-read-btn {
+    background: linear-gradient(to bottom, #8a7246, #6b5a3a);
+    color: #f5e7c1;
+    border: none;
+    padding: 12px 20px;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    font-size: 1rem;
+    font-family: 'Palatino Linotype', 'Book Antiqua', serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    width: 100%;
+    box-shadow: 0 3px 8px rgba(0, 0, 0, 0.2);
+    border: 1px solid #5a4a21;
+}
+
+.ancient-read-btn:hover {
+    background: linear-gradient(to bottom, #9d8350, #7b6742);
+    transform: translateY(-2px);
+    box-shadow: 0 5px 12px rgba(0, 0, 0, 0.3);
+}
+
+.ancient-read-btn:active {
+    transform: translateY(0);
+}
+
+.read-icon {
+    color: #f5e7c1;
+    font-size: 1.1rem;
+}
+
+/* Fixed Button - Ancient Theme */
+.fixed-btn {
+    position: fixed;
+    top: 80px;
+    right: 20px;
+    background: linear-gradient(to bottom, #8a7246, #6b5a3a);
+    color: #f5e7c1;
+    border: 2px solid #c9b17a;
+    border-radius: 6px;
+    padding: 12px 18px;
+    font-weight: bold;
+    font-family: 'Palatino Linotype', 'Book Antiqua', serif;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    z-index: 1000;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    transition: all 0.3s ease;
+}
+
+.fixed-btn:hover {
+    background: linear-gradient(to bottom, #9d8350, #7b6742);
+    transform: translateY(-2px);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3);
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .ancient-scripture-book {
+        flex-direction: column;
+        width: 320px;
+        align-items: center;
+    }
+
+    .parchment-cover {
+        width: 100%;
+        height: 200px;
+        margin-bottom: -15px;
+    }
+
+    .manuscript-details {
+        width: 100%;
+        border-radius: 0 0 6px 6px;
+        border-left: 2px solid #c9b17a;
+    }
+
+    .manuscript-details::before {
+        display: none;
+    }
+
+    .sacred-metrics {
+        justify-content: center;
+    }
+
+    .parchment-content {
+        padding: 20px 18px;
+    }
+}
+
+@media (max-width: 480px) {
+    .ancient-scripture-book {
+        width: 280px;
+    }
+
+    .manuscript-title {
+        font-size: 1.2rem;
+        padding: 12px 8px;
+    }
+
+    .sacred-metrics {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .metric-scroll {
+        min-width: 120px;
+    }
+}

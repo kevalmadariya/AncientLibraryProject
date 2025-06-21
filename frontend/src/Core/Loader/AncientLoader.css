@@ -1,0 +1,18 @@
+.ancient-scroll-spinner {
+    animation: rotate 2s linear infinite;
+    font-size: 5rem; /* Made icon bigger */
+    color: goldenrod;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+@keyframes rotate {
+    from {
+        transform: rotate(0deg);
+    }
+
+    to {
+        transform: rotate(360deg);
+    }
+}

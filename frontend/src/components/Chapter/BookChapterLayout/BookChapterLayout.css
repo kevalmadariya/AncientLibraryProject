@@ -1,0 +1,32 @@
+/* Ancient Library Layout */
+.ancient-library-layout {
+    display: flex;
+    min-height: 100vh;
+    background-color: #d8c9a8;
+    background-image: url('https://www.transparenttextures.com/patterns/old-paper.png');
+    font-family: 'Times New Roman', serif;
+}
+
+/* Library Sections */
+.library-section {
+    position: relative;
+}
+
+.book-section {
+    width: 500px;
+    min-width: 500px;
+    background-color: #f5e7c1;
+    background-image: 
+        linear-gradient(to right, rgba(0, 0, 0, 0.05) 0%, transparent 10%, transparent 90%, rgba(0, 0, 0, 0.05) 100%),
+        url('https://www.transparenttextures.com/patterns/rice-paper.png');
+    border-right: 4px solid #c9b17a;
+    box-shadow: 4px 0 15px rgba(0, 0, 0, 0.1);
+    display: flex;
+    flex-direction: column;
+}
+
+.chapters-section {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+}

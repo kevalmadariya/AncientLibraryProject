@@ -1,0 +1,134 @@
+.modal-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(30, 27, 12, 0.5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 999;
+}
+
+.modal {
+    width: 100%;
+    max-width: 22rem;
+    background-color: #FAF1DD;
+    border-radius: 0.5rem;
+    box-shadow: 0 0 12px rgba(0, 0, 0, 0.1);
+    position: relative;
+    border: 1px solid transparent;
+    padding-bottom: 1rem;
+}
+
+.close-btn {
+    position: absolute;
+    top: 0.75rem;
+    right: 0.75rem;
+    color: #7A6E4F;
+    font-size: 1.25rem;
+    background: none;
+    border: none;
+    cursor: pointer;
+}
+
+.modal-title {
+    color: #1E1B0C;
+    font-weight: 800;
+    font-size: 1.125rem;
+    text-align: center;
+    padding-top: 1.5rem;
+    padding-bottom: 1rem;
+}
+
+.tab-buttons {
+    display: flex;
+    margin: 0 1rem 1rem;
+    background-color: #E6DDC4;
+    font-weight: 500;
+    font-size: 0.875rem;
+    color: #7A6E4F;
+    border-radius: 0.375rem;
+    overflow: hidden;
+}
+
+.tab {
+    flex: 1;
+    padding: 0.5rem 0;
+    border: none;
+    background: none;
+    cursor: pointer;
+}
+
+.tab.active {
+    text-align: center;
+    background-color: #A07C1B;
+    border: #a49441 2px solid;
+    color: #1E1B0C;
+}
+
+.login-form {
+    margin: 0 1rem;
+    border: 1px solid #A07C1B;
+    border-radius: 0.375rem;
+    padding: 1rem;
+    display: flex;
+    flex-direction: column;
+}
+
+.login-form label {
+    color: #4B3B00;
+    font-size: 0.875rem;
+    margin-bottom: 0.25rem;
+}
+
+.login-form input {
+    margin-bottom: 1rem;
+    padding: 0.5rem 0.75rem;
+    border: 1px solid #E6DDC4;
+    border-radius: 0.375rem;
+    background-color: #FAF1DD;
+    color: #7A6E4F;
+    font-size: 0.875rem;
+}
+
+.login-form input::placeholder {
+    color: #B9A96B;
+}
+
+.login-form input:focus {
+    outline: none;
+    box-shadow: 0 0 0 2px #A07C1B;
+}
+
+.login-form button[type="submit"] {
+    background-color: #A07C1B;
+    color: white;
+    font-weight: 600;
+    border: none;
+    border-radius: 0.375rem;
+    padding: 0.5rem;
+    cursor: pointer;
+    transition: background-color 0.2s ease;
+}
+
+.login-form button[type="submit"]:hover {
+    background-color: #8a6713;
+}
+
+.forgot {
+    margin-top: 1rem;
+    text-align: center;
+    font-size: 0.875rem;
+    color: #7A6E4F;
+}
+
+.reset-link {
+    color: #A07C1B;
+    text-decoration: none;
+}
+
+.reset-link:hover {
+    text-decoration: underline;
+}

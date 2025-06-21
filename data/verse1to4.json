@@ -1,0 +1,3714 @@
+[{
+  "_id": {
+    "$oid": "684d5eec0886faf1b851a6d4"
+  },
+  "chapter_id": {
+    "$oid": "684d5d750886faf1b851a6c0"
+  },
+  "verse_no": 1,
+  "sanskrit_script": "धृतराष्ट्र उवाच\\nधर्मक्षेत्रे कुरुक्षेत्रे समवेता युयुत्सवः।\\nमामकाः पाण्डवाश्चैव किमकुर्वत सञ्जय।।1.1।।",
+  "english_translation": "Dhritarashtra said: O Sanjaya, what did my sons and the sons of Pandu do when they had assembled at Kurukshetra, eager for battle?",
+  "keywords": [],
+  "who_tell": "Dhritarashtra",
+  "whome_to_tell": "Sanjaya",
+  "createdAt": {
+    "$date": "2025-06-14T11:37:16.615Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5eec0886faf1b851a6d6"
+  },
+  "chapter_id": {
+    "$oid": "684d5d750886faf1b851a6c0"
+  },
+  "verse_no": 2,
+  "sanskrit_script": "सञ्जय उवाच\\nदृष्ट्वा तु पाण्डवानीकं व्यूढं दुर्योधनस्तदा।\\nआचार्यमुपसङ्गम्य राजा वचनमब्रवीत्।।1.2।।",
+  "english_translation": "Sanjaya said: O King, after looking over the army of the Pandavas, Duryodhana approached his teacher (Drona) and spoke these words.",
+  "keywords": [],
+  "who_tell": "Sanjaya",
+  "whome_to_tell": "Dhritarashtra",
+  "createdAt": {
+    "$date": "2025-06-14T11:37:16.621Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5eec0886faf1b851a6d8"
+  },
+  "chapter_id": {
+    "$oid": "684d5d750886faf1b851a6c0"
+  },
+  "verse_no": 3,
+  "sanskrit_script": "पश्यैतां पाण्डुपुत्राणामाचार्य महतीं चमूम्।\\nव्यूढां द्रुपदपुत्रेण तव शिष्येण धीमता।।1.3।।",
+  "english_translation": "Behold, O Teacher, this mighty army of the sons of Pandu, arrayed by the son of Drupada, your wise disciple.",
+  "keywords": [],
+  "who_tell": "Duryodhana",
+  "whome_to_tell": "Dronacharya",
+  "createdAt": {
+    "$date": "2025-06-14T11:37:16.649Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5eec0886faf1b851a6da"
+  },
+  "chapter_id": {
+    "$oid": "684d5d750886faf1b851a6c0"
+  },
+  "verse_no": 4,
+  "sanskrit_script": "अत्र शूरा महेष्वासा भीमार्जुनसमा युधि।\\nयुयुधानो विराटश्च द्रुपदश्च महारथः।।1.4।।",
+  "english_translation": "Here are heroes, mighty archers, equal in battle to Bhima and Arjuna—Yuyudhana, Virata, and Drupada, the great warrior.",
+  "keywords": [],
+  "who_tell": "Duryodhana",
+  "whome_to_tell": "Dronacharya",
+  "createdAt": {
+    "$date": "2025-06-14T11:37:16.695Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5eec0886faf1b851a6dc"
+  },
+  "chapter_id": {
+    "$oid": "684d5d750886faf1b851a6c0"
+  },
+  "verse_no": 5,
+  "sanskrit_script": "धृष्टकेतुश्चेकितानः काशिराजश्च वीर्यवान्।\\nपुरुजित्कुन्तिभोजश्च शैब्यश्च नरपुङ्गवः।।1.5।।",
+  "english_translation": "Dhrishtaketu, Chekitana, the valiant king of Kashi, Purujit, Kuntibhoja, and Shaibya—the best of men.",
+  "keywords": [],
+  "who_tell": "Duryodhana",
+  "whome_to_tell": "Dronacharya",
+  "createdAt": {
+    "$date": "2025-06-14T11:37:16.730Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5eec0886faf1b851a6de"
+  },
+  "chapter_id": {
+    "$oid": "684d5d750886faf1b851a6c0"
+  },
+  "verse_no": 6,
+  "sanskrit_script": "युधामन्युश्च विक्रान्त उत्तमौजाश्च वीर्यवान्।\\nसौभद्रो द्रौपदेयाश्च सर्व एव महारथाः।।1.6।।",
+  "english_translation": "The mighty Yudhamanyu, the brave Uttamaujas, the son of Subhadra (Abhimanyu), and the sons of Draupadi—all great chariot warriors.",
+  "keywords": [],
+  "who_tell": "Duryodhana",
+  "whome_to_tell": "Dronacharya",
+  "createdAt": {
+    "$date": "2025-06-14T11:37:16.783Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5eec0886faf1b851a6e0"
+  },
+  "chapter_id": {
+    "$oid": "684d5d750886faf1b851a6c0"
+  },
+  "verse_no": 7,
+  "sanskrit_script": "अस्माकं तु विशिष्टा ये तान्निबोध द्विजोत्तम।\\nनायका मम सैन्यस्य संज्ञार्थं तान्ब्रवीमि ते।।1.7।।",
+  "english_translation": "But know, O best of Brahmins, the leaders of my army: I name them for your recognition.",
+  "keywords": [],
+  "who_tell": "Duryodhana",
+  "whome_to_tell": "Dronacharya",
+  "createdAt": {
+    "$date": "2025-06-14T11:37:16.851Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5eec0886faf1b851a6e2"
+  },
+  "chapter_id": {
+    "$oid": "684d5d750886faf1b851a6c0"
+  },
+  "verse_no": 8,
+  "sanskrit_script": "भवान्भीष्मश्च कर्णश्च कृपश्च समितिञ्जयः।\\nअश्वत्थामा विकर्णश्च सौमदत्तिस्तथैव च।।1.8।।",
+  "english_translation": "Yourself, Bhishma, Karna, Kripa (the victorious), Ashwatthama, Vikarna, and the son of Somadatta.",
+  "keywords": [],
+  "who_tell": "Duryodhana",
+  "whome_to_tell": "Dronacharya",
+  "createdAt": {
+    "$date": "2025-06-14T11:37:16.885Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5eec0886faf1b851a6e4"
+  },
+  "chapter_id": {
+    "$oid": "684d5d750886faf1b851a6c0"
+  },
+  "verse_no": 9,
+  "sanskrit_script": "अन्ये च बहवः शूरा मदर्थे त्यक्तजीविताः।\\nनानाशस्त्रप्रहरणाः सर्वे युद्धविशारदाः।।1.9।।",
+  "english_translation": "And many other heroes who have risked their lives for me, wielding various weapons, all skilled in battle.",
+  "keywords": [],
+  "who_tell": "Duryodhana",
+  "whome_to_tell": "Dronacharya",
+  "createdAt": {
+    "$date": "2025-06-14T11:37:16.927Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5eec0886faf1b851a6e6"
+  },
+  "chapter_id": {
+    "$oid": "684d5d750886faf1b851a6c0"
+  },
+  "verse_no": 10,
+  "sanskrit_script": "अपर्याप्तं तदस्माकं बलं भीष्माभिरक्षितम्।\\nपर्याप्तं त्विदमेतेषां बलं भीमाभिरक्षितम्।।1.10।।",
+  "english_translation": "Our army, protected by Bhishma, is unlimited; but theirs, guarded by Bhima, is limited.",
+  "keywords": [],
+  "who_tell": "Duryodhana",
+  "whome_to_tell": "Dronacharya",
+  "createdAt": {
+    "$date": "2025-06-14T11:37:16.970Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5eed0886faf1b851a6e8"
+  },
+  "chapter_id": {
+    "$oid": "684d5d750886faf1b851a6c0"
+  },
+  "verse_no": 11,
+  "sanskrit_script": "अयनेषु च सर्वेषु यथाभागमवस्थिताः।\\nभीष्ममेवाभिरक्षन्तु भवन्तः सर्व एव हि।।1.11।।",
+  "english_translation": "Now, all of you, stationed in your respective positions, protect Bhishma alone.",
+  "keywords": [],
+  "who_tell": "Duryodhana",
+  "whome_to_tell": "Dronacharya",
+  "createdAt": {
+    "$date": "2025-06-14T11:37:17.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5eed0886faf1b851a6ea"
+  },
+  "chapter_id": {
+    "$oid": "684d5d750886faf1b851a6c0"
+  },
+  "verse_no": 12,
+  "sanskrit_script": "तस्य सञ्जनयन्हर्षं कुरुवृद्धः पितामहः।\\nसिंहनादं विनद्योच्चैः शङ्खं दध्मौ प्रतापवान्।।1.12।।",
+  "english_translation": "To cheer him, the eldest Kuru (Bhishma), roared like a lion and blew his conch loudly.",
+  "keywords": [],
+  "who_tell": "Sanjaya",
+  "whome_to_tell": "Dhritarashtra",
+  "createdAt": {
+    "$date": "2025-06-14T11:37:17.028Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5eed0886faf1b851a6ec"
+  },
+  "chapter_id": {
+    "$oid": "684d5d750886faf1b851a6c0"
+  },
+  "verse_no": 13,
+  "sanskrit_script": "ततः शङ्खाश्च भेर्यश्च पणवानकगोमुखाः।\\nसहसैवाभ्यहन्यन्त स शब्दस्तुमुलोऽभवत्।।1.13।।",
+  "english_translation": "Then conches, kettledrums, trumpets, and cow-horns blared forth suddenly, creating a tumultuous sound.",
+  "keywords": [],
+  "who_tell": "Sanjaya",
+  "whome_to_tell": "Dhritarashtra",
+  "createdAt": {
+    "$date": "2025-06-14T11:37:17.049Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5eed0886faf1b851a6ee"
+  },
+  "chapter_id": {
+    "$oid": "684d5d750886faf1b851a6c0"
+  },
+  "verse_no": 14,
+  "sanskrit_script": "ततः श्वेतैर्हयैर्युक्ते महति स्यन्दने स्थितौ।\\nमाधवः पाण्डवश्चैव दिव्यौ शङ्खौ प्रदध्मतुः।।1.14।।",
+  "english_translation": "Then, seated in their magnificent chariot yoked with white horses, Krishna and Arjuna blew their divine conches.",
+  "keywords": [],
+  "who_tell": "Sanjaya",
+  "whome_to_tell": "Dhritarashtra",
+  "createdAt": {
+    "$date": "2025-06-14T11:37:17.082Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5eed0886faf1b851a6f0"
+  },
+  "chapter_id": {
+    "$oid": "684d5d750886faf1b851a6c0"
+  },
+  "verse_no": 15,
+  "sanskrit_script": "पाञ्चजन्यं हृषीकेशो देवदत्तं धनञ्जयः।\\nपौण्ड्रं दध्मौ महाशङ्खं भीमकर्मा वृकोदरः।।1.15।।",
+  "english_translation": "Krishna blew the Panchajanya, Arjuna the Devadatta, and Bhima (the voracious eater) blew the mighty Paundra.",
+  "keywords": [],
+  "who_tell": "Sanjaya",
+  "whome_to_tell": "Dhritarashtra",
+  "createdAt": {
+    "$date": "2025-06-14T11:37:17.117Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5eed0886faf1b851a6f2"
+  },
+  "chapter_id": {
+    "$oid": "684d5d750886faf1b851a6c0"
+  },
+  "verse_no": 16,
+  "sanskrit_script": "अनन्तविजयं राजा कुन्तीपुत्रो युधिष्ठिरः।\\nनकुलः सहदेवश्च सुघोषमणिपुष्पकौ।।1.16।।",
+  "english_translation": "King Yudhishthira blew the Anantavijaya; Nakula and Sahadeva blew the Sughosha and Manipushpaka.",
+  "keywords": [],
+  "who_tell": "Sanjaya",
+  "whome_to_tell": "Dhritarashtra",
+  "createdAt": {
+    "$date": "2025-06-14T11:37:17.167Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5eed0886faf1b851a6f4"
+  },
+  "chapter_id": {
+    "$oid": "684d5d750886faf1b851a6c0"
+  },
+  "verse_no": 17,
+  "sanskrit_script": "काश्यश्च परमेष्वासः शिखण्डी च महारथः।\\nधृष्टद्युम्नो विराटश्च सात्यकिश्चापराजितः।।1.17।।",
+  "english_translation": "The king of Kashi, the great archer Shikhandi, Dhrishtadyumna, Virata, and the unconquered Satyaki.",
+  "keywords": [],
+  "who_tell": "Sanjaya",
+  "whome_to_tell": "Dhritarashtra",
+  "createdAt": {
+    "$date": "2025-06-14T11:37:17.226Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5eed0886faf1b851a6f6"
+  },
+  "chapter_id": {
+    "$oid": "684d5d750886faf1b851a6c0"
+  },
+  "verse_no": 18,
+  "sanskrit_script": "द्रुपदो द्रौपदेयाश्च सर्वशः पृथिवीपते।\\nसौभद्रश्च महाबाहुः शङ्खान्दध्मुः पृथक्पृथक्।।1.18।।",
+  "english_translation": "Drupada, the sons of Draupadi, and the mighty Abhimanyu blew their conches separately, O King.",
+  "keywords": [],
+  "who_tell": "Sanjaya",
+  "whome_to_tell": "Dhritarashtra",
+  "createdAt": {
+    "$date": "2025-06-14T11:37:17.284Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5eed0886faf1b851a6f8"
+  },
+  "chapter_id": {
+    "$oid": "684d5d750886faf1b851a6c0"
+  },
+  "verse_no": 19,
+  "sanskrit_script": "स घोषो धार्तराष्ट्राणां हृदयानि व्यदारयत्।\\nनभश्च पृथिवीं चैव तुमुलोऽभ्यनुनादयन्।।1.19।।",
+  "english_translation": "That terrible sound shattered the hearts of Dhritarashtra’s sons and shook heaven and earth.",
+  "keywords": [],
+  "who_tell": "Sanjaya",
+  "whome_to_tell": "Dhritarashtra",
+  "createdAt": {
+    "$date": "2025-06-14T11:37:17.332Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5eed0886faf1b851a6fa"
+  },
+  "chapter_id": {
+    "$oid": "684d5d750886faf1b851a6c0"
+  },
+  "verse_no": 20,
+  "sanskrit_script": "अथ व्यवस्थितान्दृष्ट्वा धार्तराष्ट्रान् कपिध्वजः।\\nप्रवृत्ते शस्त्रसम्पाते धनुरुद्यम्य पाण्डवः।।1.20।।",
+  "english_translation": "Then, seeing Dhritarashtra’s sons arrayed, Arjuna (the Pandava), whose banner bore Hanuman, took up his bow.",
+  "keywords": [],
+  "who_tell": "Sanjaya",
+  "whome_to_tell": "Dhritarashtra",
+  "createdAt": {
+    "$date": "2025-06-14T11:37:17.389Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5eed0886faf1b851a6fc"
+  },
+  "chapter_id": {
+    "$oid": "684d5d750886faf1b851a6c0"
+  },
+  "verse_no": 21,
+  "sanskrit_script": "हृषीकेशं तदा वाक्यमिदमाह महीपते।\\nअर्जुन उवाच\\nसेनयोरुभयोर्मध्ये रथं स्थापय मेऽच्युत।।1.21।।",
+  "english_translation": "O Lord, place my chariot between the two armies so I may see those who stand ready for battle.",
+  "keywords": [],
+  "who_tell": "Arjuna",
+  "whome_to_tell": "Krishna",
+  "createdAt": {
+    "$date": "2025-06-14T11:37:17.466Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5eed0886faf1b851a6fe"
+  },
+  "chapter_id": {
+    "$oid": "684d5d750886faf1b851a6c0"
+  },
+  "verse_no": 22,
+  "sanskrit_script": "यावदेतान्निरीक्षेऽहं योद्धुकामानवस्थितान्।\\nकैर्मया सह योद्धव्यमस्मिन्रणसमुद्यमे।।1.22।।",
+  "english_translation": "Let me see those assembled here to fight, wishing to please the evil-minded son of Dhritarashtra.",
+  "keywords": [],
+  "who_tell": "Arjuna",
+  "whome_to_tell": "Krishna",
+  "createdAt": {
+    "$date": "2025-06-14T11:37:17.518Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5eed0886faf1b851a700"
+  },
+  "chapter_id": {
+    "$oid": "684d5d750886faf1b851a6c0"
+  },
+  "verse_no": 23,
+  "sanskrit_script": "योत्स्यमानानवेक्षेऽहं य एतेऽत्र समागताः।\\nधार्तराष्ट्रस्य दुर्बुद्धेर्युद्धे प्रियचिकीर्षवः।।1.23।।",
+  "english_translation": "Sanjaya said: O King, thus addressed by Arjuna, Krishna drew up the fine chariot between the two armies.",
+  "keywords": [],
+  "who_tell": "Sanjaya",
+  "whome_to_tell": "Dhritarashtra",
+  "createdAt": {
+    "$date": "2025-06-14T11:37:17.562Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5eed0886faf1b851a702"
+  },
+  "chapter_id": {
+    "$oid": "684d5d750886faf1b851a6c0"
+  },
+  "verse_no": 24,
+  "sanskrit_script": "सञ्जय उवाच\\nएवमुक्तो हृषीकेशो गुडाकेशेन भारत।\\nसेनयोरुभयोर्मध्ये स्थापयित्वा रथोत्तमम्।।1.24।।",
+  "english_translation": "In the presence of Bhishma, Drona, and all the kings, Krishna said: Behold, O Partha, the Kurus gathered here.",
+  "keywords": [],
+  "who_tell": "Sanjaya",
+  "whome_to_tell": "Dhritarashtra",
+  "createdAt": {
+    "$date": "2025-06-14T11:37:17.621Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5eed0886faf1b851a704"
+  },
+  "chapter_id": {
+    "$oid": "684d5d750886faf1b851a6c0"
+  },
+  "verse_no": 25,
+  "sanskrit_script": "भीष्मद्रोणप्रमुखतः सर्वेषां च महीक्षिताम्।\\nउवाच पार्थ पश्यैतान्समवेतान्कुरूनिति।।1.25।।",
+  "english_translation": "Arjuna saw fathers, grandfathers, teachers, uncles, brothers, sons, grandsons, and friends in both armies.",
+  "keywords": [],
+  "who_tell": "Sanjaya",
+  "whome_to_tell": "Dhritarashtra",
+  "createdAt": {
+    "$date": "2025-06-14T11:37:17.668Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5eed0886faf1b851a706"
+  },
+  "chapter_id": {
+    "$oid": "684d5d750886faf1b851a6c0"
+  },
+  "verse_no": 26,
+  "sanskrit_script": "तत्रापश्यत्स्थितान्पार्थः पितॄनथ पितामहान्।\\nआचार्यान्मातुलान्भ्रातॄन्पुत्रान्पौत्रान्सखींस्तथा।।1.26।।",
+  "english_translation": "Seeing all these kinsmen arrayed, Arjuna was overwhelmed with compassion and spoke sorrowfully.",
+  "keywords": [],
+  "who_tell": "Sanjaya",
+  "whome_to_tell": "Dhritarashtra",
+  "createdAt": {
+    "$date": "2025-06-14T11:37:17.718Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5eed0886faf1b851a708"
+  },
+  "chapter_id": {
+    "$oid": "684d5d750886faf1b851a6c0"
+  },
+  "verse_no": 27,
+  "sanskrit_script": "श्वशुरान्सुहृदश्चैव सेनयोरुभयोरपि।\\nतान्समीक्ष्य स कौन्तेयः सर्वान्बन्धूनवस्थितान्।।1.27।।",
+  "english_translation": "Arjuna said: O Krishna, seeing my kinsmen ready to fight, my limbs fail, and my mouth is parched.",
+  "keywords": [],
+  "who_tell": "Arjuna",
+  "whome_to_tell": "Krishna",
+  "createdAt": {
+    "$date": "2025-06-14T11:37:17.749Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5eed0886faf1b851a70a"
+  },
+  "chapter_id": {
+    "$oid": "684d5d750886faf1b851a6c0"
+  },
+  "verse_no": 28,
+  "sanskrit_script": "कृपया परयाविष्टो विषीदन्निदमब्रवीत्।\\nअर्जुन उवाच\\nदृष्ट्वेमं स्वजनं कृष्ण युयुत्सुं समुपस्थितम्।।1.28।।",
+  "english_translation": "My body trembles, my hair stands on end, my bow Gandiva slips from my hand, and my skin burns.",
+  "keywords": [],
+  "who_tell": "Arjuna",
+  "whome_to_tell": "Krishna",
+  "createdAt": {
+    "$date": "2025-06-14T11:37:17.801Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5eed0886faf1b851a70c"
+  },
+  "chapter_id": {
+    "$oid": "684d5d750886faf1b851a6c0"
+  },
+  "verse_no": 29,
+  "sanskrit_script": "सीदन्ति मम गात्राणि मुखं च परिशुष्यति।\\nवेपथुश्च शरीरे मे रोमहर्षश्च जायते।।1.29।।",
+  "english_translation": "I am unable to stand; my mind is reeling. I see adverse omens, O Kesava.",
+  "keywords": [],
+  "who_tell": "Arjuna",
+  "whome_to_tell": "Krishna",
+  "createdAt": {
+    "$date": "2025-06-14T11:37:17.861Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5eed0886faf1b851a70e"
+  },
+  "chapter_id": {
+    "$oid": "684d5d750886faf1b851a6c0"
+  },
+  "verse_no": 30,
+  "sanskrit_script": "गाण्डीवं स्रंसते हस्तात्त्वक्चैव परिदह्यते।\\nन च शक्नोम्यवस्थातुं भ्रमतीव च मे मनः।।1.30।।",
+  "english_translation": "I foresee no good in killing my kinsmen in battle. I desire neither victory nor pleasures, O Krishna.",
+  "keywords": [],
+  "who_tell": "Arjuna",
+  "whome_to_tell": "Krishna",
+  "createdAt": {
+    "$date": "2025-06-14T11:37:17.902Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5eed0886faf1b851a710"
+  },
+  "chapter_id": {
+    "$oid": "684d5d750886faf1b851a6c0"
+  },
+  "verse_no": 31,
+  "sanskrit_script": "निमित्तानि च पश्यामि विपरीतानि केशव।\\nन च श्रेयोऽनुपश्यामि हत्वा स्वजनमाहवे।।1.31।।",
+  "english_translation": "What is the use of kingdoms, happiness, or life itself when those for whom we desire them are arrayed for battle?",
+  "keywords": [],
+  "who_tell": "Arjuna",
+  "whome_to_tell": "Krishna",
+  "createdAt": {
+    "$date": "2025-06-14T11:37:17.932Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5eed0886faf1b851a712"
+  },
+  "chapter_id": {
+    "$oid": "684d5d750886faf1b851a6c0"
+  },
+  "verse_no": 32,
+  "sanskrit_script": "न काङ्क्षे विजयं कृष्ण न च राज्यं सुखानि च।\\nकिं नो राज्येन गोविन्द किं भोगैर्जीवितेन वा।।1.32।।",
+  "english_translation": "Teachers, fathers, sons, grandfathers, uncles, grandsons, in-laws, and other elders are here.",
+  "keywords": [],
+  "who_tell": "Arjuna",
+  "whome_to_tell": "Krishna",
+  "createdAt": {
+    "$date": "2025-06-14T11:37:17.970Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5eed0886faf1b851a714"
+  },
+  "chapter_id": {
+    "$oid": "684d5d750886faf1b851a6c0"
+  },
+  "verse_no": 33,
+  "sanskrit_script": "येषामर्थे काङ्क्षितं नो राज्यं भोगाः सुखानि च।\\nत इमेऽवस्थिता युद्धे प्राणांस्त्यक्त्वा धनानि च।।1.33।।",
+  "english_translation": "I do not wish to slay them, even for the sovereignty of the three worlds, let alone for this earth.",
+  "keywords": [],
+  "who_tell": "Arjuna",
+  "whome_to_tell": "Krishna",
+  "createdAt": {
+    "$date": "2025-06-14T11:37:17.989Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5eee0886faf1b851a716"
+  },
+  "chapter_id": {
+    "$oid": "684d5d750886faf1b851a6c0"
+  },
+  "verse_no": 34,
+  "sanskrit_script": "आचार्याः पितरः पुत्रास्तथैव च पितामहाः।\\nमातुलाः श्वशुराः पौत्राः श्यालाः सम्बन्धिनस्तथा।।1.34।।",
+  "english_translation": "O Janardana (Krishna), what pleasure can we derive from killing the sons of Dhritarashtra?",
+  "keywords": [],
+  "who_tell": "Arjuna",
+  "whome_to_tell": "Krishna",
+  "createdAt": {
+    "$date": "2025-06-14T11:37:18.010Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5eee0886faf1b851a718"
+  },
+  "chapter_id": {
+    "$oid": "684d5d750886faf1b851a6c0"
+  },
+  "verse_no": 35,
+  "sanskrit_script": "एतान्न हन्तुमिच्छामि घ्नतोऽपि मधुसूदन।\\nअपि त्रैलोक्यराज्यस्य हेतोः किं नु महीकृते।।1.35।।",
+  "english_translation": "Sin will overcome us if we slay these aggressors. It is not proper for us to kill the sons of Dhritarashtra and our friends.",
+  "keywords": [],
+  "who_tell": "Arjuna",
+  "whome_to_tell": "Krishna",
+  "createdAt": {
+    "$date": "2025-06-14T11:37:18.031Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5eee0886faf1b851a71a"
+  },
+  "chapter_id": {
+    "$oid": "684d5d750886faf1b851a6c0"
+  },
+  "verse_no": 36,
+  "sanskrit_script": "निहत्य धार्तराष्ट्रान्नः का प्रीतिः स्याज्जनार्दन।\\nपापमेवाश्रयेदस्मान्हत्वैतानाततायिनः।।1.36।।",
+  "english_translation": "O Krishna, how can we be happy by killing our own kinsmen?",
+  "keywords": [],
+  "who_tell": "Arjuna",
+  "whome_to_tell": "Krishna",
+  "createdAt": {
+    "$date": "2025-06-14T11:37:18.046Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5eee0886faf1b851a71c"
+  },
+  "chapter_id": {
+    "$oid": "684d5d750886faf1b851a6c0"
+  },
+  "verse_no": 37,
+  "sanskrit_script": "तस्मान्नार्हा वयं हन्तुं धार्तराष्ट्रान्स्वबान्धवान्।\\nस्वजनं हि कथं हत्वा सुखिनः स्याम माधव।।1.37।।",
+  "english_translation": "Though they are overpowered by greed and see no wrong in destroying families or harming friends...",
+  "keywords": [],
+  "who_tell": "Arjuna",
+  "whome_to_tell": "Krishna",
+  "createdAt": {
+    "$date": "2025-06-14T11:37:18.069Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5eee0886faf1b851a71e"
+  },
+  "chapter_id": {
+    "$oid": "684d5d750886faf1b851a6c0"
+  },
+  "verse_no": 38,
+  "sanskrit_script": "यद्यप्येते न पश्यन्ति लोभोपहतचेतसः।\\nकुलक्षयकृतं दोषं मित्रद्रोहे च पातकम्।।1.38।।",
+  "english_translation": "...why should we, who see the evil of such destruction, engage in these acts?",
+  "keywords": [],
+  "who_tell": "Arjuna",
+  "whome_to_tell": "Krishna",
+  "createdAt": {
+    "$date": "2025-06-14T11:37:18.093Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5eee0886faf1b851a720"
+  },
+  "chapter_id": {
+    "$oid": "684d5d750886faf1b851a6c0"
+  },
+  "verse_no": 39,
+  "sanskrit_script": "कथं न ज्ञेयमस्माभिः पापादस्मान्निवर्तितुम्।\\nकुलक्षयकृतं दोषं प्रपश्यद्भिर्जनार्दन।।1.39।।",
+  "english_translation": "With the destruction of the dynasty, the eternal family traditions perish, and immorality prevails.",
+  "keywords": [],
+  "who_tell": "Arjuna",
+  "whome_to_tell": "Krishna",
+  "createdAt": {
+    "$date": "2025-06-14T11:37:18.112Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5eee0886faf1b851a722"
+  },
+  "chapter_id": {
+    "$oid": "684d5d750886faf1b851a6c0"
+  },
+  "verse_no": 40,
+  "sanskrit_script": "कुलक्षये प्रणश्यन्ति कुलधर्माः सनातनाः।\\nधर्मे नष्टे कुलं कृत्स्नमधर्मोऽभिभवत्युत।।1.40।।",
+  "english_translation": "When immorality prevails, the women of the family become corrupt; when women are corrupted, social chaos arises.",
+  "keywords": [],
+  "who_tell": "Arjuna",
+  "whome_to_tell": "Krishna",
+  "createdAt": {
+    "$date": "2025-06-14T11:37:18.142Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5eee0886faf1b851a724"
+  },
+  "chapter_id": {
+    "$oid": "684d5d750886faf1b851a6c0"
+  },
+  "verse_no": 41,
+  "sanskrit_script": "अधर्माभिभवात्कृष्ण प्रदुष्यन्ति कुलस्त्रियः।\\nस्त्रीषु दुष्टासु वार्ष्णेय जायते वर्णसङ्करः।।1.41।।",
+  "english_translation": "This brings the family and the slayers of the family to hell, for the ancestors fall when deprived of ceremonial offerings.",
+  "keywords": [],
+  "who_tell": "Arjuna",
+  "whome_to_tell": "Krishna",
+  "createdAt": {
+    "$date": "2025-06-14T11:37:18.159Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5eee0886faf1b851a726"
+  },
+  "chapter_id": {
+    "$oid": "684d5d750886faf1b851a6c0"
+  },
+  "verse_no": 42,
+  "sanskrit_script": "सङ्करो नरकायैव कुलघ्नानां कुलस्य च।\\nपतन्ति पितरो ह्येषां लुप्तपिण्डोदकक्रियाः।।1.42।।",
+  "english_translation": "By the evil deeds of those who destroy family traditions and give rise to unwanted progeny, all kinds of social evils prevail.",
+  "keywords": [],
+  "who_tell": "Arjuna",
+  "whome_to_tell": "Krishna",
+  "createdAt": {
+    "$date": "2025-06-14T11:37:18.182Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5eee0886faf1b851a728"
+  },
+  "chapter_id": {
+    "$oid": "684d5d750886faf1b851a6c0"
+  },
+  "verse_no": 43,
+  "sanskrit_script": "दोषैरेतैः कुलघ्नानां वर्णसङ्करकारकैः।\\nउत्साद्यन्ते जातिधर्माः कुलधर्माश्च शाश्वताः।।1.43।।",
+  "english_translation": "O Krishna, maintainer of the people, I have heard that those who destroy family traditions dwell in hell.",
+  "keywords": [],
+  "who_tell": "Arjuna",
+  "whome_to_tell": "Krishna",
+  "createdAt": {
+    "$date": "2025-06-14T11:37:18.193Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5eee0886faf1b851a72a"
+  },
+  "chapter_id": {
+    "$oid": "684d5d750886faf1b851a6c0"
+  },
+  "verse_no": 44,
+  "sanskrit_script": "उत्सन्नकुलधर्माणां मनुष्याणां जनार्दन।\\nनरकेऽनियतं वासो भवतीत्यनुशुश्रुम।।1.44।।",
+  "english_translation": "Alas! We are prepared to commit great sin by striving to slay our kinsmen out of greed for royal pleasures.",
+  "keywords": [],
+  "who_tell": "Arjuna",
+  "whome_to_tell": "Krishna",
+  "createdAt": {
+    "$date": "2025-06-14T11:37:18.211Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5eee0886faf1b851a72c"
+  },
+  "chapter_id": {
+    "$oid": "684d5d750886faf1b851a6c0"
+  },
+  "verse_no": 45,
+  "sanskrit_script": "अहो बत महत्पापं कर्तुं व्यवसिता वयम्।\\nयद्राज्यसुखलोभेन हन्तुं स्वजनमुद्यताः।।1.45।।",
+  "english_translation": "It would be better for me if the sons of Dhritarashtra, weapons in hand, were to slay me unarmed and unresisting on the battlefield.",
+  "keywords": [],
+  "who_tell": "Arjuna",
+  "whome_to_tell": "Krishna",
+  "createdAt": {
+    "$date": "2025-06-14T11:37:18.229Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5eee0886faf1b851a72e"
+  },
+  "chapter_id": {
+    "$oid": "684d5d750886faf1b851a6c0"
+  },
+  "verse_no": 46,
+  "sanskrit_script": "यदि मामप्रतीकारमशस्त्रं शस्त्रपाणयः।\\nधार्तराष्ट्रा रणे हन्युस्तन्मे क्षेमतरं भवेत्।।1.46।।",
+  "english_translation": "Sanjaya said: Having spoken thus on the battlefield, Arjuna cast aside his bow and arrows and sat down on the chariot, his mind overwhelmed with grief.",
+  "keywords": [],
+  "who_tell": "Sanjaya",
+  "whome_to_tell": "Dhritarashtra",
+  "createdAt": {
+    "$date": "2025-06-14T11:37:18.257Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5eee0886faf1b851a730"
+  },
+  "chapter_id": {
+    "$oid": "684d5d750886faf1b851a6c0"
+  },
+  "verse_no": 47,
+  "sanskrit_script": "एवमुक्त्वार्जुनः संख्ये रथोपस्थ उपाविशत्।\\nविसृज्य सशरं चापं शोकसंविग्नमानसः।।1.47।।",
+  "english_translation": "Sanjaya concludes Chapter 1, describing Arjuna’s despair.",
+  "keywords": [],
+  "who_tell": "Sanjaya",
+  "whome_to_tell": "Dhritarashtra",
+  "createdAt": {
+    "$date": "2025-06-14T11:37:18.282Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f030886faf1b851a740"
+  },
+  "chapter_id": {
+    "$oid": "684d5dad0886faf1b851a6c2"
+  },
+  "verse_no": 1,
+  "sanskrit_script": "संजय उवाच\\nतं तथा कृपयाविष्टमश्रुपूर्णाकुलेक्षणम्।\\nविषीदन्तमिदं वाक्यमुवाच मधुसूदनः॥२.१॥",
+  "english_translation": "Sanjaya said: To Arjuna, who was overcome with pity and sorrow, his eyes filled with tears, Madhusudana (Krishna) spoke these words.",
+  "keywords": [],
+  "who_tell": "Sanjaya",
+  "whome_to_tell": "Dhritarashtra",
+  "createdAt": {
+    "$date": "2025-06-14T11:37:39.020Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f030886faf1b851a742"
+  },
+  "chapter_id": {
+    "$oid": "684d5dad0886faf1b851a6c2"
+  },
+  "verse_no": 2,
+  "sanskrit_script": "श्रीभगवानुवाच\\nकुतस्त्वा कश्मलमिदं विषमे समुपस्थितम्।\\nअनार्यजुष्टमस्वर्ग्यमकीर्तिकरमर्जुन॥२.२॥",
+  "english_translation": "The Supreme Lord said: O Arjuna, how has this delusion overcome you in this hour of crisis? It is not befitting an honorable person, nor does it lead to heaven or fame.",
+  "keywords": [],
+  "who_tell": "Krishna",
+  "whome_to_tell": "Arjuna",
+  "createdAt": {
+    "$date": "2025-06-14T11:37:39.026Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f030886faf1b851a744"
+  },
+  "chapter_id": {
+    "$oid": "684d5dad0886faf1b851a6c2"
+  },
+  "verse_no": 3,
+  "sanskrit_script": "क्लैब्यं मा स्म गमः पार्थ नैतत्त्वय्युपपद्यते।\\nक्षुद्रं हृदयदौर्बल्यं त्यक्त्वोत्तिष्ठ परन्तप॥२.३॥",
+  "english_translation": "O Partha, do not yield to this unmanliness. It does not befit you. O scorcher of foes, cast off this petty weakness of heart and arise!",
+  "keywords": [],
+  "who_tell": "Krishna",
+  "whome_to_tell": "Arjuna",
+  "createdAt": {
+    "$date": "2025-06-14T11:37:39.029Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f030886faf1b851a746"
+  },
+  "chapter_id": {
+    "$oid": "684d5dad0886faf1b851a6c2"
+  },
+  "verse_no": 4,
+  "sanskrit_script": "अर्जुन उवाच\\nकथं भीष्ममहं संख्ये द्रोणं च मधुसूदन।\\nइषुभिः प्रतियोत्स्यामि पूजार्हावरिसूदन॥२.४॥",
+  "english_translation": "Arjuna said: O Madhusudana, how can I counterattack with arrows in battle Bhishma and Drona, who are worthy of worship, O destroyer of enemies?",
+  "keywords": [],
+  "who_tell": "Arjuna",
+  "whome_to_tell": "Krishna",
+  "createdAt": {
+    "$date": "2025-06-14T11:37:39.043Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f030886faf1b851a748"
+  },
+  "chapter_id": {
+    "$oid": "684d5dad0886faf1b851a6c2"
+  },
+  "verse_no": 5,
+  "sanskrit_script": "गुरूनहत्वा हि महानुभावान्\\nश्रेयो भोक्तुं भैक्ष्यमपीह लोके।\\nहत्वार्थकामांस्तु गुरूनिहैव\\nभुञ्जीय भोगान् रुधिरप्रदिग्धान्॥२.५॥",
+  "english_translation": "It would be better to live in this world by begging than to enjoy life by killing these noble elders. By killing them, we would only be enjoying wealth and pleasures tainted with blood.",
+  "keywords": [],
+  "who_tell": "Arjuna",
+  "whome_to_tell": "Krishna",
+  "createdAt": {
+    "$date": "2025-06-14T11:37:39.049Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f030886faf1b851a74a"
+  },
+  "chapter_id": {
+    "$oid": "684d5dad0886faf1b851a6c2"
+  },
+  "verse_no": 6,
+  "sanskrit_script": "न चैतद्विद्मः कतरन्नो गरीयो\\nयद्वा जयेम यदि वा नो जयेयुः।\\nयानेव हत्वा न जिजीविषाम\\nस्तेऽवस्थिताः प्रमुखे धार्तराष्ट्राः॥२.६॥",
+  "english_translation": "We don't even know which outcome would be better - conquering them or being conquered by them. The sons of Dhritarashtra stand before us, having killed whom we would not wish to live.",
+  "keywords": [],
+  "who_tell": "Arjuna",
+  "whome_to_tell": "Krishna",
+  "createdAt": {
+    "$date": "2025-06-14T11:37:39.059Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f030886faf1b851a74c"
+  },
+  "chapter_id": {
+    "$oid": "684d5dad0886faf1b851a6c2"
+  },
+  "verse_no": 7,
+  "sanskrit_script": "कार्पण्यदोषोपहतस्वभावः\\nपृच्छामि त्वां धर्मसम्मूढचेताः।\\nयच्छ्रेयः स्यान्निश्चितं ब्रूहि तन्मे\\nशिष्यस्तेऽहं शाधि मां त्वां प्रपन्नम्॥२.७॥",
+  "english_translation": "My nature afflicted by the flaw of pity, with my mind confused about duty, I ask You: Please tell me decisively what is best for me. I am Your disciple. Please instruct me who has taken refuge in You.",
+  "keywords": [],
+  "who_tell": "Arjuna",
+  "whome_to_tell": "Krishna",
+  "createdAt": {
+    "$date": "2025-06-14T11:37:39.067Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f030886faf1b851a74e"
+  },
+  "chapter_id": {
+    "$oid": "684d5dad0886faf1b851a6c2"
+  },
+  "verse_no": 8,
+  "sanskrit_script": "न हि प्रपश्यामि ममापनुद्याद्\\nयच्छोकमुच्छोषणमिन्द्रियाणाम्।\\nअवाप्य भूमावसपत्नमृद्धं\\nराज्यं सुराणामपि चाधिपत्यम्॥२.८॥",
+  "english_translation": "I can find no means to drive away this grief which is drying up my senses. Even if I win unrivaled prosperity on earth or sovereignty like the gods in heaven.",
+  "keywords": [],
+  "who_tell": "Arjuna",
+  "whome_to_tell": "Krishna",
+  "createdAt": {
+    "$date": "2025-06-14T11:37:39.079Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f030886faf1b851a750"
+  },
+  "chapter_id": {
+    "$oid": "684d5dad0886faf1b851a6c2"
+  },
+  "verse_no": 9,
+  "sanskrit_script": "संजय उवाच\\nएवमुक्त्वा हृषीकेशं गुडाकेशः परन्तपः।\\nन योत्स्य इति गोविन्दमुक्त्वा तूष्णीं बभूव ह॥२.९॥",
+  "english_translation": "Sanjaya said: Having spoken thus to Hrishikesha (Krishna), Gudakesha (Arjuna), the scorcher of foes, told Govinda, 'I will not fight,' and became silent.",
+  "keywords": [],
+  "who_tell": "Sanjaya",
+  "whome_to_tell": "Dhritarashtra",
+  "createdAt": {
+    "$date": "2025-06-14T11:37:39.083Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f030886faf1b851a752"
+  },
+  "chapter_id": {
+    "$oid": "684d5dad0886faf1b851a6c2"
+  },
+  "verse_no": 10,
+  "sanskrit_script": "तमुवाच हृषीकेशः प्रहसन्निव भारत।\\nसेनयोरुभयोर्मध्ये विषीदन्तमिदं वचः॥२.१०॥",
+  "english_translation": "O descendant of Bharata, at that time Krishna, smiling as it were, spoke these words to the grief-stricken Arjuna between the two armies.",
+  "keywords": [],
+  "who_tell": "Sanjaya",
+  "whome_to_tell": "Dhritarashtra",
+  "createdAt": {
+    "$date": "2025-06-14T11:37:39.098Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f030886faf1b851a754"
+  },
+  "chapter_id": {
+    "$oid": "684d5dad0886faf1b851a6c2"
+  },
+  "verse_no": 11,
+  "sanskrit_script": "श्रीभगवानुवाच\\nअशोच्यानन्वशोचस्त्वं प्रज्ञावादांश्च भाषसे।\\nगतासूनगतासूंश्च नानुशोचन्ति पण्डिताः॥२.११॥",
+  "english_translation": "The Supreme Lord said: While you speak words of wisdom, you are mourning for those who should not be mourned for. The wise lament neither for the living nor for the dead.",
+  "keywords": [],
+  "who_tell": "Krishna",
+  "whome_to_tell": "Arjuna",
+  "createdAt": {
+    "$date": "2025-06-14T11:37:39.107Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f030886faf1b851a756"
+  },
+  "chapter_id": {
+    "$oid": "684d5dad0886faf1b851a6c2"
+  },
+  "verse_no": 12,
+  "sanskrit_script": "न त्वेवाहं जातु नासं न त्वं नेमे जनाधिपाः।\\nन चैव न भविष्यामः सर्वे वयमतः परम्॥२.१२॥",
+  "english_translation": "Never was there a time when I did not exist, nor you, nor all these kings; nor in the future shall any of us cease to be.",
+  "keywords": [],
+  "who_tell": "Krishna",
+  "whome_to_tell": "Arjuna",
+  "createdAt": {
+    "$date": "2025-06-14T11:37:39.113Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f030886faf1b851a758"
+  },
+  "chapter_id": {
+    "$oid": "684d5dad0886faf1b851a6c2"
+  },
+  "verse_no": 13,
+  "sanskrit_script": "देहिनोऽस्मिन्यथा देहे कौमारं यौवनं जरा।\\nतथा देहान्तरप्राप्तिर्धीरस्तत्र न मुह्यति॥२.१३॥",
+  "english_translation": "Just as the embodied soul continuously passes from childhood to youth to old age, similarly at death it passes into another body. The wise are not deluded by this.",
+  "keywords": [],
+  "who_tell": "Krishna",
+  "whome_to_tell": "Arjuna",
+  "createdAt": {
+    "$date": "2025-06-14T11:37:39.119Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f030886faf1b851a75a"
+  },
+  "chapter_id": {
+    "$oid": "684d5dad0886faf1b851a6c2"
+  },
+  "verse_no": 14,
+  "sanskrit_script": "मात्रास्पर्शास्तु कौन्तेय शीतोष्णसुखदुःखदाः।\\nआगमापायिनोऽनित्यास्तांस्तितिक्षस्व भारत॥२.१४॥",
+  "english_translation": "O son of Kunti, the contacts between the senses and their objects give rise to fleeting perceptions of heat and cold, pleasure and pain. They come and go, O Bharata, so learn to endure them.",
+  "keywords": [],
+  "who_tell": "Krishna",
+  "whome_to_tell": "Arjuna",
+  "createdAt": {
+    "$date": "2025-06-14T11:37:39.127Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f030886faf1b851a75c"
+  },
+  "chapter_id": {
+    "$oid": "684d5dad0886faf1b851a6c2"
+  },
+  "verse_no": 15,
+  "sanskrit_script": "यं हि न व्यथयन्त्येते पुरुषं पुरुषर्षभ।\\nसमदुःखसुखं धीरं सोऽमृतत्वाय कल्पते॥२.१५॥",
+  "english_translation": "O best among men, the person who is not disturbed by these sensations and remains steady in happiness and distress is eligible for liberation.",
+  "keywords": [],
+  "who_tell": "Krishna",
+  "whome_to_tell": "Arjuna",
+  "createdAt": {
+    "$date": "2025-06-14T11:37:39.135Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f030886faf1b851a75e"
+  },
+  "chapter_id": {
+    "$oid": "684d5dad0886faf1b851a6c2"
+  },
+  "verse_no": 16,
+  "sanskrit_script": "नासतो विद्यते भावो नाभावो विद्यते सतः।\\nउभयोरपि दृष्टोऽन्तस्त्वनयोस्तत्त्वदर्शिभिः॥२.१६॥",
+  "english_translation": "The unreal has no existence, and the real never ceases to be. The seers of truth have concluded this about both.",
+  "keywords": [],
+  "who_tell": "Krishna",
+  "whome_to_tell": "Arjuna",
+  "createdAt": {
+    "$date": "2025-06-14T11:37:39.143Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f030886faf1b851a760"
+  },
+  "chapter_id": {
+    "$oid": "684d5dad0886faf1b851a6c2"
+  },
+  "verse_no": 17,
+  "sanskrit_script": "अविनाशि तु तद्विद्धि येन सर्वमिदं ततम्।\\nविनाशमव्ययस्यास्य न कश्चित्कर्तुमर्हति॥२.१७॥",
+  "english_translation": "Know that by which all this is pervaded to be indestructible. No one can cause the destruction of the imperishable.",
+  "keywords": [],
+  "who_tell": "Krishna",
+  "whome_to_tell": "Arjuna",
+  "createdAt": {
+    "$date": "2025-06-14T11:37:39.149Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f030886faf1b851a762"
+  },
+  "chapter_id": {
+    "$oid": "684d5dad0886faf1b851a6c2"
+  },
+  "verse_no": 18,
+  "sanskrit_script": "अन्तवन्त इमे देहा नित्यस्योक्ताः शरीरिणः।\\nअनाशिनोऽप्रमेयस्य तस्माद्युध्यस्व भारत॥२.१८॥",
+  "english_translation": "Only the material bodies of the eternal, imperishable and immeasurable embodied soul are perishable. Therefore fight, O descendant of Bharata.",
+  "keywords": [],
+  "who_tell": "Krishna",
+  "whome_to_tell": "Arjuna",
+  "createdAt": {
+    "$date": "2025-06-14T11:37:39.155Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f030886faf1b851a764"
+  },
+  "chapter_id": {
+    "$oid": "684d5dad0886faf1b851a6c2"
+  },
+  "verse_no": 19,
+  "sanskrit_script": "य एनं वेत्ति हन्तारं यश्चैनं मन्यते हतम्।\\nउभौ तौ न विजानीतो नायं हन्ति न हन्यते॥२.१९॥",
+  "english_translation": "One who thinks the soul can kill and one who thinks it can be killed are both ignorant. The soul neither kills nor can be killed.",
+  "keywords": [],
+  "who_tell": "Krishna",
+  "whome_to_tell": "Arjuna",
+  "createdAt": {
+    "$date": "2025-06-14T11:37:39.161Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f030886faf1b851a766"
+  },
+  "chapter_id": {
+    "$oid": "684d5dad0886faf1b851a6c2"
+  },
+  "verse_no": 20,
+  "sanskrit_script": "न जायते म्रियते वा कदाचि\\nनायं भूत्वा भविता वा न भूयः।\\nअजो नित्यः शाश्वतोऽयं पुराणो\\nन हन्यते हन्यमाने शरीरे॥२.२०॥",
+  "english_translation": "The soul is never born nor dies at any time. It has not come into being, does not come into being, and will not come into being. It is unborn, eternal, ever-existing and primeval. It is not slain when the body is slain.",
+  "keywords": [],
+  "who_tell": "Krishna",
+  "whome_to_tell": "Arjuna",
+  "createdAt": {
+    "$date": "2025-06-14T11:37:39.166Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f030886faf1b851a768"
+  },
+  "chapter_id": {
+    "$oid": "684d5dad0886faf1b851a6c2"
+  },
+  "verse_no": 21,
+  "sanskrit_script": "वेदाविनाशिनं नित्यं य एनमजमव्ययम्।\\nकथं स पुरुषः पार्थ कं घातयति हन्ति कम्॥२.२१॥",
+  "english_translation": "O Partha, how can a person who knows the soul to be indestructible, eternal, unborn and immutable kill anyone or cause anyone to kill?",
+  "keywords": [],
+  "who_tell": "Krishna",
+  "whome_to_tell": "Arjuna",
+  "createdAt": {
+    "$date": "2025-06-14T11:37:39.176Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f030886faf1b851a76a"
+  },
+  "chapter_id": {
+    "$oid": "684d5dad0886faf1b851a6c2"
+  },
+  "verse_no": 22,
+  "sanskrit_script": "वासांसि जीर्णानि यथा विहाय\\nनवानि गृह्णाति नरोऽपराणि।\\nतथा शरीराणि विहाय जीर्णा\\nन्यन्यानि संयाति नवानि देही॥२.२२॥",
+  "english_translation": "As a person puts on new garments, giving up old ones, similarly the soul accepts new material bodies, giving up the old and useless ones.",
+  "keywords": [],
+  "who_tell": "Krishna",
+  "whome_to_tell": "Arjuna",
+  "createdAt": {
+    "$date": "2025-06-14T11:37:39.182Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f030886faf1b851a76c"
+  },
+  "chapter_id": {
+    "$oid": "684d5dad0886faf1b851a6c2"
+  },
+  "verse_no": 23,
+  "sanskrit_script": "नैनं छिन्दन्ति शस्त्राणि नैनं दहति पावकः।\\nन चैनं क्लेदयन्त्यापो न शोषयति मारुतः॥२.२३॥",
+  "english_translation": "The soul can never be cut into pieces by any weapon, nor burned by fire, nor moistened by water, nor withered by the wind.",
+  "keywords": [],
+  "who_tell": "Krishna",
+  "whome_to_tell": "Arjuna",
+  "createdAt": {
+    "$date": "2025-06-14T11:37:39.194Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f030886faf1b851a76e"
+  },
+  "chapter_id": {
+    "$oid": "684d5dad0886faf1b851a6c2"
+  },
+  "verse_no": 24,
+  "sanskrit_script": "अच्छेद्योऽयमदाह्योऽयमक्लेद्योऽशोष्य एव च।\\nनित्यः सर्वगतः स्थाणुरचलोऽयं सनातनः॥२.२४॥",
+  "english_translation": "This individual soul is unbreakable and insoluble, and can be neither burned nor dried. It is everlasting, all-pervading, unchangeable, immovable and eternally the same.",
+  "keywords": [],
+  "who_tell": "Krishna",
+  "whome_to_tell": "Arjuna",
+  "createdAt": {
+    "$date": "2025-06-14T11:37:39.200Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f030886faf1b851a770"
+  },
+  "chapter_id": {
+    "$oid": "684d5dad0886faf1b851a6c2"
+  },
+  "verse_no": 25,
+  "sanskrit_script": "अव्यक्तोऽयमचिन्त्योऽयमविकार्योऽयमुच्यते।\\nतस्मादेवं विदित्वैनं नानुशोचितुमर्हसि॥२.२५॥",
+  "english_translation": "It is said that the soul is invisible, inconceivable, immutable and unchangeable. Knowing this, you should not grieve for the body.",
+  "keywords": [],
+  "who_tell": "Krishna",
+  "whome_to_tell": "Arjuna",
+  "createdAt": {
+    "$date": "2025-06-14T11:37:39.209Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f030886faf1b851a772"
+  },
+  "chapter_id": {
+    "$oid": "684d5dad0886faf1b851a6c2"
+  },
+  "verse_no": 26,
+  "sanskrit_script": "अथ चैनं नित्यजातं नित्यं वा मन्यसे मृतम्।\\nतथापि त्वं महाबाहो नैवं शोचितुमर्हसि॥२.२६॥",
+  "english_translation": "O mighty-armed one, even if you think the soul is perpetually born and always dies, still you still have no reason to lament.",
+  "keywords": [],
+  "who_tell": "Krishna",
+  "whome_to_tell": "Arjuna",
+  "createdAt": {
+    "$date": "2025-06-14T11:37:39.213Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f030886faf1b851a774"
+  },
+  "chapter_id": {
+    "$oid": "684d5dad0886faf1b851a6c2"
+  },
+  "verse_no": 27,
+  "sanskrit_script": "जातस्य हि ध्रुवो मृत्युर्ध्रुवं जन्म मृतस्य च।\\nतस्मादपरिहार्येऽर्थे न त्वं शोचितुमर्हसि॥२.२७॥",
+  "english_translation": "For one who has taken birth, death is certain; and for one who is dead, birth is certain. Therefore, in an inevitable situation, you should not lament.",
+  "keywords": [],
+  "who_tell": "Krishna",
+  "whome_to_tell": "Arjuna",
+  "createdAt": {
+    "$date": "2025-06-14T11:37:39.225Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f030886faf1b851a776"
+  },
+  "chapter_id": {
+    "$oid": "684d5dad0886faf1b851a6c2"
+  },
+  "verse_no": 28,
+  "sanskrit_script": "अव्यक्तादीनि भूतानि व्यक्तमध्यानि भारत।\\nअव्यक्तनिधनान्येव तत्र का परिदेवना॥२.२८॥",
+  "english_translation": "O descendant of Bharata, all created beings were unmanifest in the beginning, manifest in the interim, and become unmanifest again at the end. So what need is there for lamentation?",
+  "keywords": [],
+  "who_tell": "Krishna",
+  "whome_to_tell": "Arjuna",
+  "createdAt": {
+    "$date": "2025-06-14T11:37:39.232Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f030886faf1b851a778"
+  },
+  "chapter_id": {
+    "$oid": "684d5dad0886faf1b851a6c2"
+  },
+  "verse_no": 29,
+  "sanskrit_script": "आश्चर्यवत्पश्यति कश्चिदेन\\nमाश्चर्यवद्वदति तथैव चान्यः।\\nआश्चर्यवच्चैनमन्यः शृणोति\\nश्रुत्वाप्येनं वेद न चैव कश्चित्॥२.२९॥",
+  "english_translation": "Some see the soul as amazing, some describe it as amazing, and some hear of it as amazing, while others, even after hearing about it, cannot understand it at all.",
+  "keywords": [],
+  "who_tell": "Krishna",
+  "whome_to_tell": "Arjuna",
+  "createdAt": {
+    "$date": "2025-06-14T11:37:39.240Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f030886faf1b851a77a"
+  },
+  "chapter_id": {
+    "$oid": "684d5dad0886faf1b851a6c2"
+  },
+  "verse_no": 30,
+  "sanskrit_script": "देही नित्यमवध्योऽयं देहे सर्वस्य भारत।\\nतस्मात्सर्वाणि भूतानि न त्वं शोचितुमर्हसि॥२.३०॥",
+  "english_translation": "O descendant of Bharata, the soul within the body is eternally indestructible. Therefore you should not mourn for any creature.",
+  "keywords": [],
+  "who_tell": "Krishna",
+  "whome_to_tell": "Arjuna",
+  "createdAt": {
+    "$date": "2025-06-14T11:37:39.246Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f030886faf1b851a77c"
+  },
+  "chapter_id": {
+    "$oid": "684d5dad0886faf1b851a6c2"
+  },
+  "verse_no": 31,
+  "sanskrit_script": "स्वधर्ममपि चावेक्ष्य न विकम्पितुमर्हसि।\\nधर्म्याद्धि युद्धाच्छ्रेयोऽन्यत्क्षत्रियस्य न विद्यते॥२.३१॥",
+  "english_translation": "Considering your specific duty as a kshatriya, you should know that there is no better engagement for you than fighting for righteousness.",
+  "keywords": [],
+  "who_tell": "Krishna",
+  "whome_to_tell": "Arjuna",
+  "createdAt": {
+    "$date": "2025-06-14T11:37:39.255Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f030886faf1b851a77e"
+  },
+  "chapter_id": {
+    "$oid": "684d5dad0886faf1b851a6c2"
+  },
+  "verse_no": 32,
+  "sanskrit_script": "यदृच्छया चोपपन्नं स्वर्गद्वारमपावृतम्।\\nसुखिनः क्षत्रियाः पार्थ लभन्ते युद्धमीदृशम्॥२.३२॥",
+  "english_translation": "O Partha, happy are the kshatriyas to whom such fighting opportunities come unsought, opening for them the doors of heaven.",
+  "keywords": [],
+  "who_tell": "Krishna",
+  "whome_to_tell": "Arjuna",
+  "createdAt": {
+    "$date": "2025-06-14T11:37:39.263Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f030886faf1b851a780"
+  },
+  "chapter_id": {
+    "$oid": "684d5dad0886faf1b851a6c2"
+  },
+  "verse_no": 33,
+  "sanskrit_script": "अथ चेत्त्वमिमं धर्म्यं संग्रामं न करिष्यसि।\\nततः स्वधर्मं कीर्तिं च हित्वा पापमवाप्स्यसि॥२.३३॥",
+  "english_translation": "If however, you do not fight this righteous war, then you will certainly incur sin by neglecting your duties and thus lose your reputation as a fighter.",
+  "keywords": [],
+  "who_tell": "Krishna",
+  "whome_to_tell": "Arjuna",
+  "createdAt": {
+    "$date": "2025-06-14T11:37:39.270Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f030886faf1b851a782"
+  },
+  "chapter_id": {
+    "$oid": "684d5dad0886faf1b851a6c2"
+  },
+  "verse_no": 34,
+  "sanskrit_script": "अकीर्तिं चापि भूतानि कथयिष्यन्ति तेऽव्ययाम्।\\nसम्भावितस्य चाकीर्तिर्मरणादतिरिच्यते॥२.३४॥",
+  "english_translation": "People will always speak of your infamy, and for a respectable person, dishonor is worse than death.",
+  "keywords": [],
+  "who_tell": "Krishna",
+  "whome_to_tell": "Arjuna",
+  "createdAt": {
+    "$date": "2025-06-14T11:37:39.285Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f030886faf1b851a784"
+  },
+  "chapter_id": {
+    "$oid": "684d5dad0886faf1b851a6c2"
+  },
+  "verse_no": 35,
+  "sanskrit_script": "भयाद्रणादुपरतं मंस्यन्ते त्वां महारथाः।\\nयेषां च त्वं बहुमतो भूत्वा यास्यसि लाघवम्॥२.३५॥",
+  "english_translation": "The great generals who have esteemed you so highly will think you withdrew from battle out of fear, and you will fall in their esteem.",
+  "keywords": [],
+  "who_tell": "Krishna",
+  "whome_to_tell": "Arjuna",
+  "createdAt": {
+    "$date": "2025-06-14T11:37:39.294Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f030886faf1b851a786"
+  },
+  "chapter_id": {
+    "$oid": "684d5dad0886faf1b851a6c2"
+  },
+  "verse_no": 36,
+  "sanskrit_script": "अवाच्यवादांश्च बहून्वदिष्यन्ति तवाहिताः।\\nनिन्दन्तस्तव सामर्थ्यं ततो दुःखतरं नु किम्॥२.३६॥",
+  "english_translation": "Your enemies will slander you and speak many unmentionable words criticizing your abilities. What could be more painful than this?",
+  "keywords": [],
+  "who_tell": "Krishna",
+  "whome_to_tell": "Arjuna",
+  "createdAt": {
+    "$date": "2025-06-14T11:37:39.298Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f030886faf1b851a788"
+  },
+  "chapter_id": {
+    "$oid": "684d5dad0886faf1b851a6c2"
+  },
+  "verse_no": 37,
+  "sanskrit_script": "हतो वा प्राप्स्यसि स्वर्गं जित्वा वा भोक्ष्यसे महीम्।\\nतस्मादुत्तिष्ठ कौन्तेय युद्धाय कृतनिश्चयः॥२.३७॥",
+  "english_translation": "O son of Kunti, if you are killed you will attain heaven; if victorious, you will enjoy the earth. Therefore arise with determination and fight.",
+  "keywords": [],
+  "who_tell": "Krishna",
+  "whome_to_tell": "Arjuna",
+  "createdAt": {
+    "$date": "2025-06-14T11:37:39.308Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f030886faf1b851a78a"
+  },
+  "chapter_id": {
+    "$oid": "684d5dad0886faf1b851a6c2"
+  },
+  "verse_no": 38,
+  "sanskrit_script": "सुखदुःखे समे कृत्वा लाभालाभौ जयाजयौ।\\nततो युद्धाय युज्यस्व नैवं पापमवाप्स्यसि॥२.३८॥",
+  "english_translation": "Fight for the sake of duty, treating alike happiness and distress, loss and gain, victory and defeat. Fulfilling your responsibility in this way, you will never incur sin.",
+  "keywords": [],
+  "who_tell": "Krishna",
+  "whome_to_tell": "Arjuna",
+  "createdAt": {
+    "$date": "2025-06-14T11:37:39.315Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f030886faf1b851a78c"
+  },
+  "chapter_id": {
+    "$oid": "684d5dad0886faf1b851a6c2"
+  },
+  "verse_no": 39,
+  "sanskrit_script": "एषा तेऽभिहिता साङ्ख्ये बुद्धिर्योगे त्विमां शृणु।\\nबुद्ध्या युक्तो यया पार्थ कर्मबन्धं प्रहास्यसि॥२.३९॥",
+  "english_translation": "Thus far I have explained this knowledge to you through analytical study. Now listen as I explain it in terms of working without fruitive results. By this knowledge you can free yourself from bondage.",
+  "keywords": [],
+  "who_tell": "Krishna",
+  "whome_to_tell": "Arjuna",
+  "createdAt": {
+    "$date": "2025-06-14T11:37:39.322Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f030886faf1b851a78e"
+  },
+  "chapter_id": {
+    "$oid": "684d5dad0886faf1b851a6c2"
+  },
+  "verse_no": 40,
+  "sanskrit_script": "नेहाभिक्रमनाशोऽस्ति प्रत्यवायो न विद्यते।\\nस्वल्पमप्यस्य धर्मस्य त्रायते महतो भयात्॥२.४०॥",
+  "english_translation": "In this endeavor there is no loss or diminution, and a little advancement on this path can protect one from the most dangerous type of fear.",
+  "keywords": [],
+  "who_tell": "Krishna",
+  "whome_to_tell": "Arjuna",
+  "createdAt": {
+    "$date": "2025-06-14T11:37:39.330Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f030886faf1b851a790"
+  },
+  "chapter_id": {
+    "$oid": "684d5dad0886faf1b851a6c2"
+  },
+  "verse_no": 41,
+  "sanskrit_script": "व्यवसायात्मिका बुद्धिरेकेह कुरुनन्दन।\\nबहुशाखा ह्यनन्ताश्च बुद्धयोऽव्यवसायिनाम्॥२.४१॥",
+  "english_translation": "O beloved child of the Kurus, those who are on this path are resolute in purpose, and their aim is one. The intelligence of those who are irresolute is many-branched.",
+  "keywords": [],
+  "who_tell": "Krishna",
+  "whome_to_tell": "Arjuna",
+  "createdAt": {
+    "$date": "2025-06-14T11:37:39.339Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f030886faf1b851a792"
+  },
+  "chapter_id": {
+    "$oid": "684d5dad0886faf1b851a6c2"
+  },
+  "verse_no": 42,
+  "sanskrit_script": "यामिमां पुष्पितां वाचं प्रवदन्त्यविपश्चितः।\\nवेदवादरताः पार्थ नान्यदस्तीति वादिनः॥२.४२॥",
+  "english_translation": "Flowery words are spoken by the unwise, who take pleasure in the chanting of the Vedas without understanding their real purpose, O Partha.",
+  "keywords": [],
+  "who_tell": "Krishna",
+  "whome_to_tell": "Arjuna",
+  "createdAt": {
+    "$date": "2025-06-14T11:37:39.343Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f030886faf1b851a794"
+  },
+  "chapter_id": {
+    "$oid": "684d5dad0886faf1b851a6c2"
+  },
+  "verse_no": 43,
+  "sanskrit_script": "कामात्मानः स्वर्गपरा जन्मकर्मफलप्रदाम्।\\nक्रियाविशेषबहुलां भोगैश्वर्यगतिं प्रति॥२.४३॥",
+  "english_translation": "Those with desires for sense gratification consider heavenly pleasures the highest goal. They speak flowery words prescribing various rituals for attaining power, riches and sensual enjoyment.",
+  "keywords": [],
+  "who_tell": "Krishna",
+  "whome_to_tell": "Arjuna",
+  "createdAt": {
+    "$date": "2025-06-14T11:37:39.348Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f030886faf1b851a796"
+  },
+  "chapter_id": {
+    "$oid": "684d5dad0886faf1b851a6c2"
+  },
+  "verse_no": 44,
+  "sanskrit_script": "भोगैश्वर्यप्रसक्तानां तयापहृतचेतसाम्।\\nव्यवसायात्मिका बुद्धिः समाधौ न विधीयते॥२.४४॥",
+  "english_translation": "For those who are too attached to sense enjoyment and material opulence, and who are thus bewildered by such things, the resolute determination for devotional service does not take place.",
+  "keywords": [],
+  "who_tell": "Krishna",
+  "whome_to_tell": "Arjuna",
+  "createdAt": {
+    "$date": "2025-06-14T11:37:39.358Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f030886faf1b851a798"
+  },
+  "chapter_id": {
+    "$oid": "684d5dad0886faf1b851a6c2"
+  },
+  "verse_no": 45,
+  "sanskrit_script": "त्रैगुण्यविषया वेदा निस्त्रैगुण्यो भवार्जुन।\\nनिर्द्वन्द्वो नित्यसत्त्वस्थो निर्योगक्षेम आत्मवान्॥२.४५॥",
+  "english_translation": "The Vedas deal mainly with the three modes of material nature. Rise above these modes, O Arjuna. Be transcendental to them. Free yourself from dualities and anxieties for gain and safety, and be established in the self.",
+  "keywords": [],
+  "who_tell": "Krishna",
+  "whome_to_tell": "Arjuna",
+  "createdAt": {
+    "$date": "2025-06-14T11:37:39.364Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f030886faf1b851a79a"
+  },
+  "chapter_id": {
+    "$oid": "684d5dad0886faf1b851a6c2"
+  },
+  "verse_no": 46,
+  "sanskrit_script": "यावानर्थ उदपाने सर्वतः संप्लुतोदके।\\nतावान्सर्वेषु वेदेषु ब्राह्मणस्य विजानतः॥२.४६॥",
+  "english_translation": "All purposes served by a small well can at once be served by a great reservoir of water. Similarly, one who understands the ultimate purpose of the Vedas knows all the purposes of the Vedas.",
+  "keywords": [],
+  "who_tell": "Krishna",
+  "whome_to_tell": "Arjuna",
+  "createdAt": {
+    "$date": "2025-06-14T11:37:39.372Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f030886faf1b851a79c"
+  },
+  "chapter_id": {
+    "$oid": "684d5dad0886faf1b851a6c2"
+  },
+  "verse_no": 47,
+  "sanskrit_script": "कर्मण्येवाधिकारस्ते मा फलेषु कदाचन।\\nमा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि॥२.४७॥",
+  "english_translation": "You have a right to perform your prescribed duties, but you are not entitled to the fruits of your actions. Never consider yourself the cause of the results of your activities, nor be attached to inaction.",
+  "keywords": [],
+  "who_tell": "Krishna",
+  "whome_to_tell": "Arjuna",
+  "createdAt": {
+    "$date": "2025-06-14T11:37:39.380Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f030886faf1b851a79e"
+  },
+  "chapter_id": {
+    "$oid": "684d5dad0886faf1b851a6c2"
+  },
+  "verse_no": 48,
+  "sanskrit_script": "योगस्थः कुरु कर्माणि सङ्गं त्यक्त्वा धनञ्जय।\\nसिद्ध्यसिद्ध्योः समो भूत्वा समत्वं योग उच्यते॥२.४८॥",
+  "english_translation": "Perform your duty equipoised, O Arjuna, abandoning all attachment to success or failure. Such equanimity is called yoga.",
+  "keywords": [],
+  "who_tell": "Krishna",
+  "whome_to_tell": "Arjuna",
+  "createdAt": {
+    "$date": "2025-06-14T11:37:39.392Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f030886faf1b851a7a0"
+  },
+  "chapter_id": {
+    "$oid": "684d5dad0886faf1b851a6c2"
+  },
+  "verse_no": 49,
+  "sanskrit_script": "दूरेण ह्यवरं कर्म बुद्धियोगाद्धनञ्जय।\\nबुद्धौ शरणमन्विच्छ कृपणाः फलहेतवः॥२.४९॥",
+  "english_translation": "O Dhananjaya, action with selfish motive is far inferior to action performed in devotional service. Seek refuge in divine consciousness, for pitiable are those motivated by results.",
+  "keywords": [],
+  "who_tell": "Krishna",
+  "whome_to_tell": "Arjuna",
+  "createdAt": {
+    "$date": "2025-06-14T11:37:39.407Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f030886faf1b851a7a2"
+  },
+  "chapter_id": {
+    "$oid": "684d5dad0886faf1b851a6c2"
+  },
+  "verse_no": 50,
+  "sanskrit_script": "बुद्धियुक्तो जहातीह उभे सुकृतदुष्कृते।\\nतस्माद्योगाय युज्यस्व योगः कर्मसु कौशलम्॥२.५०॥",
+  "english_translation": "One who is equipoised in consciousness abandons both good and bad deeds in this life. Therefore strive for this yoga, which is the art of working skillfully.",
+  "keywords": [],
+  "who_tell": "Krishna",
+  "whome_to_tell": "Arjuna",
+  "createdAt": {
+    "$date": "2025-06-14T11:37:39.419Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f030886faf1b851a7a4"
+  },
+  "chapter_id": {
+    "$oid": "684d5dad0886faf1b851a6c2"
+  },
+  "verse_no": 51,
+  "sanskrit_script": "कर्मजं बुद्धियुक्ता हि फलं त्यक्त्वा मनीषिणः।\\nजन्मबन्धविनिर्मुक्ताः पदं गच्छन्त्यनामयम्॥२.५१॥",
+  "english_translation": "The wise, engaged in devotional service, renounce the fruits of their actions and become free from the bondage of birth, attaining the state beyond all miseries.",
+  "keywords": [],
+  "who_tell": "Krishna",
+  "whome_to_tell": "Arjuna",
+  "createdAt": {
+    "$date": "2025-06-14T11:37:39.426Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f030886faf1b851a7a6"
+  },
+  "chapter_id": {
+    "$oid": "684d5dad0886faf1b851a6c2"
+  },
+  "verse_no": 52,
+  "sanskrit_script": "यदा ते मोहकलिलं बुद्धिर्व्यतितरिष्यति।\\nतदा गन्तासि निर्वेदं श्रोतव्यस्य श्रुतस्य च॥२.५२॥",
+  "english_translation": "When your intelligence passes beyond the dense forest of delusion, you will become indifferent to all that has been heard and all that is to be heard.",
+  "keywords": [],
+  "who_tell": "Krishna",
+  "whome_to_tell": "Arjuna",
+  "createdAt": {
+    "$date": "2025-06-14T11:37:39.432Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f030886faf1b851a7a8"
+  },
+  "chapter_id": {
+    "$oid": "684d5dad0886faf1b851a6c2"
+  },
+  "verse_no": 53,
+  "sanskrit_script": "श्रुतिविप्रतिपन्ना ते यदा स्थास्यति निश्चला।\\nसमाधावचला बुद्धिस्तदा योगमवाप्स्यसि॥२.५३॥",
+  "english_translation": "When your mind is no longer disturbed by the flowery language of the Vedas and remains fixed in divine consciousness, then you will have attained the state of perfect yoga.",
+  "keywords": [],
+  "who_tell": "Krishna",
+  "whome_to_tell": "Arjuna",
+  "createdAt": {
+    "$date": "2025-06-14T11:37:39.438Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f030886faf1b851a7aa"
+  },
+  "chapter_id": {
+    "$oid": "684d5dad0886faf1b851a6c2"
+  },
+  "verse_no": 54,
+  "sanskrit_script": "अर्जुन उवाच\\nस्थितप्रज्ञस्य का भाषा समाधिस्थस्य केशव।\\nस्थितधीः किं प्रभाषेत किमासीत व्रजेत किम्॥२.५४॥",
+  "english_translation": "Arjuna said: O Keshava, what are the symptoms of one whose consciousness is thus merged in transcendence? How does he speak, and what is his language? How does he sit, and how does he walk?",
+  "keywords": [],
+  "who_tell": "Arjuna",
+  "whome_to_tell": "Krishna",
+  "createdAt": {
+    "$date": "2025-06-14T11:37:39.450Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f030886faf1b851a7ac"
+  },
+  "chapter_id": {
+    "$oid": "684d5dad0886faf1b851a6c2"
+  },
+  "verse_no": 55,
+  "sanskrit_script": "श्रीभगवानुवाच\\nप्रजहाति यदा कामान्सर्वान्पार्थ मनोगतान्।\\nआत्मन्येवात्मना तुष्टः स्थितप्रज्ञस्तदोच्यते॥२.५५॥",
+  "english_translation": "The Supreme Lord said: O Partha, when one gives up all varieties of sense desires that arise in the mind and finds satisfaction in the self alone, then he is said to be steady in intelligence.",
+  "keywords": [],
+  "who_tell": "Krishna",
+  "whome_to_tell": "Arjuna",
+  "createdAt": {
+    "$date": "2025-06-14T11:37:39.456Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f030886faf1b851a7ae"
+  },
+  "chapter_id": {
+    "$oid": "684d5dad0886faf1b851a6c2"
+  },
+  "verse_no": 56,
+  "sanskrit_script": "दुःखेष्वनुद्विग्नमनाः सुखेषु विगतस्पृहः।\\nवीतरागभयक्रोधः स्थितधीर्मुनिरुच्यते॥२.५६॥",
+  "english_translation": "One whose mind is undisturbed in the midst of misery, who is free from craving for pleasure, and who is free from attachment, fear and anger, is called a sage of steady wisdom.",
+  "keywords": [],
+  "who_tell": "Krishna",
+  "whome_to_tell": "Arjuna",
+  "createdAt": {
+    "$date": "2025-06-14T11:37:39.462Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f030886faf1b851a7b0"
+  },
+  "chapter_id": {
+    "$oid": "684d5dad0886faf1b851a6c2"
+  },
+  "verse_no": 57,
+  "sanskrit_script": "यः सर्वत्रानभिस्नेहस्तत्तत्प्राप्य शुभाशुभम्।\\nनाभिनन्दति न द्वेष्टि तस्य प्रज्ञा प्रतिष्ठिता॥२.५७॥",
+  "english_translation": "One who is unattached to anything, who neither rejoices nor despises upon obtaining good or bad, has steady wisdom.",
+  "keywords": [],
+  "who_tell": "Krishna",
+  "whome_to_tell": "Arjuna",
+  "createdAt": {
+    "$date": "2025-06-14T11:37:39.470Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f030886faf1b851a7b2"
+  },
+  "chapter_id": {
+    "$oid": "684d5dad0886faf1b851a6c2"
+  },
+  "verse_no": 58,
+  "sanskrit_script": "यदा संहरते चायं कूर्मोऽङ्गानीव सर्वशः।\\nइन्द्रियाणीन्द्रियार्थेभ्यस्तस्य प्रज्ञा प्रतिष्ठिता॥२.५८॥",
+  "english_translation": "When one withdraws his senses from sense objects, as a tortoise withdraws its limbs into its shell, his wisdom becomes steady.",
+  "keywords": [],
+  "who_tell": "Krishna",
+  "whome_to_tell": "Arjuna",
+  "createdAt": {
+    "$date": "2025-06-14T11:37:39.476Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f030886faf1b851a7b4"
+  },
+  "chapter_id": {
+    "$oid": "684d5dad0886faf1b851a6c2"
+  },
+  "verse_no": 59,
+  "sanskrit_script": "विषया विनिवर्तन्ते निराहारस्य देहिनः।\\nरसवर्जं रसोऽप्यस्य परं दृष्ट्वा निवर्तते॥२.५९॥",
+  "english_translation": "Though the embodied soul may restrict himself from sense enjoyment, his taste for sense objects remains. But experiencing a higher taste, he is fixed in consciousness.",
+  "keywords": [],
+  "who_tell": "Krishna",
+  "whome_to_tell": "Arjuna",
+  "createdAt": {
+    "$date": "2025-06-14T11:37:39.481Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f030886faf1b851a7b6"
+  },
+  "chapter_id": {
+    "$oid": "684d5dad0886faf1b851a6c2"
+  },
+  "verse_no": 60,
+  "sanskrit_script": "यततो ह्यपि कौन्तेय पुरुषस्य विपश्चितः।\\nइन्द्रियाणि प्रमाथीनि हरन्ति प्रसभं मनः॥२.६०॥",
+  "english_translation": "O son of Kunti, the senses are so strong and impetuous that they forcibly carry away the mind even of a wise person striving for perfection.",
+  "keywords": [],
+  "who_tell": "Krishna",
+  "whome_to_tell": "Arjuna",
+  "createdAt": {
+    "$date": "2025-06-14T11:37:39.487Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f030886faf1b851a7b8"
+  },
+  "chapter_id": {
+    "$oid": "684d5dad0886faf1b851a6c2"
+  },
+  "verse_no": 61,
+  "sanskrit_script": "तानि सर्वाणि संयम्य युक्त आसीत मत्परः।\\nवशे हि यस्येन्द्रियाणि तस्य प्रज्ञा प्रतिष्ठिता॥२.६१॥",
+  "english_translation": "One who restrains his senses and fixes his consciousness upon Me is known as a man of steady intelligence.",
+  "keywords": [],
+  "who_tell": "Krishna",
+  "whome_to_tell": "Arjuna",
+  "createdAt": {
+    "$date": "2025-06-14T11:37:39.493Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f030886faf1b851a7ba"
+  },
+  "chapter_id": {
+    "$oid": "684d5dad0886faf1b851a6c2"
+  },
+  "verse_no": 62,
+  "sanskrit_script": "ध्यायतो विषयान्पुंसः सङ्गस्तेषूपजायते।\\nसङ्गात्सञ्जायते कामः कामात्क्रोधोऽभिजायते॥२.६२॥",
+  "english_translation": "While contemplating the objects of the senses, a person develops attachment to them, from such attachment lust develops, and from lust anger arises.",
+  "keywords": [],
+  "who_tell": "Krishna",
+  "whome_to_tell": "Arjuna",
+  "createdAt": {
+    "$date": "2025-06-14T11:37:39.496Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f030886faf1b851a7bc"
+  },
+  "chapter_id": {
+    "$oid": "684d5dad0886faf1b851a6c2"
+  },
+  "verse_no": 63,
+  "sanskrit_script": "क्रोधाद्भवति सम्मोहः सम्मोहात्स्मृतिविभ्रमः।\\nस्मृतिभ्रंशाद् बुद्धिनाशो बुद्धिनाशात्प्रणश्यति॥२.६३॥",
+  "english_translation": "From anger, complete delusion arises, and from delusion bewilderment of memory. When memory is bewildered, intelligence is lost, and when intelligence is lost one falls down again into the material pool.",
+  "keywords": [],
+  "who_tell": "Krishna",
+  "whome_to_tell": "Arjuna",
+  "createdAt": {
+    "$date": "2025-06-14T11:37:39.505Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f030886faf1b851a7be"
+  },
+  "chapter_id": {
+    "$oid": "684d5dad0886faf1b851a6c2"
+  },
+  "verse_no": 64,
+  "sanskrit_script": "रागद्वेषवियुक्तैस्तु विषयानिन्द्रियैश्चरन्।\\nआत्मवश्यैर्विधेयात्मा प्रसादमधिगच्छति॥२.६४॥",
+  "english_translation": "But one who controls his senses and is free from attachment and aversion attains the Lord's mercy and thus becomes free from all anxieties.",
+  "keywords": [],
+  "who_tell": "Krishna",
+  "whome_to_tell": "Arjuna",
+  "createdAt": {
+    "$date": "2025-06-14T11:37:39.512Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f030886faf1b851a7c0"
+  },
+  "chapter_id": {
+    "$oid": "684d5dad0886faf1b851a6c2"
+  },
+  "verse_no": 65,
+  "sanskrit_script": "प्रसादे सर्वदुःखानां हानिरस्योपजायते।\\nप्रसन्नचेतसो ह्याशु बुद्धिः पर्यवतिष्ठते॥२.६५॥",
+  "english_translation": "For one thus satisfied, all miseries come to an end, and the intelligence of such a person soon becomes steady.",
+  "keywords": [],
+  "who_tell": "Krishna",
+  "whome_to_tell": "Arjuna",
+  "createdAt": {
+    "$date": "2025-06-14T11:37:39.517Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f030886faf1b851a7c2"
+  },
+  "chapter_id": {
+    "$oid": "684d5dad0886faf1b851a6c2"
+  },
+  "verse_no": 66,
+  "sanskrit_script": "नास्ति बुद्धिरयुक्तस्य न चायुक्तस्य भावना।\\nन चाभावयतः शान्तिरशान्तस्य कुतः सुखम्॥२.६६॥",
+  "english_translation": "One who is not connected with the Supreme can have neither transcendental intelligence nor a steady mind, without which there is no possibility of peace. And how can there be any happiness without peace?",
+  "keywords": [],
+  "who_tell": "Krishna",
+  "whome_to_tell": "Arjuna",
+  "createdAt": {
+    "$date": "2025-06-14T11:37:39.521Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f030886faf1b851a7c4"
+  },
+  "chapter_id": {
+    "$oid": "684d5dad0886faf1b851a6c2"
+  },
+  "verse_no": 67,
+  "sanskrit_script": "इन्द्रियाणां हि चरतां यन्मनोऽनुविधीयते।\\nतदस्य हरति प्रज्ञां वायुर्नावमिवाम्भसि॥२.६७॥",
+  "english_translation": "As a strong wind sweeps away a boat on the water, even one of the senses on which the mind focuses can carry away a man's intelligence.",
+  "keywords": [],
+  "who_tell": "Krishna",
+  "whome_to_tell": "Arjuna",
+  "createdAt": {
+    "$date": "2025-06-14T11:37:39.528Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f030886faf1b851a7c6"
+  },
+  "chapter_id": {
+    "$oid": "684d5dad0886faf1b851a6c2"
+  },
+  "verse_no": 68,
+  "sanskrit_script": "तस्माद्यस्य महाबाहो निगृहीतानि सर्वशः।\\nइन्द्रियाणीन्द्रियार्थेभ्यस्तस्य प्रज्ञा प्रतिष्ठिता॥२.६८॥",
+  "english_translation": "Therefore, O mighty-armed one, one whose senses are restrained from their objects has steady intelligence.",
+  "keywords": [],
+  "who_tell": "Krishna",
+  "whome_to_tell": "Arjuna",
+  "createdAt": {
+    "$date": "2025-06-14T11:37:39.533Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f030886faf1b851a7c8"
+  },
+  "chapter_id": {
+    "$oid": "684d5dad0886faf1b851a6c2"
+  },
+  "verse_no": 69,
+  "sanskrit_script": "या निशा सर्वभूतानां तस्यां जागर्ति संयमी।\\nयस्यां जाग्रति भूतानि सा निशा पश्यतो मुनेः॥२.६९॥",
+  "english_translation": "What is night for all beings is the time of awakening for the self-controlled; and the time of awakening for all beings is night for the introspective sage.",
+  "keywords": [],
+  "who_tell": "Krishna",
+  "whome_to_tell": "Arjuna",
+  "createdAt": {
+    "$date": "2025-06-14T11:37:39.538Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f030886faf1b851a7ca"
+  },
+  "chapter_id": {
+    "$oid": "684d5dad0886faf1b851a6c2"
+  },
+  "verse_no": 70,
+  "sanskrit_script": "आपूर्यमाणमचलप्रतिष्ठं\\nसमुद्रमापः प्रविशन्ति यद्वत्।\\nतद्वत्कामा यं प्रविशन्ति सर्वे\\nस शान्तिमाप्नोति न कामकामी॥२.७०॥",
+  "english_translation": "A person who is not disturbed by the incessant flow of desires - that enter like rivers into the ocean, which is ever being filled but is always still - can alone achieve peace, and not the man who strives to satisfy such desires.",
+  "keywords": [],
+  "who_tell": "Krishna",
+  "whome_to_tell": "Arjuna",
+  "createdAt": {
+    "$date": "2025-06-14T11:37:39.542Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f030886faf1b851a7cc"
+  },
+  "chapter_id": {
+    "$oid": "684d5dad0886faf1b851a6c2"
+  },
+  "verse_no": 71,
+  "sanskrit_script": "विहाय कामान्यः सर्वान्पुमांश्चरति निःस्पृहः।\\nनिर्ममो निरहंकारः स शान्तिमधिगच्छति॥२.७१॥",
+  "english_translation": "One who gives up all desires and acts free from longing, without any sense of proprietorship or egoism - he attains perfect peace.",
+  "keywords": [],
+  "who_tell": "Krishna",
+  "whome_to_tell": "Arjuna",
+  "createdAt": {
+    "$date": "2025-06-14T11:37:39.547Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f030886faf1b851a7ce"
+  },
+  "chapter_id": {
+    "$oid": "684d5dad0886faf1b851a6c2"
+  },
+  "verse_no": 72,
+  "sanskrit_script": "एषा ब्राह्मी स्थितिः पार्थ नैनां प्राप्य विमुह्यति।\\nस्थित्वास्यामन्तकालेऽपि ब्रह्मनिर्वाणमृच्छति॥२.७२॥",
+  "english_translation": "O Partha, this is the state of divine consciousness. Attaining it, one is no longer deluded. Being thus established even at the hour of death, one attains the supreme spiritual peace.",
+  "keywords": [],
+  "who_tell": "Krishna",
+  "whome_to_tell": "Arjuna",
+  "createdAt": {
+    "$date": "2025-06-14T11:37:39.554Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f170886faf1b851a7dc"
+  },
+  "chapter_id": {
+    "$oid": "684d5ddf0886faf1b851a6c4"
+  },
+  "verse_no": 1,
+  "sanskrit_script": "अर्जुन उवाच\\nज्यायसी चेत्कर्मणस्ते मता बुद्धिर्जनार्दन।\\nतत्किं कर्मणि घोरे मां नियोजयसि केशव॥३.१॥",
+  "english_translation": "Arjuna said: O Janardana, if You consider knowledge superior to action, why then do You engage me in this terrible action, O Keshava?",
+  "keywords": [],
+  "who_tell": "Arjuna",
+  "whome_to_tell": "Krishna",
+  "createdAt": {
+    "$date": "2025-06-14T11:37:59.124Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f170886faf1b851a7de"
+  },
+  "chapter_id": {
+    "$oid": "684d5ddf0886faf1b851a6c4"
+  },
+  "verse_no": 2,
+  "sanskrit_script": "व्यामिश्रेणेव वाक्येन बुद्धिं मोहयसीव मे।\\nतदेकं वद निश्चित्य येन श्रेयोऽहमाप्नुयाम्॥३.२॥",
+  "english_translation": "With these apparently confusing words You are bewildering my intelligence. Please tell me decisively that one path by which I may attain the highest good.",
+  "keywords": [],
+  "who_tell": "Arjuna",
+  "whome_to_tell": "Krishna",
+  "createdAt": {
+    "$date": "2025-06-14T11:37:59.126Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f170886faf1b851a7e0"
+  },
+  "chapter_id": {
+    "$oid": "684d5ddf0886faf1b851a6c4"
+  },
+  "verse_no": 3,
+  "sanskrit_script": "श्रीभगवानुवाच\\nलोकेऽस्मिन्द्विविधा निष्ठा पुरा प्रोक्ता मयानघ।\\nज्ञानयोगेन साङ्ख्यानां कर्मयोगेन योगिनाम्॥३.३॥",
+  "english_translation": "The Supreme Lord said: O sinless one, in this world there are two paths: the path of knowledge for those inclined toward contemplation, and the path of work for the active.",
+  "keywords": [],
+  "who_tell": "Krishna",
+  "whome_to_tell": "Arjuna",
+  "createdAt": {
+    "$date": "2025-06-14T11:37:59.159Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f170886faf1b851a7e2"
+  },
+  "chapter_id": {
+    "$oid": "684d5ddf0886faf1b851a6c4"
+  },
+  "verse_no": 4,
+  "sanskrit_script": "न कर्मणामनारम्भान्नैष्कर्म्यं पुरुषोऽश्नुते।\\nन च संन्यसनादेव सिद्धिं समधिगच्छति॥३.४॥",
+  "english_translation": "One cannot achieve freedom from reactions to work merely by abstaining from work, nor can one attain perfection of knowledge by mere renunciation.",
+  "keywords": [],
+  "who_tell": "Krishna",
+  "whome_to_tell": "Arjuna",
+  "createdAt": {
+    "$date": "2025-06-14T11:37:59.245Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f170886faf1b851a7e4"
+  },
+  "chapter_id": {
+    "$oid": "684d5ddf0886faf1b851a6c4"
+  },
+  "verse_no": 5,
+  "sanskrit_script": "न हि कश्चित्क्षणमपि जातु तिष्ठत्यकर्मकृत्।\\nकार्यते ह्यवशः कर्म सर्वः प्रकृतिजैर्गुणैः॥३.५॥",
+  "english_translation": "All beings are forced to act helplessly according to the impulses born of the modes of material nature; therefore no one can refrain from doing something, even for a moment.",
+  "keywords": [],
+  "who_tell": "Krishna",
+  "whome_to_tell": "Arjuna",
+  "createdAt": {
+    "$date": "2025-06-14T11:37:59.329Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f170886faf1b851a7e6"
+  },
+  "chapter_id": {
+    "$oid": "684d5ddf0886faf1b851a6c4"
+  },
+  "verse_no": 6,
+  "sanskrit_script": "कर्मेन्द्रियाणि संयम्य य आस्ते मनसा स्मरन्।\\nइन्द्रियार्थान्विमूढात्मा मिथ्याचारः स उच्यते॥३.६॥",
+  "english_translation": "One who restrains the senses of action but whose mind dwells on sense objects is said to be a hypocrite.",
+  "keywords": [],
+  "who_tell": "Krishna",
+  "whome_to_tell": "Arjuna",
+  "createdAt": {
+    "$date": "2025-06-14T11:37:59.373Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f170886faf1b851a7e8"
+  },
+  "chapter_id": {
+    "$oid": "684d5ddf0886faf1b851a6c4"
+  },
+  "verse_no": 7,
+  "sanskrit_script": "यस्त्विन्द्रियाणि मनसा नियम्यारभतेऽर्जुन।\\nकर्मेन्द्रियैः कर्मयोगमसक्तः स विशिष्यते॥३.७॥",
+  "english_translation": "But one who controls the senses by the mind and engages the active senses in selfless service is superior, O Arjuna.",
+  "keywords": [],
+  "who_tell": "Krishna",
+  "whome_to_tell": "Arjuna",
+  "createdAt": {
+    "$date": "2025-06-14T11:37:59.413Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f170886faf1b851a7ea"
+  },
+  "chapter_id": {
+    "$oid": "684d5ddf0886faf1b851a6c4"
+  },
+  "verse_no": 8,
+  "sanskrit_script": "नियतं कुरु कर्म त्वं कर्म ज्यायो ह्यकर्मणः।\\nशरीरयात्रापि च ते न प्रसिद्ध्येदकर्मणः॥३.८॥",
+  "english_translation": "Perform your prescribed duties, for action is better than inaction. Even the maintenance of your body would not be possible without action.",
+  "keywords": [],
+  "who_tell": "Krishna",
+  "whome_to_tell": "Arjuna",
+  "createdAt": {
+    "$date": "2025-06-14T11:37:59.452Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f170886faf1b851a7ec"
+  },
+  "chapter_id": {
+    "$oid": "684d5ddf0886faf1b851a6c4"
+  },
+  "verse_no": 9,
+  "sanskrit_script": "यज्ञार्थात्कर्मणोऽन्यत्र लोकोऽयं कर्मबन्धनः।\\nतदर्थं कर्म कौन्तेय मुक्तसङ्गः समाचर॥३.९॥",
+  "english_translation": "Work done as a sacrifice for Vishnu has to be performed; otherwise work binds one to this material world. Therefore, O son of Kunti, perform your prescribed duties for His satisfaction, and in that way you will always remain free from bondage.",
+  "keywords": [],
+  "who_tell": "Krishna",
+  "whome_to_tell": "Arjuna",
+  "createdAt": {
+    "$date": "2025-06-14T11:37:59.488Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f170886faf1b851a7ee"
+  },
+  "chapter_id": {
+    "$oid": "684d5ddf0886faf1b851a6c4"
+  },
+  "verse_no": 10,
+  "sanskrit_script": "सहयज्ञाः प्रजाः सृष्ट्वा पुरोवाच प्रजापतिः।\\nअनेन प्रसविष्यध्वमेष वोऽस्त्विष्टकामधुक्॥३.१०॥",
+  "english_translation": "In the beginning of creation, the Lord of all beings sent forth generations of men and demigods, along with sacrifices for Vishnu, and blessed them by saying, 'Be thou happy by this yajña [sacrifice].'",
+  "keywords": [],
+  "who_tell": "Krishna",
+  "whome_to_tell": "Arjuna",
+  "createdAt": {
+    "$date": "2025-06-14T11:37:59.525Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f170886faf1b851a7f0"
+  },
+  "chapter_id": {
+    "$oid": "684d5ddf0886faf1b851a6c4"
+  },
+  "verse_no": 11,
+  "sanskrit_script": "देवान्भावयतानेन ते देवा भावयन्तु वः।\\nपरस्परं भावयन्तः श्रेयः परमवाप्स्यथ॥३.११॥",
+  "english_translation": "By this mutual service and satisfaction, you will achieve the highest good. The demigods, being pleased by sacrifices, will please you in return.",
+  "keywords": [],
+  "who_tell": "Krishna",
+  "whome_to_tell": "Arjuna",
+  "createdAt": {
+    "$date": "2025-06-14T11:37:59.561Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f170886faf1b851a7f2"
+  },
+  "chapter_id": {
+    "$oid": "684d5ddf0886faf1b851a6c4"
+  },
+  "verse_no": 12,
+  "sanskrit_script": "इष्टान्भोगान्हि वो देवा दास्यन्ते यज्ञभाविताः।\\nतैर्दत्तानप्रदायैभ्यो यो भुङ्क्ते स्तेन एव सः॥३.१२॥",
+  "english_translation": "The demigods, being satisfied by the performance of yajña [sacrifice], will supply all necessities to you. But he who enjoys such gifts without offering them to the demigods is certainly a thief.",
+  "keywords": [],
+  "who_tell": "Krishna",
+  "whome_to_tell": "Arjuna",
+  "createdAt": {
+    "$date": "2025-06-14T11:37:59.604Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f170886faf1b851a7f4"
+  },
+  "chapter_id": {
+    "$oid": "684d5ddf0886faf1b851a6c4"
+  },
+  "verse_no": 13,
+  "sanskrit_script": "यज्ञशिष्टाशिनः सन्तो मुच्यन्ते सर्वकिल्बिषैः।\\nभुञ्जते ते त्वघं पापा ये पचन्त्यात्मकारणात्॥३.१३॥",
+  "english_translation": "The virtuous who eat food that is first offered in sacrifice are released from all kinds of sin. Others, who cook food for their own enjoyment, verily eat only sin.",
+  "keywords": [],
+  "who_tell": "Krishna",
+  "whome_to_tell": "Arjuna",
+  "createdAt": {
+    "$date": "2025-06-14T11:37:59.640Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f170886faf1b851a7f6"
+  },
+  "chapter_id": {
+    "$oid": "684d5ddf0886faf1b851a6c4"
+  },
+  "verse_no": 14,
+  "sanskrit_script": "अन्नाद्भवन्ति भूतानि पर्जन्यादन्नसंभवः।\\nयज्ञाद्भवति पर्जन्यो यज्ञः कर्मसमुद्भवः॥३.१४॥",
+  "english_translation": "All living bodies subsist on food grains, which are produced from rains. Rains are produced by performance of yajña [sacrifice], and yajña is born of prescribed duties.",
+  "keywords": [],
+  "who_tell": "Krishna",
+  "whome_to_tell": "Arjuna",
+  "createdAt": {
+    "$date": "2025-06-14T11:37:59.680Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f170886faf1b851a7f8"
+  },
+  "chapter_id": {
+    "$oid": "684d5ddf0886faf1b851a6c4"
+  },
+  "verse_no": 15,
+  "sanskrit_script": "कर्म ब्रह्मोद्भवं विद्धि ब्रह्माक्षरसमुद्भवम्।\\nतस्मात्सर्वगतं ब्रह्म नित्यं यज्ञे प्रतिष्ठितम्॥३.१५॥",
+  "english_translation": "Regulated activities are prescribed in the Vedas, and the Vedas are directly manifested from the Supreme Personality of Godhead. Consequently the all-pervading Transcendence is eternally situated in acts of sacrifice.",
+  "keywords": [],
+  "who_tell": "Krishna",
+  "whome_to_tell": "Arjuna",
+  "createdAt": {
+    "$date": "2025-06-14T11:37:59.718Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f170886faf1b851a7fa"
+  },
+  "chapter_id": {
+    "$oid": "684d5ddf0886faf1b851a6c4"
+  },
+  "verse_no": 16,
+  "sanskrit_script": "एवं प्रवर्तितं चक्रं नानुवर्तयतीह यः।\\nअघायुरिन्द्रियारामो मोघं पार्थ स जीवति॥३.१६॥",
+  "english_translation": "My dear Arjuna, one who does not follow in human life the cycle of sacrifice thus established by the Vedas certainly leads a life full of sin. Living only for the satisfaction of the senses, such a person lives in vain.",
+  "keywords": [],
+  "who_tell": "Krishna",
+  "whome_to_tell": "Arjuna",
+  "createdAt": {
+    "$date": "2025-06-14T11:37:59.757Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f170886faf1b851a7fc"
+  },
+  "chapter_id": {
+    "$oid": "684d5ddf0886faf1b851a6c4"
+  },
+  "verse_no": 17,
+  "sanskrit_script": "यस्त्वात्मरतिरेव स्यादात्मतृप्तश्च मानवः।\\nआत्मन्येव च सन्तुष्टस्तस्य कार्यं न विद्यते॥३.१७॥",
+  "english_translation": "But for one who takes pleasure in the Self, whose human life is one of self-realization, and who is satisfied in the Self only, fully satiated—for him there is no duty.",
+  "keywords": [],
+  "who_tell": "Krishna",
+  "whome_to_tell": "Arjuna",
+  "createdAt": {
+    "$date": "2025-06-14T11:37:59.797Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f170886faf1b851a7fe"
+  },
+  "chapter_id": {
+    "$oid": "684d5ddf0886faf1b851a6c4"
+  },
+  "verse_no": 18,
+  "sanskrit_script": "नैव तस्य कृतेनार्थो नाकृतेनेह कश्चन।\\nन चास्य सर्वभूतेषु कश्चिदर्थव्यपाश्रयः॥३.१८॥",
+  "english_translation": "A self-realized man has no purpose to fulfill in the discharge of his prescribed duties, nor has he any reason not to perform such work. Nor has he any need to depend on any other living being.",
+  "keywords": [],
+  "who_tell": "Krishna",
+  "whome_to_tell": "Arjuna",
+  "createdAt": {
+    "$date": "2025-06-14T11:37:59.835Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f170886faf1b851a800"
+  },
+  "chapter_id": {
+    "$oid": "684d5ddf0886faf1b851a6c4"
+  },
+  "verse_no": 19,
+  "sanskrit_script": "तस्मादसक्तः सततं कार्यं कर्म समाचर।\\nअसक्तो ह्याचरन्कर्म परमाप्नोति पूरुषः॥३.१९॥",
+  "english_translation": "Therefore, without being attached to the fruits of activities, one should act as a matter of duty; for by working without attachment, one attains the Supreme.",
+  "keywords": [],
+  "who_tell": "Krishna",
+  "whome_to_tell": "Arjuna",
+  "createdAt": {
+    "$date": "2025-06-14T11:37:59.875Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f170886faf1b851a802"
+  },
+  "chapter_id": {
+    "$oid": "684d5ddf0886faf1b851a6c4"
+  },
+  "verse_no": 20,
+  "sanskrit_script": "कर्मणैव हि संसिद्धिमास्थिता जनकादयः।\\nलोकसंग्रहमेवापि संपश्यन्कर्तुमर्हसि॥३.२०॥",
+  "english_translation": "Even kings like Janaka and others attained perfection by performance of prescribed duties. Therefore, just for the sake of educating the people in general, you should perform your work.",
+  "keywords": [],
+  "who_tell": "Krishna",
+  "whome_to_tell": "Arjuna",
+  "createdAt": {
+    "$date": "2025-06-14T11:37:59.913Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f170886faf1b851a804"
+  },
+  "chapter_id": {
+    "$oid": "684d5ddf0886faf1b851a6c4"
+  },
+  "verse_no": 21,
+  "sanskrit_script": "यद्यदाचरति श्रेष्ठस्तत्तदेवेतरो जनः।\\nस यत्प्रमाणं कुरुते लोकस्तदनुवर्तते॥३.२१॥",
+  "english_translation": "Whatever action a great man performs, common men follow. And whatever standards he sets by exemplary acts, all the world pursues.",
+  "keywords": [],
+  "who_tell": "Krishna",
+  "whome_to_tell": "Arjuna",
+  "createdAt": {
+    "$date": "2025-06-14T11:37:59.954Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f170886faf1b851a806"
+  },
+  "chapter_id": {
+    "$oid": "684d5ddf0886faf1b851a6c4"
+  },
+  "verse_no": 22,
+  "sanskrit_script": "न मे पार्थास्ति कर्तव्यं त्रिषु लोकेषु किञ्चन।\\nनानवाप्तमवाप्तव्यं वर्त एव च कर्मणि॥३.२२॥",
+  "english_translation": "O Partha, there is no work prescribed for Me within all the three planetary systems. Nor am I in want of anything, nor have I need to obtain anything—and yet I am engaged in work.",
+  "keywords": [],
+  "who_tell": "Krishna",
+  "whome_to_tell": "Arjuna",
+  "createdAt": {
+    "$date": "2025-06-14T11:37:59.992Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f180886faf1b851a808"
+  },
+  "chapter_id": {
+    "$oid": "684d5ddf0886faf1b851a6c4"
+  },
+  "verse_no": 23,
+  "sanskrit_script": "यदि ह्यहं न वर्तेयं जातु कर्मण्यतन्द्रितः।\\nमम वर्त्मानुवर्तन्ते मनुष्याः पार्थ सर्वशः॥३.२३॥",
+  "english_translation": "For if I ever failed to engage in carefully performing My duties, O Partha, certainly all men would follow My path.",
+  "keywords": [],
+  "who_tell": "Krishna",
+  "whome_to_tell": "Arjuna",
+  "createdAt": {
+    "$date": "2025-06-14T11:38:00.035Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f180886faf1b851a80a"
+  },
+  "chapter_id": {
+    "$oid": "684d5ddf0886faf1b851a6c4"
+  },
+  "verse_no": 24,
+  "sanskrit_script": "उत्सीदेयुरिमे लोका न कुर्यां कर्म चेदहम्।\\nसंकरस्य च कर्ता स्यामुपहन्यामिमाः प्रजाः॥३.२४॥",
+  "english_translation": "If I did not perform prescribed duties, all these worlds would be put to ruination. I would be the cause of creating unwanted population, and I would thereby destroy the peace of all living beings.",
+  "keywords": [],
+  "who_tell": "Krishna",
+  "whome_to_tell": "Arjuna",
+  "createdAt": {
+    "$date": "2025-06-14T11:38:00.122Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f180886faf1b851a80c"
+  },
+  "chapter_id": {
+    "$oid": "684d5ddf0886faf1b851a6c4"
+  },
+  "verse_no": 25,
+  "sanskrit_script": "सक्ताः कर्मण्यविद्वांसो यथा कुर्वन्ति भारत।\\nकुर्याद्विद्वांस्तथासक्तश्चिकीर्षुर्लोकसंग्रहम्॥३.२५॥",
+  "english_translation": "As the ignorant perform their duties with attachment to results, the learned may similarly act, but without attachment, for the sake of leading people on the right path.",
+  "keywords": [],
+  "who_tell": "Krishna",
+  "whome_to_tell": "Arjuna",
+  "createdAt": {
+    "$date": "2025-06-14T11:38:00.219Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f180886faf1b851a80e"
+  },
+  "chapter_id": {
+    "$oid": "684d5ddf0886faf1b851a6c4"
+  },
+  "verse_no": 26,
+  "sanskrit_script": "न बुद्धिभेदं जनयेदज्ञानां कर्मसङ्गिनाम्।\\nजोषयेत्सर्वकर्माणि विद्वान्युक्तः समाचरन्॥३.२६॥",
+  "english_translation": "So as not to disrupt the minds of ignorant men attached to the fruitive results of prescribed duties, a learned person should not induce them to stop work. Rather, by working in the spirit of devotion, he should engage them in all sorts of activities.",
+  "keywords": [],
+  "who_tell": "Krishna",
+  "whome_to_tell": "Arjuna",
+  "createdAt": {
+    "$date": "2025-06-14T11:38:00.303Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f180886faf1b851a810"
+  },
+  "chapter_id": {
+    "$oid": "684d5ddf0886faf1b851a6c4"
+  },
+  "verse_no": 27,
+  "sanskrit_script": "प्रकृतेः क्रियमाणानि गुणैः कर्माणि सर्वशः।\\nअहङ्कारविमूढात्मा कर्ताहमिति मन्यते॥३.२७॥",
+  "english_translation": "The spirit soul bewildered by the influence of false ego thinks himself the doer of activities that are in actuality carried out by the three modes of material nature.",
+  "keywords": [],
+  "who_tell": "Krishna",
+  "whome_to_tell": "Arjuna",
+  "createdAt": {
+    "$date": "2025-06-14T11:38:00.373Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f180886faf1b851a812"
+  },
+  "chapter_id": {
+    "$oid": "684d5ddf0886faf1b851a6c4"
+  },
+  "verse_no": 28,
+  "sanskrit_script": "तत्त्ववित्तु महाबाहो गुणकर्मविभागयोः।\\nगुणा गुणेषु वर्तन्त इति मत्वा न सज्जते॥३.२८॥",
+  "english_translation": "One who is in knowledge of the Absolute Truth, O mighty-armed, does not engage himself in the senses and sense gratification, knowing well the differences between work in devotion and work for fruitive results.",
+  "keywords": [],
+  "who_tell": "Krishna",
+  "whome_to_tell": "Arjuna",
+  "createdAt": {
+    "$date": "2025-06-14T11:38:00.412Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f180886faf1b851a814"
+  },
+  "chapter_id": {
+    "$oid": "684d5ddf0886faf1b851a6c4"
+  },
+  "verse_no": 29,
+  "sanskrit_script": "प्रकृतेर्गुणसम्मूढाः सज्जन्ते गुणकर्मसु।\\nतानकृत्स्नविदो मन्दान्कृत्स्नविन्न विचालयेत्॥३.२९॥",
+  "english_translation": "Bewildered by the modes of material nature, the ignorant fully engage themselves in material activities and become attached. But the wise should not unsettle them, although these duties are inferior due to the performers' lack of knowledge.",
+  "keywords": [],
+  "who_tell": "Krishna",
+  "whome_to_tell": "Arjuna",
+  "createdAt": {
+    "$date": "2025-06-14T11:38:00.452Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f180886faf1b851a816"
+  },
+  "chapter_id": {
+    "$oid": "684d5ddf0886faf1b851a6c4"
+  },
+  "verse_no": 30,
+  "sanskrit_script": "मयि सर्वाणि कर्माणि संन्यस्याध्यात्मचेतसा।\\nनिराशीर्निर्ममो भूत्वा युध्यस्व विगतज्वरः॥३.३०॥",
+  "english_translation": "Therefore, O Arjuna, surrendering all your works unto Me, with mind intent on Me, and without desire for gain and free from egoism and lethargy, fight.",
+  "keywords": [],
+  "who_tell": "Krishna",
+  "whome_to_tell": "Arjuna",
+  "createdAt": {
+    "$date": "2025-06-14T11:38:00.488Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f180886faf1b851a818"
+  },
+  "chapter_id": {
+    "$oid": "684d5ddf0886faf1b851a6c4"
+  },
+  "verse_no": 31,
+  "sanskrit_script": "ये मे मतमिदं नित्यमनुतिष्ठन्ति मानवाः।\\nश्रद्धावन्तोऽनसूयन्तो मुच्यन्ते तेऽपि कर्मभिः॥३.३१॥",
+  "english_translation": "Those who always follow this teaching of Mine with faith and without envy are freed from the bondage of karma.",
+  "keywords": [],
+  "who_tell": "Krishna",
+  "whome_to_tell": "Arjuna",
+  "createdAt": {
+    "$date": "2025-06-14T11:38:00.526Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f180886faf1b851a81a"
+  },
+  "chapter_id": {
+    "$oid": "684d5ddf0886faf1b851a6c4"
+  },
+  "verse_no": 32,
+  "sanskrit_script": "ये त्वेतदभ्यसूयन्तो नानुतिष्ठन्ति मे मतम्।\\nसर्वज्ञानविमूढांस्तान्विद्धि नष्टानचेतसः॥३.३२॥",
+  "english_translation": "But those who, out of envy, disregard these teachings and do not practice them regularly, are to be considered bereft of all knowledge, befooled, and doomed to ignorance and bondage.",
+  "keywords": [],
+  "who_tell": "Krishna",
+  "whome_to_tell": "Arjuna",
+  "createdAt": {
+    "$date": "2025-06-14T11:38:00.562Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f180886faf1b851a81c"
+  },
+  "chapter_id": {
+    "$oid": "684d5ddf0886faf1b851a6c4"
+  },
+  "verse_no": 33,
+  "sanskrit_script": "सदृशं चेष्टते स्वस्याः प्रकृतेर्ज्ञानवानपि।\\nप्रकृतिं यान्ति भूतानि निग्रहः किं करिष्यति॥३.३३॥",
+  "english_translation": "Even a man of knowledge acts according to his own nature, for everyone follows his nature. What can repression accomplish?",
+  "keywords": [],
+  "who_tell": "Krishna",
+  "whome_to_tell": "Arjuna",
+  "createdAt": {
+    "$date": "2025-06-14T11:38:00.600Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f180886faf1b851a81e"
+  },
+  "chapter_id": {
+    "$oid": "684d5ddf0886faf1b851a6c4"
+  },
+  "verse_no": 34,
+  "sanskrit_script": "इन्द्रियस्येन्द्रियस्यार्थे रागद्वेषौ व्यवस्थितौ।\\nतयोर्न वशमागच्छेत्तौ ह्यस्य परिपन्थिनौ॥३.३४॥",
+  "english_translation": "Attachment and aversion for sense objects are fixed in the senses. One should not come under their control, for they are two highway robbers blocking the path of self-realization.",
+  "keywords": [],
+  "who_tell": "Krishna",
+  "whome_to_tell": "Arjuna",
+  "createdAt": {
+    "$date": "2025-06-14T11:38:00.640Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f180886faf1b851a820"
+  },
+  "chapter_id": {
+    "$oid": "684d5ddf0886faf1b851a6c4"
+  },
+  "verse_no": 35,
+  "sanskrit_script": "श्रेयान्स्वधर्मो विगुणः परधर्मात्स्वनुष्ठितात्।\\nस्वधर्मे निधनं श्रेयः परधर्मो भयावहः॥३.३५॥",
+  "english_translation": "It is far better to discharge one's prescribed duties, even though faultily, than another's duties perfectly. Destruction in the course of performing one's own duty is better than engaging in another's duties, for to follow another's path is dangerous.",
+  "keywords": [],
+  "who_tell": "Krishna",
+  "whome_to_tell": "Arjuna",
+  "createdAt": {
+    "$date": "2025-06-14T11:38:00.678Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f180886faf1b851a822"
+  },
+  "chapter_id": {
+    "$oid": "684d5ddf0886faf1b851a6c4"
+  },
+  "verse_no": 36,
+  "sanskrit_script": "अर्जुन उवाच\\nअथ केन प्रयुक्तोऽयं पापं चरति पूरुषः।\\nअनिच्छन्नपि वार्ष्णेय बलादिव नियोजितः॥३.३६॥",
+  "english_translation": "Arjuna said: O descendant of Vrishni, by what is one impelled to sinful acts, even unwillingly, as if engaged by force?",
+  "keywords": [],
+  "who_tell": "Arjuna",
+  "whome_to_tell": "Krishna",
+  "createdAt": {
+    "$date": "2025-06-14T11:38:00.717Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f180886faf1b851a824"
+  },
+  "chapter_id": {
+    "$oid": "684d5ddf0886faf1b851a6c4"
+  },
+  "verse_no": 37,
+  "sanskrit_script": "श्रीभगवानुवाच\\nकाम एष क्रोध एष रजोगुणसमुद्भवः।\\nमहाशनो महापाप्मा विद्ध्येनमिह वैरिणम्॥३.३७॥",
+  "english_translation": "The Supreme Lord said: It is lust only, Arjuna, which is born of contact with the material mode of passion and later transformed into wrath, and which is the all-devouring sinful enemy of this world.",
+  "keywords": [],
+  "who_tell": "Krishna",
+  "whome_to_tell": "Arjuna",
+  "createdAt": {
+    "$date": "2025-06-14T11:38:00.757Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f180886faf1b851a826"
+  },
+  "chapter_id": {
+    "$oid": "684d5ddf0886faf1b851a6c4"
+  },
+  "verse_no": 38,
+  "sanskrit_script": "धूमेनाव्रियते वह्निर्यथादर्शो मलेन च।\\nयथोल्बेनावृतो गर्भस्तथा तेनेदमावृतम्॥३.३८॥",
+  "english_translation": "As fire is covered by smoke, as a mirror is covered by dust, or as the embryo is covered by the womb, similarly, the living entity is covered by different degrees of this lust.",
+  "keywords": [],
+  "who_tell": "Krishna",
+  "whome_to_tell": "Arjuna",
+  "createdAt": {
+    "$date": "2025-06-14T11:38:00.809Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f180886faf1b851a828"
+  },
+  "chapter_id": {
+    "$oid": "684d5ddf0886faf1b851a6c4"
+  },
+  "verse_no": 39,
+  "sanskrit_script": "आवृतं ज्ञानमेतेन ज्ञानिनो नित्यवैरिणा।\\nकामरूपेण कौन्तेय दुष्पूरेणानलेन च॥३.३९॥",
+  "english_translation": "Thus the wise living entity's pure consciousness is covered by his eternal enemy in the form of lust, which is never satisfied and which burns like fire.",
+  "keywords": [],
+  "who_tell": "Krishna",
+  "whome_to_tell": "Arjuna",
+  "createdAt": {
+    "$date": "2025-06-14T11:38:00.848Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f180886faf1b851a82a"
+  },
+  "chapter_id": {
+    "$oid": "684d5ddf0886faf1b851a6c4"
+  },
+  "verse_no": 40,
+  "sanskrit_script": "इन्द्रियाणि मनो बुद्धिरस्याधिष्ठानमुच्यते।\\nएतैर्विमोहयत्येष ज्ञानमावृत्य देहिनम्॥३.४०॥",
+  "english_translation": "The senses, mind and intelligence are the sitting places of this lust, which veils the real knowledge of the living entity and bewilders him.",
+  "keywords": [],
+  "who_tell": "Krishna",
+  "whome_to_tell": "Arjuna",
+  "createdAt": {
+    "$date": "2025-06-14T11:38:00.886Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f180886faf1b851a82c"
+  },
+  "chapter_id": {
+    "$oid": "684d5ddf0886faf1b851a6c4"
+  },
+  "verse_no": 41,
+  "sanskrit_script": "तस्मात्त्वमिन्द्रियाण्यादौ नियम्य भरतर्षभ।\\nपाप्मानं प्रजहि ह्येनं ज्ञानविज्ञाननाशनम्॥३.४१॥",
+  "english_translation": "Therefore, O Arjuna, best of the Bharatas, in the very beginning curb this great symbol of sin [lust] by regulating the senses, and slay this destroyer of knowledge and self-realization.",
+  "keywords": [],
+  "who_tell": "Krishna",
+  "whome_to_tell": "Arjuna",
+  "createdAt": {
+    "$date": "2025-06-14T11:38:00.924Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f180886faf1b851a82e"
+  },
+  "chapter_id": {
+    "$oid": "684d5ddf0886faf1b851a6c4"
+  },
+  "verse_no": 42,
+  "sanskrit_script": "इन्द्रियाणि पराण्याहुरिन्द्रियेभ्यः परं मनः।\\nमनसस्तु परा बुद्धिर्यो बुद्धेः परतस्तु सः॥३.४२॥",
+  "english_translation": "The working senses are superior to dull matter; mind is higher than the senses; intelligence is still higher than the mind; and he [the soul] is even higher than the intelligence.",
+  "keywords": [],
+  "who_tell": "Krishna",
+  "whome_to_tell": "Arjuna",
+  "createdAt": {
+    "$date": "2025-06-14T11:38:00.963Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f190886faf1b851a830"
+  },
+  "chapter_id": {
+    "$oid": "684d5ddf0886faf1b851a6c4"
+  },
+  "verse_no": 43,
+  "sanskrit_script": "एवं बुद्धेः परं बुद्ध्वा संस्तभ्यात्मानमात्मना।\\nजहि शत्रुं महाबाहो कामरूपं दुरासदम्॥३.४३॥",
+  "english_translation": "Thus knowing oneself to be transcendental to material senses, mind and intelligence, one should control the lower self by the higher self and thus—by spiritual strength—conquer this insatiable enemy known as lust.",
+  "keywords": [],
+  "who_tell": "Krishna",
+  "whome_to_tell": "Arjuna",
+  "createdAt": {
+    "$date": "2025-06-14T11:38:01.005Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f280886faf1b851a83e"
+  },
+  "chapter_id": {
+    "$oid": "684d5dfe0886faf1b851a6c6"
+  },
+  "verse_no": 1,
+  "sanskrit_script": "श्रीभगवानुवाच\\nइमं विवस्वते योगं प्रोक्तवानहमव्ययम्।\\nविवस्वान्मनवे प्राह मनुरिक्ष्वाकवेऽब्रवीत्॥४.१॥",
+  "hindi_translation": "भगवान ने कहा: मैंने इस अविनाशी योग विद्या को सूर्यदेव विवस्वान को बताया, विवस्वान ने मनु को बताया और मनु ने इक्ष्वाकु को सिखाया।",
+  "english_translation": "The Supreme Lord said: I instructed this imperishable science of yoga to the sun-god Vivasvan, and Vivasvan instructed it to Manu, the father of mankind, and Manu in turn instructed it to Ikshvaku.",
+  "keywords": [],
+  "who_tell": "Krishna",
+  "whome_to_tell": "Arjuna",
+  "createdAt": {
+    "$date": "2025-06-14T11:38:16.268Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f280886faf1b851a840"
+  },
+  "chapter_id": {
+    "$oid": "684d5dfe0886faf1b851a6c6"
+  },
+  "verse_no": 2,
+  "sanskrit_script": "एवं परम्पराप्राप्तमिमं राजर्षयो विदुः।\\nस कालेनेह महता योगो नष्टः परन्तप॥४.२॥",
+  "hindi_translation": "इस प्रकार यह परम विद्या परंपरा से प्राप्त हुई और राजर्षियों ने इसे जाना। किन्तु समय के साथ यह परंपरा टूट गई और यह विद्या लुप्त हो गई प्रतीत होती है।",
+  "english_translation": "This supreme science was thus received through the chain of disciplic succession, and the saintly kings understood it in that way. But in course of time the succession was broken, and therefore the science as it is appears to be lost.",
+  "keywords": [],
+  "who_tell": "Krishna",
+  "whome_to_tell": "Arjuna",
+  "createdAt": {
+    "$date": "2025-06-14T11:38:16.273Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f280886faf1b851a842"
+  },
+  "chapter_id": {
+    "$oid": "684d5dfe0886faf1b851a6c6"
+  },
+  "verse_no": 3,
+  "sanskrit_script": "स एवायं मया तेऽद्य योगः प्रोक्तः पुरातनः।\\nभक्तोऽसि मे सखा चेति रहस्यं ह्येतदुत्तमम्॥४.३॥",
+  "hindi_translation": "आज मैं तुम्हें वही प्राचीन योग विद्या बता रहा हूँ क्योंकि तुम मेरे भक्त और सखा both हो। इसलिए तुम इस परम रहस्य को समझ सकते हो।",
+  "english_translation": "That very ancient science of the relationship with the Supreme is today told by Me to you because you are My devotee as well as My friend; therefore you can understand the transcendental mystery of this science.",
+  "keywords": [],
+  "who_tell": "Krishna",
+  "whome_to_tell": "Arjuna",
+  "createdAt": {
+    "$date": "2025-06-14T11:38:16.300Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f280886faf1b851a844"
+  },
+  "chapter_id": {
+    "$oid": "684d5dfe0886faf1b851a6c6"
+  },
+  "verse_no": 4,
+  "sanskrit_script": "अर्जुन उवाच\\nअपरं भवतो जन्म परं जन्म विवस्वतः।\\nकथमेतद्विजानीयां त्वमादौ प्रोक्तवानिति॥४.४॥",
+  "hindi_translation": "अर्जुन ने कहा: विवस्वान सूर्यदेव आपसे ज्येष्ठ हैं। फिर आपने आदि में उन्हें यह विद्या कैसे सिखाई?",
+  "english_translation": "Arjuna said: The sun-god Vivasvan is senior by birth to You. How am I to understand that in the beginning You instructed this science to him?",
+  "keywords": [],
+  "who_tell": "Arjuna",
+  "whome_to_tell": "Krishna",
+  "createdAt": {
+    "$date": "2025-06-14T11:38:16.392Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f280886faf1b851a846"
+  },
+  "chapter_id": {
+    "$oid": "684d5dfe0886faf1b851a6c6"
+  },
+  "verse_no": 5,
+  "sanskrit_script": "श्रीभगवानुवाच\\nबहूनि मे व्यतीतानि जन्मानि तव चार्जुन।\\nतान्यहं वेद सर्वाणि न त्वं वेत्थ परन्तप॥४.५॥",
+  "hindi_translation": "भगवान ने कहा: हे अर्जुन! तुम्हारे और मेरे अनेक जन्म हो चुके हैं। मैं उन सभी को जानता हूँ किन्तु तुम नहीं जानते।",
+  "english_translation": "The Supreme Lord said: Many, many births both you and I have passed. I can remember all of them, but you cannot, O subduer of the enemy!",
+  "keywords": [],
+  "who_tell": "Krishna",
+  "whome_to_tell": "Arjuna",
+  "createdAt": {
+    "$date": "2025-06-14T11:38:16.457Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f280886faf1b851a848"
+  },
+  "chapter_id": {
+    "$oid": "684d5dfe0886faf1b851a6c6"
+  },
+  "verse_no": 6,
+  "sanskrit_script": "अजोऽपि सन्नव्ययात्मा भूतानामीश्वरोऽपि सन्।\\nप्रकृतिं स्वामधिष्ठाय संभवाम्यात्ममायया॥४.६॥",
+  "hindi_translation": "यद्यपि मैं अजन्मा और अविनाशी हूँ तथा सभी प्राणियों का स्वामी हूँ, फिर भी मैं अपनी योगमाया द्वारा प्रकट होता हूँ।",
+  "english_translation": "Although I am unborn and My transcendental body never deteriorates, and although I am the Lord of all living entities, I still appear in every millennium in My original transcendental form.",
+  "keywords": [],
+  "who_tell": "Krishna",
+  "whome_to_tell": "Arjuna",
+  "createdAt": {
+    "$date": "2025-06-14T11:38:16.524Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f280886faf1b851a84a"
+  },
+  "chapter_id": {
+    "$oid": "684d5dfe0886faf1b851a6c6"
+  },
+  "verse_no": 7,
+  "sanskrit_script": "यदा यदा हि धर्मस्य ग्लानिर्भवति भारत।\\nअभ्युत्थानमधर्मस्य तदात्मानं सृजाम्यहम्॥४.७॥",
+  "hindi_translation": "हे भारत! जब-जब धर्म की हानि और अधर्म की वृद्धि होती है, तब-तब मैं स्वयं प्रकट होता हूँ।",
+  "english_translation": "Whenever and wherever there is a decline in religious practice, O descendant of Bharata, and a predominant rise of irreligion—at that time I descend Myself.",
+  "keywords": [],
+  "who_tell": "Krishna",
+  "whome_to_tell": "Arjuna",
+  "createdAt": {
+    "$date": "2025-06-14T11:38:16.581Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f280886faf1b851a84c"
+  },
+  "chapter_id": {
+    "$oid": "684d5dfe0886faf1b851a6c6"
+  },
+  "verse_no": 8,
+  "sanskrit_script": "परित्राणाय साधूनां विनाशाय च दुष्कृताम्।\\nधर्मसंस्थापनार्थाय सम्भवामि युगे युगे॥४.८॥",
+  "hindi_translation": "सज्जनों की रक्षा, दुष्टों के विनाश और धर्म की स्थापना के लिए मैं युग-युग में प्रकट होता हूँ।",
+  "english_translation": "In order to deliver the pious and to annihilate the miscreants, as well as to reestablish the principles of religion, I advent Myself millennium after millennium.",
+  "keywords": [],
+  "who_tell": "Krishna",
+  "whome_to_tell": "Arjuna",
+  "createdAt": {
+    "$date": "2025-06-14T11:38:16.639Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f280886faf1b851a84e"
+  },
+  "chapter_id": {
+    "$oid": "684d5dfe0886faf1b851a6c6"
+  },
+  "verse_no": 9,
+  "sanskrit_script": "जन्म कर्म च मे दिव्यमेवं यो वेत्ति तत्त्वतः।\\nत्यक्त्वा देहं पुनर्जन्म नैति मामेति सोऽर्जुन॥४.९॥",
+  "hindi_translation": "हे अर्जुन! जो मेरे दिव्य जन्म और कर्मों को तत्त्व से जानता है, वह शरीर त्याग कर फिर जन्म नहीं लेता, मेरे धाम को प्राप्त होता है।",
+  "english_translation": "One who knows the transcendental nature of My appearance and activities does not, upon leaving the body, take his birth again in this material world, but attains My eternal abode, O Arjuna.",
+  "keywords": [],
+  "who_tell": "Krishna",
+  "whome_to_tell": "Arjuna",
+  "createdAt": {
+    "$date": "2025-06-14T11:38:16.691Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f280886faf1b851a850"
+  },
+  "chapter_id": {
+    "$oid": "684d5dfe0886faf1b851a6c6"
+  },
+  "verse_no": 10,
+  "sanskrit_script": "वीतरागभयक्रोधा मन्मया मामुपाश्रिताः।\\nबहवो ज्ञानतपसा पूता मद्भावमागताः॥४.१०॥",
+  "hindi_translation": "राग, भय और क्रोध से मुक्त होकर, मुझमें पूर्णतया तल्लीन होकर, मेरी शरण ग्रहण करके अनेकों ज्ञान के तप से पवित्र होकर मेरे भाव को प्राप्त हुए।",
+  "english_translation": "Being freed from attachment, fear and anger, being fully absorbed in Me and taking refuge in Me, many, many persons in the past became purified by knowledge of Me—and thus they all attained transcendental love for Me.",
+  "keywords": [],
+  "who_tell": "Krishna",
+  "whome_to_tell": "Arjuna",
+  "createdAt": {
+    "$date": "2025-06-14T11:38:16.748Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f280886faf1b851a852"
+  },
+  "chapter_id": {
+    "$oid": "684d5dfe0886faf1b851a6c6"
+  },
+  "verse_no": 11,
+  "sanskrit_script": "ये यथा मां प्रपद्यन्ते तांस्तथैव भजाम्यहम्।\\nमम वर्त्मानुवर्तन्ते मनुष्याः पार्थ सर्वशः॥४.११॥",
+  "hindi_translation": "हे पार्थ! जो जिस भाव से मेरी शरण ग्रहण करता है, मैं उसे वैसे ही फल देता हूँ। सभी लोग हर प्रकार से मेरे मार्ग का अनुसरण करते हैं।",
+  "english_translation": "All of them—as they surrender unto Me—I reward accordingly. Everyone follows My path in all respects, O son of Pritha.",
+  "keywords": [],
+  "who_tell": "Krishna",
+  "whome_to_tell": "Arjuna",
+  "createdAt": {
+    "$date": "2025-06-14T11:38:16.787Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f280886faf1b851a854"
+  },
+  "chapter_id": {
+    "$oid": "684d5dfe0886faf1b851a6c6"
+  },
+  "verse_no": 12,
+  "sanskrit_script": "काङ्क्षन्तः कर्मणां सिद्धिं यजन्त इह देवताः।\\nक्षिप्रं हि मानुषे लोके सिद्धिर्भवति कर्मजा॥४.१२॥",
+  "hindi_translation": "इस लोक में कर्मों की सिद्धि की कामना करने वाले देवताओं की पूजा करते हैं, क्योंकि मनुष्यलोक में कर्मजनित सिद्धि शीघ्र मिलती है।",
+  "english_translation": "Those who desire success in their work worship the demigods, and indeed they achieve success quickly in this human world.",
+  "keywords": [],
+  "who_tell": "Krishna",
+  "whome_to_tell": "Arjuna",
+  "createdAt": {
+    "$date": "2025-06-14T11:38:16.849Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f280886faf1b851a856"
+  },
+  "chapter_id": {
+    "$oid": "684d5dfe0886faf1b851a6c6"
+  },
+  "verse_no": 13,
+  "sanskrit_script": "चातुर्वर्ण्यं मया सृष्टं गुणकर्मविभागशः।\\nतस्य कर्तारमपि मां विद्ध्यकर्तारमव्ययम्॥४.१३॥",
+  "hindi_translation": "मैंने गुण और कर्म के विभाग से चार वर्णों की रचना की है। यद्यपि मैं इसका कर्ता हूँ, फिर भी तुम मुझे अकर्ता और अविनाशी जानो।",
+  "english_translation": "According to the three modes of material nature and the work ascribed to them, the four divisions of human society were created by Me. And although I am the creator of this system, you should know that I am yet the non-doer, being unchangeable.",
+  "keywords": [],
+  "who_tell": "Krishna",
+  "whome_to_tell": "Arjuna",
+  "createdAt": {
+    "$date": "2025-06-14T11:38:16.895Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f280886faf1b851a858"
+  },
+  "chapter_id": {
+    "$oid": "684d5dfe0886faf1b851a6c6"
+  },
+  "verse_no": 14,
+  "sanskrit_script": "न मां कर्माणि लिम्पन्ति न मे कर्मफले स्पृहा।\\nइति मां योऽभिजानाति कर्मभिर्न स बध्यते॥४.१४॥",
+  "hindi_translation": "मुझे कर्म लिप्त नहीं करते और न मैं कर्मफल की इच्छा करता हूँ। जो मुझे इस प्रकार जानता है, वह कर्मों से बंधता नहीं।",
+  "english_translation": "There is no work that affects Me; nor do I aspire for the fruits of action. One who understands this truth about Me also does not become entangled in the fruitive reactions of work.",
+  "keywords": [],
+  "who_tell": "Krishna",
+  "whome_to_tell": "Arjuna",
+  "createdAt": {
+    "$date": "2025-06-14T11:38:16.935Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f280886faf1b851a85a"
+  },
+  "chapter_id": {
+    "$oid": "684d5dfe0886faf1b851a6c6"
+  },
+  "verse_no": 15,
+  "sanskrit_script": "एवं ज्ञात्वा कृतं कर्म पूर्वैरपि मुमुक्षुभिः।\\nकुरु कर्मैव तस्मात्त्वं पूर्वैः पूर्वतरं कृतम्॥४.१५॥",
+  "hindi_translation": "पूर्वकाल के मुमुक्षुओं ने भी इस प्रकार जानकर कर्म किये थे। अतः तुम भी पूर्वजों द्वारा किये गये कर्मों का अनुसरण करो।",
+  "english_translation": "All the liberated souls in ancient times acted with this understanding, and so attained liberation. Therefore, as the ancients, you should perform your duty in this divine consciousness.",
+  "keywords": [],
+  "who_tell": "Krishna",
+  "whome_to_tell": "Arjuna",
+  "createdAt": {
+    "$date": "2025-06-14T11:38:16.993Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f290886faf1b851a85c"
+  },
+  "chapter_id": {
+    "$oid": "684d5dfe0886faf1b851a6c6"
+  },
+  "verse_no": 16,
+  "sanskrit_script": "किं कर्म किमकर्मेति कवयोऽप्यत्र मोहिताः।\\nतत्ते कर्म प्रवक्ष्यामि यज्ज्ञात्वा मोक्ष्यसेऽशुभात्॥४.१६॥",
+  "hindi_translation": "कर्म क्या है और अकर्म क्या है, यह जानने में बुद्धिमान भी मोहित हो जाते हैं। मैं तुम्हें वह कर्म बताता हूँ जिसे जानकर तुम अशुभ से मुक्त हो जाओगे।",
+  "english_translation": "Even the intelligent are bewildered in determining what is action and what is inaction. Now I shall explain to you what action is, knowing which you shall be liberated from all misfortune.",
+  "keywords": [],
+  "who_tell": "Krishna",
+  "whome_to_tell": "Arjuna",
+  "createdAt": {
+    "$date": "2025-06-14T11:38:17.041Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f290886faf1b851a85e"
+  },
+  "chapter_id": {
+    "$oid": "684d5dfe0886faf1b851a6c6"
+  },
+  "verse_no": 17,
+  "sanskrit_script": "कर्मणो ह्यपि बोद्धव्यं बोद्धव्यं च विकर्मणः।\\nअकर्मणश्च बोद्धव्यं गहना कर्मणो गतिः॥४.१७॥",
+  "hindi_translation": "कर्म की गति गहन है, अतः कर्म, विकर्म और अकर्म को भलीभाँति जानना चाहिए।",
+  "english_translation": "The intricacies of action are very hard to understand. Therefore one should know properly what action is, what forbidden action is, and what inaction is.",
+  "keywords": [],
+  "who_tell": "Krishna",
+  "whome_to_tell": "Arjuna",
+  "createdAt": {
+    "$date": "2025-06-14T11:38:17.068Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f290886faf1b851a860"
+  },
+  "chapter_id": {
+    "$oid": "684d5dfe0886faf1b851a6c6"
+  },
+  "verse_no": 18,
+  "sanskrit_script": "कर्मण्यकर्म यः पश्येदकर्मणि च कर्म यः।\\nस बुद्धिमान्मनुष्येषु स युक्तः कृत्स्नकर्मकृत्॥४.१८॥",
+  "hindi_translation": "जो कर्म में अकर्म और अकर्म में कर्म देखता है, वह मनुष्यों में बुद्धिमान है और सम्पूर्ण कर्म करते हुए भी युक्त है।",
+  "english_translation": "One who sees inaction in action, and action in inaction, is intelligent among men, and he is in the transcendental position, although engaged in all sorts of activities.",
+  "keywords": [],
+  "who_tell": "Krishna",
+  "whome_to_tell": "Arjuna",
+  "createdAt": {
+    "$date": "2025-06-14T11:38:17.124Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f290886faf1b851a862"
+  },
+  "chapter_id": {
+    "$oid": "684d5dfe0886faf1b851a6c6"
+  },
+  "verse_no": 19,
+  "sanskrit_script": "यस्य सर्वे समारम्भाः कामसङ्कल्पवर्जिताः।\\nज्ञानाग्निदग्धकर्माणं तमाहुः पण्डितं बुधाः॥४.१९॥",
+  "hindi_translation": "जिसके सारे कार्य कामना और संकल्प से रहित हैं, जिसके कर्म ज्ञानाग्नि में भस्म हो गये हैं, उसे पण्डित बुधजन कहते हैं।",
+  "english_translation": "One whose actions are all free from desire and selfish plans, and who has burned all his activities in the fire of knowledge—him the wise call a learned person.",
+  "keywords": [],
+  "who_tell": "Krishna",
+  "whome_to_tell": "Arjuna",
+  "createdAt": {
+    "$date": "2025-06-14T11:38:17.175Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f290886faf1b851a864"
+  },
+  "chapter_id": {
+    "$oid": "684d5dfe0886faf1b851a6c6"
+  },
+  "verse_no": 20,
+  "sanskrit_script": "त्यक्त्वा कर्मफलासङ्गं नित्यतृप्तो निराश्रयः।\\nकर्मण्यभिप्रवृत्तोऽपि नैव किञ्चित्करोति सः॥४.२०॥",
+  "hindi_translation": "कर्मफल से आसक्ति त्यागकर, सदा तृप्त और आश्रयरहित होकर वह कर्म करता हुआ भी कुछ नहीं करता।",
+  "english_translation": "Having abandoned attachment to the fruits of his activities, ever satisfied and independent, he performs no action though engaged in activity.",
+  "keywords": [],
+  "who_tell": "Krishna",
+  "whome_to_tell": "Arjuna",
+  "createdAt": {
+    "$date": "2025-06-14T11:38:17.247Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f290886faf1b851a866"
+  },
+  "chapter_id": {
+    "$oid": "684d5dfe0886faf1b851a6c6"
+  },
+  "verse_no": 21,
+  "sanskrit_script": "निराशीर्यतचित्तात्मा त्यक्तसर्वपरिग्रहः।\\nशारीरं केवलं कर्म कुर्वन्नाप्नोति किल्बिषम्॥४.२१॥",
+  "hindi_translation": "निराशी, यतचित्त, सर्वपरिग्रह त्यागकर केवल शरीरधारण के लिए कर्म करता हुआ पाप को प्राप्त नहीं होता।",
+  "english_translation": "Such a person acts with mind and intelligence perfectly controlled, gives up all sense of proprietorship over his possessions, and acts only for the bare necessities of life. Thus working, he is not affected by sinful reactions.",
+  "keywords": [],
+  "who_tell": "Krishna",
+  "whome_to_tell": "Arjuna",
+  "createdAt": {
+    "$date": "2025-06-14T11:38:17.296Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f290886faf1b851a868"
+  },
+  "chapter_id": {
+    "$oid": "684d5dfe0886faf1b851a6c6"
+  },
+  "verse_no": 22,
+  "sanskrit_script": "यदृच्छालाभसंतुष्टो द्वन्द्वातीतो विमत्सरः।\\nसमः सिद्धावसिद्धौ च कृत्वापि न निबध्यते॥४.२२॥",
+  "hindi_translation": "यदृच्छालाभ से संतुष्ट, द्वन्द्वातीत, मत्सररहित, सिद्धि-असिद्धि में समभाव रखने वाला कर्म करके भी बंधता नहीं।",
+  "english_translation": "Content with whatever comes by chance, free from duality and envy, equipoised in success and failure, though acting, he is not bound.",
+  "keywords": [],
+  "who_tell": "Krishna",
+  "whome_to_tell": "Arjuna",
+  "createdAt": {
+    "$date": "2025-06-14T11:38:17.344Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f290886faf1b851a86a"
+  },
+  "chapter_id": {
+    "$oid": "684d5dfe0886faf1b851a6c6"
+  },
+  "verse_no": 23,
+  "sanskrit_script": "गतसङ्गस्य मुक्तस्य ज्ञानावस्थितचेतसः।\\nयज्ञायाचरतः कर्म समग्रं प्रविलीयते॥४.२३॥",
+  "hindi_translation": "जिसका आसक्ति रहित मन ज्ञान में स्थित है, वह यज्ञभाव से किये गये कर्म पूर्णतया विलीन हो जाते हैं।",
+  "english_translation": "The work of a man who is unattached to the modes of material nature and who is firmly situated in transcendental knowledge merges entirely into transcendence.",
+  "keywords": [],
+  "who_tell": "Krishna",
+  "whome_to_tell": "Arjuna",
+  "createdAt": {
+    "$date": "2025-06-14T11:38:17.414Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f290886faf1b851a86c"
+  },
+  "chapter_id": {
+    "$oid": "684d5dfe0886faf1b851a6c6"
+  },
+  "verse_no": 24,
+  "sanskrit_script": "ब्रह्मार्पणं ब्रह्म हविर्ब्रह्माग्नौ ब्रह्मणा हुतम्।\\nब्रह्मैव तेन गन्तव्यं ब्रह्मकर्मसमाधिना॥४.२४॥",
+  "hindi_translation": "ब्रह्मार्पण, ब्रह्म हवि, ब्रह्म अग्नि, ब्रह्मा द्वारा हवन किया गया ब्रह्म ही है। ब्रह्मकर्म के समाधि से ब्रह्म को ही प्राप्त होता है।",
+  "english_translation": "A person who is fully absorbed in Krishna consciousness is sure to attain the spiritual kingdom because of his full contribution to spiritual activities, in which the consummation is absolute and that which is offered is of the same spiritual nature.",
+  "keywords": [],
+  "who_tell": "Krishna",
+  "whome_to_tell": "Arjuna",
+  "createdAt": {
+    "$date": "2025-06-14T11:38:17.469Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f290886faf1b851a86e"
+  },
+  "chapter_id": {
+    "$oid": "684d5dfe0886faf1b851a6c6"
+  },
+  "verse_no": 25,
+  "sanskrit_script": "दैवमेवापरे यज्ञं योगिनः पर्युपासते।\\nब्रह्माग्नावपरे यज्ञं यज्ञेनैवोपजुह्वति॥४.२५॥",
+  "hindi_translation": "कुछ योगी देवयज्ञ करते हैं, कुछ ब्रह्मरूपी अग्नि में यज्ञरूपी हवि डालते हैं।",
+  "english_translation": "Some yogis perfectly worship the demigods by offering different sacrifices to them, and some offer sacrifices in the fire of the Supreme Brahman.",
+  "keywords": [],
+  "who_tell": "Krishna",
+  "whome_to_tell": "Arjuna",
+  "createdAt": {
+    "$date": "2025-06-14T11:38:17.504Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f290886faf1b851a870"
+  },
+  "chapter_id": {
+    "$oid": "684d5dfe0886faf1b851a6c6"
+  },
+  "verse_no": 26,
+  "sanskrit_script": "श्रोत्रादीनीन्द्रियाण्यन्ये संयमाग्निषु जुह्वति।\\nशब्दादीन्विषयानन्य इन्द्रियाग्निषु जुह्वति॥४.२६॥",
+  "hindi_translation": "कुछ श्रवणादि इन्द्रियों को संयमरूपी अग्नि में हवन करते हैं, कुछ शब्दादि विषयों को इन्द्रियरूपी अग्नि में हवन करते हैं।",
+  "english_translation": "Some sacrifice the hearing process and the senses in the fire of mental control, and others sacrifice sound and other objects of the senses in the fire of the senses.",
+  "keywords": [],
+  "who_tell": "Krishna",
+  "whome_to_tell": "Arjuna",
+  "createdAt": {
+    "$date": "2025-06-14T11:38:17.567Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f290886faf1b851a872"
+  },
+  "chapter_id": {
+    "$oid": "684d5dfe0886faf1b851a6c6"
+  },
+  "verse_no": 27,
+  "sanskrit_script": "सर्वाणीन्द्रियकर्माणि प्राणकर्माणि चापरे।\\nआत्मसंयमयोगाग्नौ जुह्वति ज्ञानदीपिते॥४.२७॥",
+  "hindi_translation": "अन्य सभी इन्द्रिय कर्मों और प्राणकर्मों को आत्मसंयमरूपी योगाग्नि में ज्ञानदीप्त होकर हवन करते हैं।",
+  "english_translation": "Others, who are interested in achieving self-realization through control of the mind and senses, offer the functions of all the senses and the vital energy as oblations into the fire of the controlled mind.",
+  "keywords": [],
+  "who_tell": "Krishna",
+  "whome_to_tell": "Arjuna",
+  "createdAt": {
+    "$date": "2025-06-14T11:38:17.620Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f290886faf1b851a874"
+  },
+  "chapter_id": {
+    "$oid": "684d5dfe0886faf1b851a6c6"
+  },
+  "verse_no": 28,
+  "sanskrit_script": "द्रव्ययज्ञास्तपोयज्ञा योगयज्ञास्तथापरे।\\nस्वाध्यायज्ञानयज्ञाश्च यतयः संशितव्रताः॥४.२८॥",
+  "hindi_translation": "कुछ द्रव्ययज्ञ, तपोयज्ञ, योगयज्ञ करते हैं, कुछ संयमी स्वाध्याय और ज्ञानयज्ञ करते हैं।",
+  "english_translation": "Some are inclined to sacrifice their possessions, while others perform severe austerities, practice yoga, study the Vedas or cultivate knowledge—all with the spirit of sacrifice.",
+  "keywords": [],
+  "who_tell": "Krishna",
+  "whome_to_tell": "Arjuna",
+  "createdAt": {
+    "$date": "2025-06-14T11:38:17.682Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f290886faf1b851a876"
+  },
+  "chapter_id": {
+    "$oid": "684d5dfe0886faf1b851a6c6"
+  },
+  "verse_no": 29,
+  "sanskrit_script": "अपाने जुह्वति प्राणं प्राणेऽपानं तथापरे।\\nप्राणापानगती रुद्ध्वा प्राणायामपरायणाः॥४.२९॥",
+  "hindi_translation": "कुछ प्राणायामपरायण प्राण को अपान में और अपान को प्राण में हवन करते हैं।",
+  "english_translation": "Still others, who are inclined to the process of breath restraint to remain in trance, practice by offering the movement of the outgoing breath into the incoming, and the incoming breath into the outgoing, and thus at last remain in trance, stopping all breathing.",
+  "keywords": [],
+  "who_tell": "Krishna",
+  "whome_to_tell": "Arjuna",
+  "createdAt": {
+    "$date": "2025-06-14T11:38:17.746Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f290886faf1b851a878"
+  },
+  "chapter_id": {
+    "$oid": "684d5dfe0886faf1b851a6c6"
+  },
+  "verse_no": 30,
+  "sanskrit_script": "अपरे नियताहाराः प्राणान्प्राणेषु जुह्वति।\\nसर्वेऽप्येते यज्ञविदो यज्ञक्षपितकल्मषाः॥४.३०॥",
+  "hindi_translation": "कुछ नियताहारी प्राण को प्राण में ही हवन करते हैं। ये सभी यज्ञवेत्ता यज्ञ द्वारा पापों को नष्ट कर देते हैं।",
+  "english_translation": "Others, who restrict their eating, offer the outgoing breath into itself as a sacrifice. All these are knowers of sacrifice, and all of them have their sins destroyed by sacrifice.",
+  "keywords": [],
+  "who_tell": "Krishna",
+  "whome_to_tell": "Arjuna",
+  "createdAt": {
+    "$date": "2025-06-14T11:38:17.795Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f290886faf1b851a87a"
+  },
+  "chapter_id": {
+    "$oid": "684d5dfe0886faf1b851a6c6"
+  },
+  "verse_no": 31,
+  "sanskrit_script": "यज्ञशिष्टामृतभुजो यान्ति ब्रह्म सनातनम्।\\nनायं लोकोऽस्त्ययज्ञस्य कुतोऽन्यः कुरुसत्तम॥४.३१॥",
+  "hindi_translation": "हे कुरुश्रेष्ठ! यज्ञशेष अमृत को भोगने वाले सनातन ब्रह्म को प्राप्त होते हैं। यज्ञरहित को यह लोक भी नहीं मिलता, दूसरा कैसे मिलेगा?",
+  "english_translation": "Those who eat food that is first offered in sacrifice are released from all kinds of sin. Others, who prepare food for personal sense enjoyment, verily eat only sin.",
+  "keywords": [],
+  "who_tell": "Krishna",
+  "whome_to_tell": "Arjuna",
+  "createdAt": {
+    "$date": "2025-06-14T11:38:17.842Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f290886faf1b851a87c"
+  },
+  "chapter_id": {
+    "$oid": "684d5dfe0886faf1b851a6c6"
+  },
+  "verse_no": 32,
+  "sanskrit_script": "एवं बहुविधा यज्ञा वितता ब्रह्मणो मुखे।\\nकर्मजान्विद्धि तान्सर्वानेवं ज्ञात्वा विमोक्ष्यसे॥४.३२॥",
+  "hindi_translation": "इस प्रकार अनेक प्रकार के यज्ञ वेदों में वर्णित हैं। इन सभी को कर्मजन्य जानकर तुम मुक्त हो जाओगे।",
+  "english_translation": "All these different types of sacrifice are approved by the Vedas, and all of them are born of different types of work. Knowing them as such, you will become liberated.",
+  "keywords": [],
+  "who_tell": "Krishna",
+  "whome_to_tell": "Arjuna",
+  "createdAt": {
+    "$date": "2025-06-14T11:38:17.908Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f290886faf1b851a87e"
+  },
+  "chapter_id": {
+    "$oid": "684d5dfe0886faf1b851a6c6"
+  },
+  "verse_no": 33,
+  "sanskrit_script": "श्रेयान्द्रव्यमयाद्यज्ञाज्ज्ञानयज्ञः परन्तप।\\nसर्वं कर्माखिलं पार्थ ज्ञाने परिसमाप्यते॥४.३३॥",
+  "hindi_translation": "हे परंतप! द्रव्यमय यज्ञ से ज्ञानयज्ञ श्रेष्ठ है। हे पार्थ! समस्त कर्म ज्ञान में ही समाप्त होते हैं।",
+  "english_translation": "O chastiser of the enemy, the sacrifice of knowledge is superior to material sacrifices, for all works without exception culminate in knowledge.",
+  "keywords": [],
+  "who_tell": "Krishna",
+  "whome_to_tell": "Arjuna",
+  "createdAt": {
+    "$date": "2025-06-14T11:38:17.985Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f2a0886faf1b851a880"
+  },
+  "chapter_id": {
+    "$oid": "684d5dfe0886faf1b851a6c6"
+  },
+  "verse_no": 34,
+  "sanskrit_script": "तद्विद्धि प्रणिपातेन परिप्रश्नेन सेवया।\\nउपदेक्ष्यन्ति ते ज्ञानं ज्ञानिनस्तत्त्वदर्शिनः॥४.३४॥",
+  "hindi_translation": "उस ज्ञान को तुम प्रणिपात, परिप्रश्न और सेवा द्वारा जानो। तत्त्वदर्शी ज्ञानीजन तुम्हें ज्ञान का उपदेश देंगे।",
+  "english_translation": "Just try to learn the truth by approaching a spiritual master. Inquire from him submissively and render service unto him. The self-realized soul can impart knowledge unto you because he has seen the truth.",
+  "keywords": [],
+  "who_tell": "Krishna",
+  "whome_to_tell": "Arjuna",
+  "createdAt": {
+    "$date": "2025-06-14T11:38:18.043Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f2a0886faf1b851a882"
+  },
+  "chapter_id": {
+    "$oid": "684d5dfe0886faf1b851a6c6"
+  },
+  "verse_no": 35,
+  "sanskrit_script": "यज्ज्ञात्वा न पुनर्मोहमेवं यास्यसि पाण्डव।\\nयेन भूतान्यशेषेण द्रक्ष्यस्यात्मन्यथो मयि॥४.३५॥",
+  "hindi_translation": "हे पाण्डव! जिसे जानकर तुम पुनः मोह को प्राप्त नहीं होगे और जिससे तुम समस्त प्राणियों को आत्मा में तथा फिर मुझमें देखोगे।",
+  "english_translation": "Having obtained real knowledge from a self-realized soul, you will never fall again into such illusion, for by this knowledge you will see that all living beings are part of the Supreme, or, in other words, that they are Mine.",
+  "keywords": [],
+  "who_tell": "Krishna",
+  "whome_to_tell": "Arjuna",
+  "createdAt": {
+    "$date": "2025-06-14T11:38:18.101Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f2a0886faf1b851a884"
+  },
+  "chapter_id": {
+    "$oid": "684d5dfe0886faf1b851a6c6"
+  },
+  "verse_no": 36,
+  "sanskrit_script": "अपि चेदसि पापेभ्यः सर्वेभ्यः पापकृत्तमः।\\nसर्वं ज्ञानप्लवेनैव वृजिनं सन्तरिष्यसि॥४.३६॥",
+  "hindi_translation": "यदि तुम सब पापियों में भी अधिक पापी हो, तो भी ज्ञानरूपी नौका द्वारा तुम समस्त पापों को तर जाओगे।",
+  "english_translation": "Even if you are considered to be the most sinful of all sinners, when you are situated in the boat of transcendental knowledge you will be able to cross over the ocean of miseries.",
+  "keywords": [],
+  "who_tell": "Krishna",
+  "whome_to_tell": "Arjuna",
+  "createdAt": {
+    "$date": "2025-06-14T11:38:18.174Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f2a0886faf1b851a886"
+  },
+  "chapter_id": {
+    "$oid": "684d5dfe0886faf1b851a6c6"
+  },
+  "verse_no": 37,
+  "sanskrit_script": "यथैधांसि समिद्धोऽग्निर्भस्मसात्कुरुतेऽर्जुन।\\nज्ञानाग्निः सर्वकर्माणि भस्मसात्कुरुते तथा॥४.३७॥",
+  "hindi_translation": "हे अर्जुन! जिस प्रकार प्रज्वलित अग्नि ईंधन को भस्म कर देती है, उसी प्रकार ज्ञानाग्नि सभी कर्मों को भस्म कर देती है।",
+  "english_translation": "As a blazing fire turns firewood to ashes, O Arjuna, so does the fire of knowledge burn to ashes all reactions to material activities.",
+  "keywords": [],
+  "who_tell": "Krishna",
+  "whome_to_tell": "Arjuna",
+  "createdAt": {
+    "$date": "2025-06-14T11:38:18.235Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f2a0886faf1b851a888"
+  },
+  "chapter_id": {
+    "$oid": "684d5dfe0886faf1b851a6c6"
+  },
+  "verse_no": 38,
+  "sanskrit_script": "न हि ज्ञानेन सदृशं पवित्रमिह विद्यते।\\nतत्स्वयं योगसंसिद्धः कालेनात्मनि विन्दति॥४.३८॥",
+  "hindi_translation": "इस लोक में ज्ञान के समान पवित्र कुछ भी नहीं है। योगपूर्ण पुरुष कालक्रम से आत्मा में उस ज्ञान को प्राप्त करता है।",
+  "english_translation": "In this world, there is nothing so sublime and pure as transcendental knowledge. Such knowledge is the mature fruit of all mysticism. And one who has achieved this enjoys the self within himself in due course of time.",
+  "keywords": [],
+  "who_tell": "Krishna",
+  "whome_to_tell": "Arjuna",
+  "createdAt": {
+    "$date": "2025-06-14T11:38:18.312Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f2a0886faf1b851a88a"
+  },
+  "chapter_id": {
+    "$oid": "684d5dfe0886faf1b851a6c6"
+  },
+  "verse_no": 39,
+  "sanskrit_script": "श्रद्धावाँल्लभते ज्ञानं तत्परः संयतेन्द्रियः।\\nज्ञानं लब्ध्वा परां शान्तिमचिरेणाधिगच्छति॥४.३९॥",
+  "hindi_translation": "श्रद्धावान्, तत्पर और संयत इन्द्रिय पुरुष ज्ञान को प्राप्त करता है। ज्ञान प्राप्त कर वह शीघ्र ही परम शान्ति को प्राप्त करता है।",
+  "english_translation": "A faithful man who is absorbed in transcendental knowledge and who subdues his senses quickly attains the supreme spiritual peace.",
+  "keywords": [],
+  "who_tell": "Krishna",
+  "whome_to_tell": "Arjuna",
+  "createdAt": {
+    "$date": "2025-06-14T11:38:18.380Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f2a0886faf1b851a88c"
+  },
+  "chapter_id": {
+    "$oid": "684d5dfe0886faf1b851a6c6"
+  },
+  "verse_no": 40,
+  "sanskrit_script": "अज्ञश्चाश्रद्दधानश्च संशयात्मा विनश्यति।\\nनायं लोकोऽस्ति न परो न सुखं संशयात्मनः॥४.४०॥",
+  "hindi_translation": "अज्ञानी, अश्रद्धालु और संशयात्मा पुरुष नष्ट हो जाता है। संशयात्मा के लिए न इस लोक में, न परलोक में सुख है।",
+  "english_translation": "But ignorant and faithless persons who doubt the revealed scriptures do not attain God consciousness. For the doubting soul there is happiness neither in this world nor in the next.",
+  "keywords": [],
+  "who_tell": "Krishna",
+  "whome_to_tell": "Arjuna",
+  "createdAt": {
+    "$date": "2025-06-14T11:38:18.441Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f2a0886faf1b851a88e"
+  },
+  "chapter_id": {
+    "$oid": "684d5dfe0886faf1b851a6c6"
+  },
+  "verse_no": 41,
+  "sanskrit_script": "योगसंन्यस्तकर्माणं ज्ञानसंछिन्नसंशयम्।\\nआत्मवन्तं न कर्माणि निबध्नन्ति धनञ्जय॥४.४१॥",
+  "hindi_translation": "हे धनञ्जय! जिसने योग द्वारा कर्मों का त्याग किया है, जिसके संशय ज्ञान द्वारा छिन्न-भिन्न हो गये हैं और जो आत्मस्थ है, उसे कर्म बाँधते नहीं।",
+  "english_translation": "One who acts in devotional service, renouncing the fruits of his actions, and whose doubts have been destroyed by transcendental knowledge, is situated factually in the self. Thus he is not bound by reactions of work, O Dhananjaya.",
+  "keywords": [],
+  "who_tell": "Krishna",
+  "whome_to_tell": "Arjuna",
+  "createdAt": {
+    "$date": "2025-06-14T11:38:18.503Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d5f2a0886faf1b851a890"
+  },
+  "chapter_id": {
+    "$oid": "684d5dfe0886faf1b851a6c6"
+  },
+  "verse_no": 42,
+  "sanskrit_script": "तस्मादज्ञानसम्भूतं हृत्स्थं ज्ञानासिनात्मनः।\\nछित्त्वैनं संशयं योगमातिष्ठोत्तिष्ठ भारत॥४.४२॥",
+  "hindi_translation": "हे भारत! अतः तुम अज्ञानजनित हृदयस्थ संशय को ज्ञानरूपी तलवार से काटकर योग में स्थित हो जाओ और युद्ध करो।",
+  "english_translation": "Therefore the doubts which have arisen in your heart out of ignorance should be slashed by the weapon of knowledge. Armed with yoga, O Bharata, stand and fight.",
+  "keywords": [],
+  "who_tell": "Krishna",
+  "whome_to_tell": "Arjuna",
+  "createdAt": {
+    "$date": "2025-06-14T11:38:18.551Z"
+  },
+  "__v": 0
+}]

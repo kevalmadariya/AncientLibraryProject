@@ -1,0 +1,552 @@
+  .ancient-verses-container {
+    flex: 1;
+    min-height: 100vh;
+    background-color: #d8c9a8;
+    background-image: url('https://www.transparenttextures.com/patterns/old-paper.png');
+    padding: 2rem;
+    font-family: 'Times New Roman', serif;
+    position: relative;
+  }
+
+  .verses-manuscript {
+    max-width: 900px;
+    margin: 0 auto;
+    background-color: #f5e7c1;
+    background-image:
+      linear-gradient(to bottom, rgba(0, 0, 0, 0.05) 0%, transparent 5%, transparent 95%, rgba(0, 0, 0, 0.05) 100%),
+      url('https://www.transparenttextures.com/patterns/rice-paper.png');
+    border: 3px solid #c9b17a;
+    border-radius: 8px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+    overflow: hidden;
+  }
+
+  .manuscript-header {
+    background: linear-gradient(to bottom, #c9b17a, #a58c5e);
+    padding: 2rem;
+    text-align: center;
+    border-bottom: 3px solid #8a7246;
+  }
+
+  .verses-title {
+    font-family: 'Palatino Linotype', 'Book Antiqua', serif;
+    font-size: 2.2rem;
+    color: #f5e7c1;
+    margin-bottom: 1rem;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+  }
+
+  .verses-scroll-area {
+    padding: 2rem;
+    max-height: 70vh;
+    overflow-y: auto;
+  }
+
+  .ancient-verse-scroll {
+    margin-bottom: 1.5rem;
+    background-color: rgba(255, 255, 255, 0.7);
+    border: 2px solid #c9b17a;
+    border-radius: 6px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    transition: all 0.3s ease;
+  }
+
+  .ancient-verse-scroll:hover {
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+    transform: translateY(-2px);
+  }
+
+  .verse-header-parchment {
+    background: linear-gradient(to right, #f5e7c1, #ede0c4, #f5e7c1);
+    border-bottom: 1px solid #c9b17a;
+    padding: 1rem 1.5rem;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    position: relative;
+  }
+
+  .verse-header-parchment::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    width: 4px;
+    background: linear-gradient(to bottom, #8a7246, #c9b17a, #8a7246);
+  }
+
+  .verse-header-content {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  .verse-title-section {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    flex: 1;
+  }
+
+  .verse-number {
+    font-weight: bold;
+    color: #5a4a21;
+    font-size: 1.1rem;
+    min-width: 100px;
+  }
+
+  .sanskrit-preview {
+    color: #3a2c0e;
+    font-size: 1rem;
+    font-family: 'Devanagari', 'Noto Sans Devanagari', serif;
+    font-style: italic;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    max-width: 400px;
+  }
+
+  .verse-content-manuscript {
+    padding: 1.5rem;
+    background-color: rgba(245, 231, 193, 0.5);
+    background-image: url('https://www.transparenttextures.com/patterns/rice-paper.png');
+  }
+
+  .sanskrit-text {
+    font-family: 'Devanagari', 'Noto Sans Devanagari', serif;
+    font-size: 1.3rem;
+    line-height: 1.8;
+    color: #2c1810;
+    margin-bottom: 1.5rem;
+    padding: 1rem;
+    background: rgba(255, 255, 255, 0.6);
+    border: 1px solid #c9b17a;
+    border-radius: 4px;
+    white-space: pre-line;
+  }
+
+  .translation-controls {
+    display: flex;
+    gap: 1rem;
+    margin-bottom: 1rem;
+  }
+
+  .translation-btn {
+    padding: 0.5rem 1rem;
+    border: 1px solid #c9b17a;
+    background: linear-gradient(to bottom, #f5e7c1, #ede0c4);
+    color: #5a4a21;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+  }
+
+  .translation-btn.active {
+    background: linear-gradient(to bottom, #8a7246, #6b5a3a);
+    color: #f5e7c1;
+  }
+
+  .translation-text {
+    background: rgba(255, 255, 255, 0.6);
+    padding: 1rem;
+    border: 1px solid #c9b17a;
+    border-radius: 4px;
+    line-height: 1.6;
+    margin-bottom: 1rem;
+  }
+
+  .interpretation-section {
+    background: rgba(245, 231, 193, 0.8);
+    padding: 1rem;
+    border-left: 4px solid #8a7246;
+    margin-bottom: 1.5rem;
+    font-style: italic;
+  }
+
+  .verse-details {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1rem;
+    margin-bottom: 1.5rem;
+  }
+
+  .detail-item {
+    display: flex;
+    flex-direction: column;
+    gap: 0.3rem;
+  }
+
+  .detail-label {
+    font-weight: bold;
+    color: #5a4a21;
+    font-size: 0.9rem;
+  }
+
+  .detail-value {
+    color: #3a2c0e;
+  }
+
+  .media-controls {
+    display: flex;
+    gap: 1rem;
+    margin-bottom: 1.5rem;
+  }
+
+  .media-btn {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.6rem 1.2rem;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-family: 'Palatino Linotype', 'Book Antiqua', serif;
+    transition: all 0.3s ease;
+  }
+
+  .audio-btn {
+    background: linear-gradient(to bottom, #8a7246, #6b5a3a);
+    color: #f5e7c1;
+  }
+
+  .video-btn {
+    background: linear-gradient(to bottom, #a52a2a, #8b1a1a);
+    color: #f5e7c1;
+  }
+
+  .video-player {
+    margin-bottom: 1rem;
+    border: 2px solid #c9b17a;
+    border-radius: 4px;
+    overflow: hidden;
+  }
+
+  .video-player iframe {
+    width: 100%;
+    height: 300px;
+  }
+
+  .comments-section {
+    border-top: 2px solid #c9b17a;
+    padding-top: 1rem;
+  }
+
+  .comments-header {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    margin-bottom: 1rem;
+    cursor: pointer;
+    color: #5a4a21;
+    font-weight: bold;
+  }
+
+  .comment-input {
+    display: flex;
+    gap: 0.5rem;
+    margin-bottom: 1rem;
+  }
+
+  .comment-text-input {
+    flex: 1;
+    padding: 0.5rem;
+    border: 1px solid #c9b17a;
+    border-radius: 4px;
+    font-family: 'Times New Roman', serif;
+  }
+
+  .comment-submit-btn {
+    padding: 0.5rem 1rem;
+    background: linear-gradient(to bottom, #8a7246, #6b5a3a);
+    color: #f5e7c1;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+
+  .comment-item {
+    background: rgba(255, 255, 255, 0.5);
+    padding: 0.8rem;
+    border: 1px solid #c9b17a;
+    border-radius: 4px;
+    margin-bottom: 0.5rem;
+  }
+
+  .comment-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 0.5rem;
+  }
+
+  .comment-user {
+    font-weight: bold;
+    color: #5a4a21;
+  }
+
+  .comment-timestamp {
+    color: #8a7246;
+    font-size: 0.8rem;
+  }
+
+  .comment-actions {
+    display: flex;
+    gap: 1rem;
+    margin-top: 0.5rem;
+  }
+
+  .comment-action-btn {
+    display: flex;
+    align-items: center;
+    gap: 0.3rem;
+    background: none;
+    border: none;
+    color: #8a7246;
+    cursor: pointer;
+    font-size: 0.8rem;
+  }
+
+  .verse-actions {
+    display: flex;
+    gap: 1rem;
+    justify-content: flex-end;
+    padding-top: 1rem;
+    border-top: 1px solid #c9b17a;
+  }
+
+  .ancient-edit-btn,
+  .ancient-delete-btn {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.6rem 1.2rem;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-family: 'Palatino Linotype', 'Book Antiqua', serif;
+    font-size: 0.9rem;
+    transition: all 0.3s ease;
+  }
+
+  .ancient-edit-btn {
+    background: linear-gradient(to bottom, #8a7246, #6b5a3a);
+    color: #f5e7c1;
+  }
+
+  .ancient-delete-btn {
+    background: linear-gradient(to bottom, #a52a2a, #8b1a1a);
+    color: #f5e7c1;
+  }
+
+  .verse-form-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.5);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 1000;
+    padding: 2rem;
+  }
+
+  .verse-manuscript-form {
+    background-color: #f5e7c1;
+    border: 3px solid #c9b17a;
+    border-radius: 8px;
+    padding: 2rem;
+    max-width: 600px;
+    width: 100%;
+    max-height: 80vh;
+    overflow-y: auto;
+  }
+
+  .form-title {
+    font-family: 'Palatino Linotype', 'Book Antiqua', serif;
+    font-size: 1.5rem;
+    color: #5a4a21;
+    margin-bottom: 1.5rem;
+    text-align: center;
+  }
+
+  .form-group {
+    margin-bottom: 1rem;
+  }
+
+  .form-label {
+    display: block;
+    font-weight: bold;
+    color: #5a4a21;
+    margin-bottom: 0.5rem;
+  }
+
+  .form-input,
+  .form-textarea {
+    width: 100%;
+    padding: 0.7rem;
+    border: 1px solid #c9b17a;
+    border-radius: 4px;
+    font-family: 'Times New Roman', serif;
+    background: rgba(255, 255, 255, 0.8);
+  }
+
+  .form-textarea {
+    min-height: 80px;
+    resize: vertical;
+  }
+
+  .form-actions {
+    display: flex;
+    gap: 1rem;
+    justify-content: flex-end;
+    margin-top: 1.5rem;
+  }
+
+  .form-save-btn,
+  .form-cancel-btn {
+    padding: 0.8rem 1.5rem;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-family: 'Palatino Linotype', 'Book Antiqua', serif;
+  }
+
+  .form-save-btn {
+    background: linear-gradient(to bottom, #8a7246, #6b5a3a);
+    color: #f5e7c1;
+  }
+
+  .form-cancel-btn {
+    background: linear-gradient(to bottom, #999, #777);
+    color: white;
+  }
+
+  .add-verse-fixed-btn {
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+    background: linear-gradient(to bottom, #8a7246, #6b5a3a);
+    color: #f5e7c1;
+    border: 3px solid #c9b17a;
+    border-radius: 50%;
+    width: 60px;
+    height: 60px;
+    font-size: 1.2rem;
+    cursor: pointer;
+    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.3);
+    z-index: 999;
+    transition: all 0.3s ease;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .add-verse-fixed-btn:hover {
+    transform: translateY(-3px) scale(1.05);
+    box-shadow: 0 8px 25px rgba(0, 0, 0, 0.4);
+  }
+
+  @media (max-width: 768px) {
+    .ancient-verses-container {
+      padding: 1rem;
+    }
+
+    .verse-details {
+      grid-template-columns: 1fr;
+    }
+
+    .media-controls {
+      flex-direction: column;
+    }
+
+    .translation-controls {
+      flex-direction: column;
+    }
+  }
+
+  .comment-list-scroll {
+    max-height: 300px;
+    /* or any height you prefer */
+    overflow-y: auto;
+    padding-right: 8px;
+    margin-top: 10px;
+    scrollbar-width: thin;
+    /* For Firefox */
+  }
+
+  .comment-list-scroll::-webkit-scrollbar {
+    width: 6px;
+  }
+
+  .comment-list-scroll::-webkit-scrollbar-thumb {
+    background-color: rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+  }
+
+  /* Ancient Style Button */
+  .ancient-btn {
+    background-color: #d4c1a3;
+    border: 2px solid #8b6f47;
+    padding: 10px 20px;
+    font-family: 'Garamond', serif;
+    font-size: 16px;
+    color: #3e2f1c;
+    border-radius: 8px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
+    cursor: pointer;
+    transition: background 0.3s;
+  }
+
+  .ancient-btn:hover {
+    background-color: #cbb38d;
+  }
+
+  /* Form Container */
+  .upload-container {
+    background: url('https://www.transparenttextures.com/patterns/aged-paper.png');
+    background-color: #f3e8d2;
+    padding: 20px;
+    margin-top: 20px;
+    border: 2px solid #a0845c;
+    border-radius: 10px;
+    font-family: 'Georgia', serif;
+    color: #4b3a28;
+  }
+
+  /* Ancient Form */
+  .ancient-form label {
+    font-weight: bold;
+    font-size: 14px;
+  }
+
+  .ancient-form input[type='file'] {
+    margin-top: 8px;
+    font-family: 'Courier New', monospace;
+    background-color: #f8f0dc;
+    border: 1px solid #a28c6d;
+    padding: 5px;
+    border-radius: 5px;
+  }
+
+  /* Field Guide Paragraph */
+  .field-guidance {
+    margin-top: 15px;
+    font-size: 14px;
+  }
+
+  .field-guidance ul {
+    list-style-type: square;
+    padding-left: 20px;
+    margin-top: 5px;
+  }
+
+  .field-guidance li {
+    margin-bottom: 5px;
+  }

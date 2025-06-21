@@ -1,0 +1,61 @@
+/* src/components/Home.css */
+:root {
+  --bg-color: #fff5e1;
+  --text-color: #a65300;
+  --primary-color: #d46a00;
+  --primary-dark: #b35a00;
+  --highlight-color: #f4d88a;
+}
+
+.home-container {
+  font-family: 'Georgia', serif;
+  background-color: #fef9f1;
+  color: #2c2c2c;
+  min-height: 100vh;
+  padding: 2rem;
+  text-align: center;
+
+  /* Add this line */
+  margin-top: 80px; /* Adjust this depending on your navbar height */
+}
+
+.home-header {
+    background-color: #d8c3a5;
+    padding: 2rem;
+    border-radius: 12px;
+    margin-bottom: 2rem;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.welcome-text {
+    font-size: 1.5rem;
+    margin-top: 1rem;
+    color: #4b3832;
+}
+
+.home-main .intro h2 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+}
+
+.home-main .intro p {
+    max-width: 600px;
+    margin: 0 auto 2rem;
+    font-size: 1.1rem;
+}
+
+.actions button {
+    background-color: #855e42;
+    color: white;
+    padding: 0.8rem 1.5rem;
+    margin: 0.5rem;
+    border: none;
+    border-radius: 8px;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background 0.3s ease;
+}
+
+.actions button:hover {
+    background-color: #5e3f2c;
+}

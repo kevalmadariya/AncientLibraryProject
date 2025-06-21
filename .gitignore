@@ -1,0 +1,20 @@
+# Ignore node_modules in any folder
+**/node_modules/
+
+# Ignore .env files in any folder
+**/.env
+
+# Ignore build and logs
+**/build/
+**/dist/
+*.log
+# OS and IDE files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+# Ignore lock files if preferred (optional based on team strategy)
+# package-lock.json
+# yarn.lock
+
+tempfiles/

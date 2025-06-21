@@ -1,0 +1,23 @@
+/* src/components/AudioPlayer/AudioPlayer.css */
+.audio-player-container {
+    margin: 10px 0;
+    padding: 8px;
+    background-color: #fdf6e3;
+    border: 1px solid #c2a77b;
+    border-radius: 8px;
+}
+
+.audio-controls {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.seek-bar {
+    flex-grow: 1;
+}
+
+.time-display {
+    font-size: 0.9rem;
+    color: #5a4d3f;
+}

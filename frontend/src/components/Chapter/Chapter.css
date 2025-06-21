@@ -1,0 +1,489 @@
+/* Ancient Chapters Container */
+.ancient-chapters-container {
+    flex: 1;
+    min-height: 100vh;
+    background-color: #d8c9a8;
+    background-image: url('https://www.transparenttextures.com/patterns/old-paper.png');
+    padding: 2rem;
+    font-family: 'Times New Roman', serif;
+    position: relative;
+}
+
+.chapters-manuscript {
+    max-width: 800px;
+    margin: 0 auto;
+    background-color: #f5e7c1;
+    background-image: 
+        linear-gradient(to bottom, rgba(0, 0, 0, 0.05) 0%, transparent 5%, transparent 95%, rgba(0, 0, 0, 0.05) 100%),
+        url('https://www.transparenttextures.com/patterns/rice-paper.png');
+    border: 3px solid #c9b17a;
+    border-radius: 8px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+    overflow: hidden;
+}
+
+/* Manuscript Header */
+.manuscript-header {
+    background: linear-gradient(to bottom, #c9b17a, #a58c5e);
+    padding: 2rem;
+    text-align: center;
+    border-bottom: 3px solid #8a7246;
+}
+
+.chapters-title {
+    font-family: 'Palatino Linotype', 'Book Antiqua', serif;
+    font-size: 2.2rem;
+    color: #f5e7c1;
+    margin-bottom: 1rem;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+}
+
+.title-icon {
+    font-size: 1.8rem;
+}
+
+.illuminated-divider {
+    height: 3px;
+    background: linear-gradient(to right, transparent, #f5e7c1, transparent);
+    margin: 0 auto;
+    width: 60%;
+    border-radius: 2px;
+}
+
+/* Chapters Scroll Area */
+.chapters-scroll-area {
+    padding: 2rem;
+    max-height: 70vh;
+    overflow-y: auto;
+}
+
+.chapters-scroll-area::-webkit-scrollbar {
+    width: 12px;
+}
+
+.chapters-scroll-area::-webkit-scrollbar-track {
+    background: #f5e7c1;
+    border-radius: 6px;
+}
+
+.chapters-scroll-area::-webkit-scrollbar-thumb {
+    background: #c9b17a;
+    border-radius: 6px;
+    border: 2px solid #f5e7c1;
+}
+
+.chapters-scroll-area::-webkit-scrollbar-thumb:hover {
+    background: #8a7246;
+}
+
+/* Chapter Scroll Item */
+.ancient-chapter-scroll {
+    margin-bottom: 1.5rem;
+    background-color: rgba(255, 255, 255, 0.7);
+    border: 2px solid #c9b17a;
+    border-radius: 6px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    transition: all 0.3s ease;
+}
+
+.ancient-chapter-scroll:hover {
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+    transform: translateY(-2px);
+}
+
+.ancient-chapter-scroll.adding-chapter,
+.ancient-chapter-scroll.editing-chapter {
+    border-color: #8a7246;
+    box-shadow: 0 6px 15px rgba(139, 114, 70, 0.2);
+}
+
+/* Chapter Header */
+.chapter-header-parchment {
+    background: linear-gradient(to right, #f5e7c1, #ede0c4, #f5e7c1);
+    border-bottom: 1px solid #c9b17a;
+    padding: 1rem 1.5rem;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    position: relative;
+}
+
+.chapter-header-parchment::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    width: 4px;
+    background: linear-gradient(to bottom, #8a7246, #c9b17a, #8a7246);
+}
+
+.chapter-header-parchment:hover {
+    background: linear-gradient(to right, #ede0c4, #e3d5b8, #ede0c4);
+}
+
+.chapter-header-content {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.chapter-title-section {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    flex: 1;
+}
+
+.expand-icon {
+    color: #8a7246;
+    font-size: 1rem;
+    transition: transform 0.3s ease;
+}
+
+.chapter-number {
+    font-weight: bold;
+    color: #5a4a21;
+    font-size: 1.1rem;
+    min-width: 100px;
+}
+
+.chapter-name {
+    color: #3a2c0e;
+    font-size: 1.1rem;
+    font-family: 'Palatino Linotype', 'Book Antiqua', serif;
+}
+
+.scroll-icon {
+    color: #8a7246;
+    font-size: 1.2rem;
+}
+
+/* Chapter Content */
+.chapter-content-manuscript {
+    padding: 1.5rem;
+    background-color: rgba(245, 231, 193, 0.5);
+    background-image: url('https://www.transparenttextures.com/patterns/rice-paper.png');
+}
+
+.chapter-details {
+    margin-bottom: 1.5rem;
+}
+
+.detail-row {
+    display: flex;
+    margin-bottom: 1rem;
+    align-items: flex-start;
+}
+
+.detail-row.description-row {
+    flex-direction: column;
+    gap: 0.5rem;
+}
+
+.detail-label {
+    font-weight: bold;
+    color: #5a4a21;
+    min-width: 100px;
+    margin-right: 1rem;
+}
+
+.detail-value {
+    color: #3a2c0e;
+    flex: 1;
+}
+
+.description-text {
+    font-style: italic;
+    line-height: 1.6;
+    padding: 0.5rem 0;
+}
+
+/* Chapter Actions */
+.chapter-actions {
+    display: flex;
+    gap: 1rem;
+    justify-content: flex-end;
+    padding-top: 1rem;
+    border-top: 1px solid #c9b17a;
+}
+
+.ancient-edit-btn,
+.ancient-delete-btn {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.6rem 1.2rem;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-family: 'Palatino Linotype', 'Book Antiqua', serif;
+    font-size: 0.9rem;
+    transition: all 0.3s ease;
+}
+
+.ancient-edit-btn {
+    background: linear-gradient(to bottom, #8a7246, #6b5a3a);
+    color: #f5e7c1;
+}
+
+.ancient-edit-btn:hover {
+    background: linear-gradient(to bottom, #9d8350, #7b6742);
+    transform: translateY(-1px);
+}
+
+.ancient-delete-btn {
+    background: linear-gradient(to bottom, #a52a2a, #8b1a1a);
+    color: #f5e7c1;
+}
+
+.ancient-delete-btn:hover {
+    background: linear-gradient(to bottom, #c23232, #a52a2a);
+    transform: translateY(-1px);
+}
+
+/* Chapter Form */
+.chapter-manuscript-form {
+    background-color: rgba(245, 231, 193, 0.9);
+    border-radius: 6px;
+    overflow: hidden;
+}
+
+.form-illuminated-border {
+    border: 2px solid #c9b17a;
+    border-radius: 4px;
+    background: linear-gradient(45deg, 
+        rgba(245, 231, 193, 0.8) 0%, 
+        rgba(201, 177, 122, 0.2) 50%, 
+        rgba(245, 231, 193, 0.8) 100%);
+}
+
+.ancient-chapter-form {
+    padding: 1.5rem;
+    display: flex;
+    flex-direction: column;
+    gap: 1.2rem;
+}
+
+.form-group {
+    position: relative;
+}
+
+.quill-label {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    font-weight: bold;
+    color: #5a4a21;
+    margin-bottom: 0.5rem;
+    font-size: 0.95rem;
+}
+
+.required-symbol {
+    color: #a52a2a;
+}
+
+.ancient-input,
+.ancient-textarea {
+    width: 100%;
+    padding: 0.7rem 1rem;
+    background-color: rgba(255, 255, 255, 0.8);
+    border: 1px solid #c9b17a;
+    border-radius: 3px;
+    font-family: 'Times New Roman', serif;
+    font-size: 0.95rem;
+    color: #3a2c0e;
+    box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease;
+}
+
+.ancient-input:focus,
+.ancient-textarea:focus {
+    outline: none;
+    border-color: #8a7246;
+    background-color: rgba(255, 255, 255, 0.95);
+    box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.1), 0 0 0 2px rgba(139, 114, 70, 0.2);
+}
+
+.ancient-textarea {
+    resize: vertical;
+    min-height: 80px;
+}
+
+.ancient-error {
+    display: block;
+    color: #a52a2a;
+    font-size: 0.8rem;
+    margin-top: 0.3rem;
+    font-style: italic;
+}
+
+.form-group.invalid .ancient-input,
+.form-group.invalid .ancient-textarea {
+    border-color: #a52a2a;
+    background-color: rgba(255, 230, 230, 0.8);
+}
+
+/* Form Actions */
+.form-actions {
+    display: flex;
+    gap: 1rem;
+    justify-content: flex-end;
+    margin-top: 1rem;
+}
+
+.scribe-save-btn,
+.scribe-cancel-btn {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.8rem 1.5rem;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-family: 'Palatino Linotype', 'Book Antiqua', serif;
+    font-size: 0.95rem;
+    transition: all 0.3s ease;
+}
+
+.scribe-save-btn {
+    background: linear-gradient(to bottom, #8a7246, #6b5a3a);
+    color: #f5e7c1;
+}
+
+.scribe-save-btn:hover {
+    background: linear-gradient(to bottom, #9d8350, #7b6742);
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.scribe-cancel-btn {
+    background: linear-gradient(to bottom, #999, #777);
+    color: white;
+}
+
+.scribe-cancel-btn:hover {
+    background: linear-gradient(to bottom, #aaa, #888);
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+/* Fixed Add Chapter Button */
+.add-chapter-fixed-btn {
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+    background: linear-gradient(to bottom, #8a7246, #6b5a3a);
+    color: #f5e7c1;
+    border: 3px solid #c9b17a;
+    border-radius: 50%;
+    width: 60px;
+    height: 60px;
+    font-size: 1.2rem;
+    cursor: pointer;
+    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.3);
+    z-index: 1000;
+    transition: all 0.3s ease;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+    font-family: 'Palatino Linotype', 'Book Antiqua', serif;
+    font-weight: bold;
+}
+
+.add-chapter-fixed-btn:hover:not(:disabled) {
+    background: linear-gradient(to bottom, #9d8350, #7b6742);
+    transform: translateY(-3px) scale(1.05);
+    box-shadow: 0 8px 25px rgba(0, 0, 0, 0.4);
+}
+
+.add-chapter-fixed-btn:disabled {
+    opacity: 0.6;
+    cursor: not-allowed;
+    transform: none;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .ancient-chapters-container {
+        padding: 1rem;
+    }
+
+    .chapters-manuscript {
+        border-radius: 4px;
+    }
+
+    .manuscript-header {
+        padding: 1.5rem 1rem;
+    }
+
+    .chapters-title {
+        font-size: 1.8rem;
+        flex-direction: column;
+        gap: 0.5rem;
+    }
+
+    .chapters-scroll-area {
+        padding: 1rem;
+        max-height: 60vh;
+    }
+
+    .chapter-header-parchment {
+        padding: 0.8rem 1rem;
+    }
+
+    .chapter-title-section {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 0.5rem;
+    }
+
+    .chapter-actions {
+        flex-direction: column;
+        gap: 0.8rem;
+    }
+
+    .ancient-edit-btn,
+    .ancient-delete-btn {
+        justify-content: center;
+    }
+
+    .form-actions {
+        flex-direction: column;
+    }
+
+    .add-chapter-fixed-btn {
+        width: 50px;
+        height: 50px;
+        font-size: 1rem;
+        bottom: 20px;
+        right: 20px;
+    }
+}
+
+@media (max-width: 480px) {
+    .chapter-number {
+        min-width: auto;
+        font-size: 1rem;
+    }
+
+    .chapter-name {
+        font-size: 1rem;
+    }
+
+    .detail-row {
+        flex-direction: column;
+        gap: 0.3rem;
+        margin-bottom: 0.8rem;
+    }
+
+    .detail-label {
+        min-width: auto;
+        margin-right: 0;
+    }
+}
