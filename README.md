@@ -150,17 +150,7 @@ The application uses JWT tokens for secure authentication:
 ## 🎯 Key Features Deep Dive
 ### 1. Media Integration
 - Upload audio recordings of verse recitations
-- Video explanations and commentaries
-- Synchronization between text and media
-- Streaming support for large files
-
-## 📊 Performance Metrics
-
-The AI prediction system achieves:
-- **Accuracy**: 85%+ relevant verse suggestions
-- **Speed**: <500ms response time for predictions
-- **Scalability**: Handles 10,000+ verses efficiently
-- **Memory Usage**: Optimized embeddings storage
+- Video (youtube video link) explanations and commentaries
 
 ## 🤝 Contributing
 
