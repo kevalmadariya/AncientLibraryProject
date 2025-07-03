@@ -106,38 +106,6 @@ The application includes the following key screens:
 4. **Similarity Matching**: System finds verses with similar semantic meaning
 5. **Ranked Results**: Verses are ranked by relevance and presented to the user
 
-## 📂 Data Management
-
-### Supported Import Formats
-
-#### CSV Format
-```csv
-scripture_name,chapter_number,verse_number,hindi_text,english_text,tags
-Bhagavad Gita,1,1,"धृतराष्ट्र उवाच...","Dhritarashtra said...",dharma,war,duty
-```
-
-#### JSON Format
-```json
-{
-  "scripture": "Bhagavad Gita",
-  "chapters": [
-    {
-      "number": 1,
-      "verses": [
-        {
-          "number": 1,
-          "hindi": "धृतराष्ट्र उवाच...",
-          "english": "Dhritarashtra said...",
-          "tags": ["dharma", "war", "duty"],
-          "audio_url": "optional",
-          "video_url": "optional"
-        }
-      ]
-    }
-  ]
-}
-```
-
 ## 🔐 Authentication
 
 The application uses JWT tokens for secure authentication:
